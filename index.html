@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#44236d">
+  <title>Leadership și management educațional — Capitolul 1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="eyebrow">CONCURS DIRECTORI 2026 · TONY BUSH</div>
+      <h1>Leadership și management educațional</h1>
+      <p>Capitolul 1 · 13 materiale audio · 130 de itemi de antrenament</p>
+    </div>
+    <div class="hero-stat"><strong id="globalScore">0%</strong><span>progres general</span></div>
+  </div>
+</header>
+
+<main class="layout">
+  <aside class="sidebar">
+    <div class="sidebar-head">
+      <h2>Materiale audio</h2>
+      <p>Alege o secțiune, ascultă materialul și rezolvă cei 10 itemi.</p>
+    </div>
+    <div id="moduleList" class="module-list"></div>
+  </aside>
+
+  <section class="content">
+    <div id="welcome" class="panel welcome">
+      <span class="badge">CAPITOLUL 1</span>
+      <h2>Parcurgere etapizată: ascultare → verificare → consolidare</h2>
+      <p>Fiecare material audio are un set distinct de 10 itemi cu un singur răspuns corect. După alegerea răspunsului primești feedback explicativ imediat.</p>
+      <div class="facts">
+        <div><strong>13</strong><span>materiale audio</span></div>
+        <div><strong>130</strong><span>itemi</span></div>
+        <div><strong>1</strong><span>răspuns corect / item</span></div>
+      </div>
+      <button class="primary" onclick="openModule(0)">Începe cu 1.1</button>
+    </div>
+
+    <div id="moduleView" class="hidden">
+      <div class="panel lesson-head">
+        <div>
+          <span id="moduleCode" class="badge"></span>
+          <h2 id="moduleTitle"></h2>
+          <p class="muted">Ascultă materialul înainte de test. Progresul este salvat local în browser.</p>
+        </div>
+        <div class="scorebox"><strong id="moduleScore">0/10</strong><span>scor curent</span></div>
+      </div>
+
+      <div class="panel audio-card">
+        <div class="audio-label">MATERIAL AUDIO</div>
+        <audio id="audioPlayer" controls preload="metadata"></audio>
+      </div>
+
+      <div class="quiz-top">
+        <div>
+          <h3>Test de verificare</h3>
+          <p id="questionCounter" class="muted"></p>
+        </div>
+        <button id="resetBtn" class="ghost">Reia testul</button>
+      </div>
+      <div id="quiz"></div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>Bază teoretică: Tony Bush, <em>Leadership și management educațional. Teorii și practici actuale</em>, cap. 1. Format de antrenament: itemi cu un singur răspuns corect.</p>
+</footer>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
