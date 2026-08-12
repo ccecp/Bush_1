@@ -2,7 +2,7 @@ window.MODULES = [
   {
     "id": "1.1",
     "title": "Ce este managementul educațional",
-    "audio": "audio/1_1.m4a",
+    "audio": "1_1.m4a",
     "questions": [
       {
         "q": "Care formulare surprinde cel mai bine managementul educațional în sensul prezentat de Tony Bush?",
@@ -129,7 +129,7 @@ window.MODULES = [
   {
     "id": "1.2",
     "title": "Obiectivele formale",
-    "audio": "audio/1_2.m4a",
+    "audio": "1_2.m4a",
     "questions": [
       {
         "q": "Cum sunt adesea formulate obiectivele formale ale instituțiilor de învățământ?",
@@ -256,7 +256,7 @@ window.MODULES = [
   {
     "id": "1.3",
     "title": "Obiective organizaționale sau individuale",
-    "audio": "audio/1_3.m4a",
+    "audio": "1_3.m4a",
     "questions": [
       {
         "q": "Care este opoziția centrală discutată în această secțiune?",
@@ -383,7 +383,7 @@ window.MODULES = [
   {
     "id": "1.4",
     "title": "Stabilirea obiectivelor",
-    "audio": "audio/1_4.m4a",
+    "audio": "1_4.m4a",
     "questions": [
       {
         "q": "Unde plasează Bush procesul de determinare a obiectivelor organizației?",
@@ -510,7 +510,7 @@ window.MODULES = [
   {
     "id": "1.5",
     "title": "Ce este leadershipul educațional",
-    "audio": "audio/1_5.m4a",
+    "audio": "1_5.m4a",
     "questions": [
       {
         "q": "Ce evoluție terminologică descrie Gunter în domeniu?",
@@ -637,7 +637,7 @@ window.MODULES = [
   {
     "id": "1.5.1",
     "title": "Leadershipul ca influență",
-    "audio": "audio/1_5_1.m4a",
+    "audio": "1_5_1.m4a",
     "questions": [
       {
         "q": "Care este conceptul de bază al leadershipului în această perspectivă?",
@@ -764,7 +764,7 @@ window.MODULES = [
   {
     "id": "1.5.2",
     "title": "Leadershipul și valorile",
-    "audio": "audio/1_5_2.m4a",
+    "audio": "1_5_2.m4a",
     "questions": [
       {
         "q": "De ce este noțiunea de „influență” considerată neutră?",
@@ -891,7 +891,7 @@ window.MODULES = [
   {
     "id": "1.5.3",
     "title": "Leadershipul și viziunea",
-    "audio": "audio/1_5_3.m4a",
+    "audio": "1_5_3.m4a",
     "questions": [
       {
         "q": "Viziunea este considerată de peste două decenii:",
@@ -1018,7 +1018,7 @@ window.MODULES = [
   {
     "id": "1.6",
     "title": "Diferența dintre leadership și management educațional",
-    "audio": "audio/1_6.m4a",
+    "audio": "1_6.m4a",
     "questions": [
       {
         "q": "În distincția lui Cuban, leadershipul este asociat mai ales cu:",
@@ -1145,7 +1145,7 @@ window.MODULES = [
   {
     "id": "1.7",
     "title": "Perspectivă cronologică asupra leadershipului",
-    "audio": "audio/1_7.m4a",
+    "audio": "1_7.m4a",
     "questions": [
       {
         "q": "Unde au început să se contureze originile managementului educațional ca disciplină distinctă?",
@@ -1272,7 +1272,7 @@ window.MODULES = [
   {
     "id": "1.8",
     "title": "Descentralizarea și autonomia în management",
-    "audio": "audio/1_8.m4a",
+    "audio": "1_8.m4a",
     "questions": [
       {
         "q": "Ce caracterizează un sistem educațional puternic centralizat?",
@@ -1399,7 +1399,7 @@ window.MODULES = [
   {
     "id": "1.9",
     "title": "Importanța contextului educațional",
-    "audio": "audio/1_9.m4a",
+    "audio": "1_9.m4a",
     "questions": [
       {
         "q": "Din ce tip de surse a derivat inițial managementul educațional?",
@@ -1526,7 +1526,7 @@ window.MODULES = [
   {
     "id": "1.10",
     "title": "Leadershipul instruirii",
-    "audio": "audio/1_10.m4a",
+    "audio": "1_10.m4a",
     "questions": [
       {
         "q": "Pe ce se concentrează leadershipul instruirii?",
