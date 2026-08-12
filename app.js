@@ -1,7 +1,17 @@
 
 const modules = window.MODULES;
 let current = 0;
-const state = JSON.parse(localStorage.getItem('bushCap1State') || '{}');
+let state = {};
+try {
+  state = JSON.parse(localStorage.getItem('bushCap1State') || '{}') || {};
+} catch(e) {
+  state = {};
+}
+// Curăță valori vechi/invalide care pot bloca opțiunile.
+Object.keys(state).forEach(k => {
+  if (!Number.isInteger(state[k]) || state[k] < 0 || state[k] > 3) delete state[k];
+});
+localStorage.setItem('bushCap1State', JSON.stringify(state));
 
 function save(){ localStorage.setItem('bushCap1State', JSON.stringify(state)); }
 function key(mid, qi){ return mid + ':' + qi; }
@@ -10,7 +20,7 @@ function buildMenu(){
   const box=document.getElementById('moduleList'); box.innerHTML='';
   modules.forEach((m,i)=>{
     let answered=0, correct=0;
-    m.questions.forEach((qq,qi)=>{let v=state[key(m.id,qi)]; if(v!==undefined){answered++; if(v===qq.answer) correct++;}});
+    m.questions.forEach((qq,qi)=>{let v=state[key(m.id,qi)]; if(Number.isInteger(v)){answered++; if(v===qq.answer) correct++;}});
     const b=document.createElement('button'); b.className='module-btn'+(i===current&&!document.getElementById('moduleView').classList.contains('hidden')?' active':'');
     b.innerHTML=`<span class="code">${m.id}</span><span class="title">${m.title}</span><span class="done">${answered}/10</span>`;
     b.onclick=()=>openModule(i); box.appendChild(b);
@@ -19,7 +29,7 @@ function buildMenu(){
 }
 function updateGlobal(){
   let answered=0, correct=0;
-  modules.forEach(m=>m.questions.forEach((qq,qi)=>{let v=state[key(m.id,qi)];if(v!==undefined){answered++; if(v===qq.answer)correct++;}}));
+  modules.forEach(m=>m.questions.forEach((qq,qi)=>{let v=state[key(m.id,qi)];if(Number.isInteger(v)){answered++; if(v===qq.answer)correct++;}}));
   document.getElementById('globalScore').textContent = answered ? Math.round(correct/130*100)+'%' : '0%';
 }
 function openModule(i){
@@ -35,7 +45,7 @@ function renderQuiz(){
   const m=modules[current], box=document.getElementById('quiz'); box.innerHTML='';
   let answered=0, correct=0;
   m.questions.forEach((qq,qi)=>{
-    const chosen=state[key(m.id,qi)];
+    const rawChosen=state[key(m.id,qi)]; const chosen=Number.isInteger(rawChosen)?rawChosen:undefined;
     if(chosen!==undefined){answered++; if(chosen===qq.answer)correct++;}
     const card=document.createElement('div'); card.className='question';
     const head=document.createElement('div'); head.className='qhead';
