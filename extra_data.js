@@ -43,6 +43,12 @@ make("2.6","Modele de management educațional: introducere","2_6.m4a",[
 ["modelul colegial","accentuează participarea și responsabilitatea împărtășită",["presupune decizie exclusiv unilaterală","elimină colaborarea","se bazează doar pe conflict"],"Colegiul și participarea sunt elemente centrale."],
 ["cele șase modele","sunt formal, colegial, politic, subiectiv, de ambiguitate și cultural",["sunt doar formal și informal","sunt trei modele fixe","sunt exclusiv modele de leadership"],"Aceasta este tipologia integratoare folosită de Bush."]
 ]),
+make("2.6.1","Analiza modelelor","2_6_1.m4a",[
+["analiza modelelor","compară perspectivele după elementele pe care le accentuează și limitele lor",["impune o singură perspectivă în orice context","elimină nevoia de comparație","transformă modelele în reguli fixe"],"Modelele sunt lentile de analiză, fiecare cu accente și limite proprii."],
+["folosirea unui model","ajută la selectarea aspectelor relevante ale organizației",["descrie exhaustiv întreaga realitate","exclude contextul instituției","înlocuiește judecata profesională"],"Un model selectează și organizează anumite dimensiuni ale realității."],
+["compararea modelelor","evidențiază diferențe de accent între structură, participare, putere, sensuri, ambiguitate și cultură",["demonstrează că toate modelele sunt identice","face inutil pluralismul","reduce analiza la organigramă"],"Tipologia lui Bush permite compararea unor perspective diferite asupra organizației."],
+["alegerea perspectivei","depinde de problema și contextul care trebuie înțelese",["se face întotdeauna în favoarea aceluiași model","nu depinde de situație","exclude combinarea perspectivelor"],"Utilitatea unei perspective depinde de situația analizată."]
+]),
 make("2.7","Modele de leadership educațional: introducere","2_7.m4a",[
 ["leadershipul managerial","este asociat în principal modelului formal",["este asociat exclusiv ambiguității","respinge structurile","exclude obiectivele oficiale"],"Corespondența de bază este formal–managerial."],
 ["leadershipul participativ, transformațional și distribuit","se asociază modelului colegial",["se asociază doar birocrației","elimină participarea","sunt forme de control ierarhic pur"],"Aceste forme împart influența și responsabilitatea."],
