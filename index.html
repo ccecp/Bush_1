@@ -1,77 +1,24 @@
-<!doctype html>
-<html lang="ro">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#44236d">
-  <title>Leadership și management educațional — Capitolele I–III</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<header class="hero">
-  <div class="hero-inner">
-    <div>
-      <div class="eyebrow">CONCURS DIRECTORI 2026 · TONY BUSH</div>
-      <h1>Leadership și management educațional</h1>
-      <p>Capitolele I–III · materiale audio · itemi de antrenament</p>
-    </div>
-    <div class="hero-stat"><strong id="globalScore">0%</strong><span>progres general</span></div>
+<!doctype html><html lang="ro"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tony Bush · Leadership și management educațional</title><link rel="stylesheet" href="style.css"></head><body>
+<header class="top"><div><h1>Tony Bush</h1><h2>Leadership și management educațional</h2><p>Teorii și practici actuale</p></div><div class="motto">„O perspectivă în plus<br>înseamnă o școală mai bună.”</div><div class="mini-figs"><img src="0007.gif"><img src="0005.gif"><img src="0006.gif"></div></header>
+<main>
+<section id="home" class="home">
+ <div class="home-title"><span>CONCURS DIRECTORI 2026</span><h2>Alege capitolul pe care vrei să îl studiezi</h2><p>Ascultă materialul, fixează ideile esențiale și rezolvă itemii de antrenament.</p></div>
+ <div class="chapter-grid">
+  <button class="chapter-card" onclick="chooseChapter(1)"><img src="0007.gif"><div><b>CAPITOLUL I</b><h3>Importanța leadershipului și a managementului educațional</h3><p>Concepte, diferențe, autonomie, context și leadershipul instruirii.</p><span>DESCHIDE CAPITOLUL →</span></div></button>
+  <button class="chapter-card" onclick="chooseChapter(2)"><img src="0005.gif"><div><b>CAPITOLUL II</b><h3>Modele de leadership și management educațional</h3><p>Teorie–practică, pluralism teoretic și modelele de management și leadership.</p><span>DESCHIDE CAPITOLUL →</span></div></button>
+  <button class="chapter-card" onclick="chooseChapter(3)"><img src="0006.gif"><div><b>CAPITOLUL III</b><h3>Modelele formale</h3><p>Modele structurale, sistemice, birocratice, raționale și ierarhice.</p><span>DESCHIDE CAPITOLUL →</span></div></button>
+ </div>
+</section>
+<section id="study" class="study hidden">
+ <aside><button class="homebtn" onclick="goHome()">⌂ Pagina principală</button><div id="chapterHead"></div><div id="moduleList"></div></aside>
+ <article>
+  <div class="chapter-banner"><div><small id="chapterLabel"></small><h2 id="chapterTitle"></h2></div><div class="progress"><span id="progressText"></span><div><i id="progressBar"></i></div></div></div>
+  <div class="lesson"><div class="lesson-title"><span id="moduleCode"></span><h3 id="moduleTitle"></h3></div>
+   <div class="tabs"><button class="active">🎧 Audio</button><button>💡 Idei esențiale</button><button>⌘ Scheme</button></div>
+   <div class="audio"><audio id="audioPlayer" controls preload="metadata"></audio></div>
+   <div class="quizbar"><h3>Itemi de verificare</h3><span id="questionCounter"></span></div><div id="quiz"></div>
   </div>
-</header>
-
-<main class="layout">
-  <aside class="sidebar">
-    <div class="sidebar-head">
-      <h2>Capitolele I–III</h2>
-      <p>Alege capitolul și secțiunea, ascultă materialul, apoi rezolvă itemii.</p>
-    </div>
-    <div id="moduleList" class="module-list"></div>
-  </aside>
-
-  <section class="content">
-    <div id="welcome" class="panel welcome">
-      <span class="badge">TONY BUSH · CAPITOLELE I–III</span>
-      <h2>Parcurgere etapizată: ascultare → verificare → consolidare</h2><div class="chapter-art-row"><div><img src="0007.gif" alt="Animație Capitolul I"><b>CAPITOLUL I</b></div><div><img src="0005.gif" alt="Animație Capitolul II"><b>CAPITOLUL II</b></div><div><img src="0006.gif" alt="Animație Capitolul III"><b>CAPITOLUL III</b></div></div>
-      <p>Fiecare secțiune are itemi cu un singur răspuns corect. Variantele a–d sunt afișate cu litere mici, în ordine alfabetică și cu dimensiuni uniforme. După răspuns primești feedback explicativ imediat.</p>
-      <div class="facts">
-        <div><strong>13</strong><span>materiale audio</span></div>
-        <div><strong>130</strong><span>itemi</span></div>
-        <div><strong>1</strong><span>răspuns corect / item</span></div>
-      </div>
-      <button class="primary" onclick="openModule(0)">Începe cu Capitolul I</button>
-    </div>
-
-    <div id="moduleView" class="hidden">
-      <div class="panel lesson-head">
-        <div>
-          <span id="moduleCode" class="badge"></span>
-          <h2 id="moduleTitle"></h2>
-          <p class="muted">Ascultă materialul înainte de test. Progresul este salvat local în browser.</p>
-        </div>
-        <div class="scorebox"><strong id="moduleScore">0/10</strong><span>scor curent</span></div>
-      </div>
-
-      <div class="panel audio-card">
-        <div class="audio-label">MATERIAL AUDIO</div>
-        <audio id="audioPlayer" controls preload="metadata"></audio>
-      </div>
-
-      <div class="quiz-top">
-        <div>
-          <h3>Test de verificare</h3>
-          <p id="questionCounter" class="muted"></p>
-        </div>
-        <button id="resetBtn" class="ghost">Reia testul</button>
-      </div>
-      <div id="quiz"></div>
-    </div>
-  </section>
-</main>
-
-<footer>
-  <p>Bază teoretică: Tony Bush, <em>Leadership și management educațional. Teorii și practici actuale</em>, capitolele I–III. Format de antrenament: itemi cu un singur răspuns corect.</p>
-</footer>
-<script src="data.js"></script>
-<script src="app.js"></script>
-</body>
-</html>
+ </article>
+</section></main>
+<script src="data.js"></script><script src="extra_data.js"></script><script src="app.js"></script></body></html>
