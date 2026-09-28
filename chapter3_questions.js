@@ -4,33 +4,33 @@
     {
       "q": "Ce desemnează structura în cadrul organizației?",
       "options": [
+        "autoritățile naționale, regionale sau statale",
+        "delegarea și participarea la luarea deciziilor",
         "dimensiunea formală a relațiilor dintre oameni",
-        "îndeplinirea scopurilor organizaționale stabilite",
-        "modelul autorizat al relațiilor instituționale",
-        "primatul structurii organizaționale oficiale"
+        "modelul autorizat al relațiilor instituționale"
       ],
-      "answer": 0,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „dimensiunea formală a relațiilor dintre oameni”.",
       "kind": "Text"
     },
     {
       "q": "Ce urmăresc relațiile dintre indivizi în definiția structurii?",
       "options": [
+        "creșterea expertizei și performanței individuale",
+        "delegarea și participarea la luarea deciziilor",
         "dimensiunea formală a relațiilor dintre oameni",
-        "îndeplinirea scopurilor organizaționale stabilite",
-        "modelul autorizat al relațiilor instituționale",
-        "primatul structurii organizaționale oficiale"
+        "îndeplinirea scopurilor organizaționale stabilite"
       ],
-      "answer": 1,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „îndeplinirea scopurilor organizaționale stabilite”.",
       "kind": "Text"
     },
     {
       "q": "Ce subliniază în primul rând modelele structurale?",
       "options": [
+        "creșterea expertizei și performanței individuale",
         "dimensiunea formală a relațiilor dintre oameni",
-        "îndeplinirea scopurilor organizaționale stabilite",
-        "modelul autorizat al relațiilor instituționale",
+        "federația cu aranjamente comune de leadership",
         "primatul structurii organizaționale oficiale"
       ],
       "answer": 3,
@@ -40,12 +40,12 @@
     {
       "q": "Ce reprezintă organigrama din perspectiva formală?",
       "options": [
+        "autoritățile naționale, regionale sau statale",
         "dimensiunea formală a relațiilor dintre oameni",
-        "îndeplinirea scopurilor organizaționale stabilite",
-        "modelul autorizat al relațiilor instituționale",
-        "primatul structurii organizaționale oficiale"
+        "eficacitatea managementului exercitat de directori",
+        "modelul autorizat al relațiilor instituționale"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „modelul autorizat al relațiilor instituționale”.",
       "kind": "Text"
     },
@@ -53,8 +53,8 @@
       "q": "Pentru ce există organizațiile în prima ipoteză Bolman și Deal?",
       "options": [
         "aplicarea normelor și a rațiunii",
-        "asigurarea coordonării și a controlului",
-        "creșterea expertizei și performanței individuale",
+        "autoritățile naționale, regionale sau statale",
+        "dimensiunea formală a relațiilor dintre oameni",
         "îndeplinirea unor scopuri stabilite"
       ],
       "answer": 3,
@@ -65,9 +65,9 @@
       "q": "Ce limitează tulburările de mediu și preferințele personale?",
       "options": [
         "aplicarea normelor și a rațiunii",
-        "asigurarea coordonării și a controlului",
-        "creșterea expertizei și performanței individuale",
-        "îndeplinirea unor scopuri stabilite"
+        "autoritățile naționale, regionale sau statale",
+        "îndeplinirea unor scopuri stabilite",
+        "modelul autorizat al relațiilor instituționale"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „aplicarea normelor și a rațiunii”.",
@@ -76,33 +76,33 @@
     {
       "q": "Ce efect are specializarea în perspectiva structurală?",
       "options": [
-        "aplicarea normelor și a rațiunii",
         "asigurarea coordonării și a controlului",
-        "creșterea expertizei și performanței individuale",
-        "îndeplinirea unor scopuri stabilite"
+        "autoritățile naționale, regionale sau statale",
+        "contactele informale dintre membrii organizației",
+        "creșterea expertizei și performanței individuale"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „creșterea expertizei și performanței individuale”.",
       "kind": "Text"
     },
     {
       "q": "Ce este esențial pentru eficacitate în această perspectivă?",
       "options": [
-        "aplicarea normelor și a rațiunii",
         "asigurarea coordonării și a controlului",
-        "creșterea expertizei și performanței individuale",
+        "autoritățile naționale, regionale sau statale",
+        "delegarea și participarea la luarea deciziilor",
         "îndeplinirea unor scopuri stabilite"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „asigurarea coordonării și a controlului”.",
       "kind": "Text"
     },
     {
       "q": "Ce soluție corespunde structurilor organizaționale nepotrivite?",
       "options": [
-        "autoritățile locale și districtuale responsabile",
         "autoritățile naționale, regionale sau statale",
-        "departamentele, catedrele și unitățile de consiliere",
+        "federația cu aranjamente comune de leadership",
+        "primatul structurii organizaționale oficiale",
         "restructurarea ori crearea unor sisteme noi"
       ],
       "answer": 3,
@@ -112,12 +112,12 @@
     {
       "q": "Ce se află la nivelul central al modelului cu cinci niveluri?",
       "options": [
-        "autoritățile locale și districtuale responsabile",
         "autoritățile naționale, regionale sau statale",
-        "departamentele, catedrele și unitățile de consiliere",
-        "restructurarea ori crearea unor sisteme noi"
+        "primatul structurii organizaționale oficiale",
+        "restructurarea ori crearea unor sisteme noi",
+        "rețeaua școlară pentru nevoi specifice emergente"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „autoritățile naționale, regionale sau statale”.",
       "kind": "Text"
     },
@@ -126,8 +126,8 @@
       "options": [
         "autoritățile locale și districtuale responsabile",
         "autoritățile naționale, regionale sau statale",
-        "departamentele, catedrele și unitățile de consiliere",
-        "restructurarea ori crearea unor sisteme noi"
+        "creșterea expertizei și performanței individuale",
+        "eficacitatea managementului exercitat de directori"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „autoritățile locale și districtuale responsabile”.",
@@ -137,19 +137,19 @@
       "q": "Ce se află la nivelul subunităților instituționale?",
       "options": [
         "autoritățile locale și districtuale responsabile",
-        "autoritățile naționale, regionale sau statale",
         "departamentele, catedrele și unitățile de consiliere",
-        "restructurarea ori crearea unor sisteme noi"
+        "eficacitatea managementului exercitat de directori",
+        "federația cu aranjamente comune de leadership"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „departamentele, catedrele și unitățile de consiliere”.",
       "kind": "Text"
     },
     {
       "q": "Ce cuprinde nivelul individual al structurii educaționale?",
       "options": [
-        "contactele informale dintre membrii organizației",
-        "federația cu aranjamente comune de leadership",
+        "autoritățile locale și districtuale responsabile",
+        "natura relațiilor lor profesionale ulterioare",
         "profesori, studenți, elevi și personal auxiliar",
         "rețeaua școlară pentru nevoi specifice emergente"
       ],
@@ -160,12 +160,12 @@
     {
       "q": "Ce structură formală poate reuni școli sub conducere comună?",
       "options": [
-        "contactele informale dintre membrii organizației",
+        "autoritățile locale și districtuale responsabile",
+        "delegarea și participarea la luarea deciziilor",
         "federația cu aranjamente comune de leadership",
-        "profesori, studenți, elevi și personal auxiliar",
-        "rețeaua școlară pentru nevoi specifice emergente"
+        "profesori, studenți, elevi și personal auxiliar"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „federația cu aranjamente comune de leadership”.",
       "kind": "Text"
     },
@@ -173,8 +173,8 @@
       "q": "Ce formă apare organic în comunitatea locală?",
       "options": [
         "contactele informale dintre membrii organizației",
-        "federația cu aranjamente comune de leadership",
-        "profesori, studenți, elevi și personal auxiliar",
+        "departamentele, catedrele și unitățile de consiliere",
+        "îndeplinirea scopurilor organizaționale stabilite",
         "rețeaua școlară pentru nevoi specifice emergente"
       ],
       "answer": 3,
@@ -185,8 +185,8 @@
       "q": "Ce relații lipsesc adesea din diagramele organizaționale?",
       "options": [
         "contactele informale dintre membrii organizației",
-        "federația cu aranjamente comune de leadership",
-        "profesori, studenți, elevi și personal auxiliar",
+        "dimensiunea formală a relațiilor dintre oameni",
+        "eficacitatea managementului exercitat de directori",
         "rețeaua școlară pentru nevoi specifice emergente"
       ],
       "answer": 0,
@@ -196,9 +196,9 @@
     {
       "q": "Ce pot facilita structurile aparent ierarhice?",
       "options": [
-        "condiționarea schimbării prin structuri și convingeri",
+        "autoritățile naționale, regionale sau statale",
         "delegarea și participarea la luarea deciziilor",
-        "eficacitatea managementului exercitat de directori",
+        "dimensiunea formală a relațiilor dintre oameni",
         "natura relațiilor lor profesionale ulterioare"
       ],
       "answer": 1,
@@ -208,9 +208,9 @@
     {
       "q": "Ce influențează pozițiile în care sunt numiți indivizii?",
       "options": [
-        "condiționarea schimbării prin structuri și convingeri",
+        "autoritățile locale și districtuale responsabile",
         "delegarea și participarea la luarea deciziilor",
-        "eficacitatea managementului exercitat de directori",
+        "modelul autorizat al relațiilor instituționale",
         "natura relațiilor lor profesionale ulterioare"
       ],
       "answer": 3,
@@ -221,9 +221,9 @@
       "q": "Ce efect are istoria asupra dezvoltării organizaționale?",
       "options": [
         "condiționarea schimbării prin structuri și convingeri",
-        "delegarea și participarea la luarea deciziilor",
+        "creșterea expertizei și performanței individuale",
         "eficacitatea managementului exercitat de directori",
-        "natura relațiilor lor profesionale ulterioare"
+        "profesori, studenți, elevi și personal auxiliar"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „condiționarea schimbării prin structuri și convingeri”.",
@@ -232,10 +232,10 @@
     {
       "q": "Ce prezice structura în cercetarea lui Gaziel?",
       "options": [
+        "autoritățile locale și districtuale responsabile",
         "condiționarea schimbării prin structuri și convingeri",
-        "delegarea și participarea la luarea deciziilor",
         "eficacitatea managementului exercitat de directori",
-        "natura relațiilor lor profesionale ulterioare"
+        "federația cu aranjamente comune de leadership"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 57–59), răspunsul este „eficacitatea managementului exercitat de directori”.",
@@ -246,9 +246,9 @@
     {
       "q": "Ce evidențiază teoriile sistemelor în privința organizației?",
       "options": [
+        "absolvenții pregătiți în instituția educațională",
         "apartenența la instituția unde predau sau învață",
-        "coerența sa ca instituție primară distinctă",
-        "interacțiunea părților componente și a mediului",
+        "granița organizațională a sistemului educațional",
         "unitatea și integritatea organizației educaționale"
       ],
       "answer": 3,
@@ -259,45 +259,45 @@
       "q": "Pe ce se concentrează teoriile sistemelor?",
       "options": [
         "apartenența la instituția unde predau sau învață",
-        "coerența sa ca instituție primară distinctă",
         "interacțiunea părților componente și a mediului",
-        "unitatea și integritatea organizației educaționale"
+        "neglijarea oamenilor care lucrează în interior",
+        "sistemele cu un grad mai mare de complexitate"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „interacțiunea părților componente și a mediului”.",
       "kind": "Text"
     },
     {
       "q": "Ce presupun modelele sistemice despre școală?",
       "options": [
-        "apartenența la instituția unde predau sau învață",
         "coerența sa ca instituție primară distinctă",
         "interacțiunea părților componente și a mediului",
-        "unitatea și integritatea organizației educaționale"
+        "mediul extern al instituției educaționale",
+        "obiective convenite și susținute de membri"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „coerența sa ca instituție primară distinctă”.",
       "kind": "Text"
     },
     {
       "q": "Ce pot simți personalul și studenții în organizație?",
       "options": [
+        "absolvenții pregătiți în instituția educațională",
         "apartenența la instituția unde predau sau învață",
-        "coerența sa ca instituție primară distinctă",
-        "interacțiunea părților componente și a mediului",
-        "unitatea și integritatea organizației educaționale"
+        "contestarea obiectivelor de către membrii instituției",
+        "interacțiunea părților componente și a mediului"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „apartenența la instituția unde predau sau învață”.",
       "kind": "Text"
     },
     {
       "q": "Ce risc apare când organizația este privilegiată excesiv?",
       "options": [
-        "caracteristici umane școlii ca organizație",
+        "interacțiunea părților componente și a mediului",
         "neglijarea oamenilor care lucrează în interior",
-        "obiective convenite și susținute de membri",
-        "politici instituționale orientate spre scopuri"
+        "politici instituționale orientate spre scopuri",
+        "scopurile independente de obiectivele formale"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „neglijarea oamenilor care lucrează în interior”.",
@@ -307,9 +307,9 @@
       "q": "Ce atribuire critică Greenfield în teoria sistemică?",
       "options": [
         "caracteristici umane școlii ca organizație",
-        "neglijarea oamenilor care lucrează în interior",
+        "mediul extern al instituției educaționale",
         "obiective convenite și susținute de membri",
-        "politici instituționale orientate spre scopuri"
+        "sistemele cu un grad mai mare de complexitate"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „caracteristici umane școlii ca organizație”.",
@@ -319,32 +319,32 @@
       "q": "Ce obiective presupune modelul pentru întregul sistem?",
       "options": [
         "caracteristici umane școlii ca organizație",
-        "neglijarea oamenilor care lucrează în interior",
-        "obiective convenite și susținute de membri",
-        "politici instituționale orientate spre scopuri"
+        "coerența sa ca instituție primară distinctă",
+        "diversitatea crescândă a studenților înscriși",
+        "obiective convenite și susținute de membri"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „obiective convenite și susținute de membri”.",
       "kind": "Text"
     },
     {
       "q": "Ce dezvoltă instituția pentru urmărirea obiectivelor?",
       "options": [
-        "caracteristici umane școlii ca organizație",
         "neglijarea oamenilor care lucrează în interior",
-        "obiective convenite și susținute de membri",
-        "politici instituționale orientate spre scopuri"
+        "politici instituționale orientate spre scopuri",
+        "scopurile independente de obiectivele formale",
+        "sistemele cu un grad mai mare de complexitate"
       ],
-      "answer": 3,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „politici instituționale orientate spre scopuri”.",
       "kind": "Text"
     },
     {
       "q": "Ce măsoară instituția potrivit abordărilor sistemice?",
       "options": [
-        "contestarea obiectivelor de către membrii instituției",
+        "caracteristici umane școlii ca organizație",
         "eficacitatea politicilor pe care le aplică",
-        "granița organizațională a sistemului educațional",
+        "mediul extern al instituției educaționale",
         "scopurile independente de obiectivele formale"
       ],
       "answer": 1,
@@ -355,9 +355,9 @@
       "q": "Ce posibilitate este minimalizată de teoria sistemelor?",
       "options": [
         "contestarea obiectivelor de către membrii instituției",
-        "eficacitatea politicilor pe care le aplică",
         "granița organizațională a sistemului educațional",
-        "scopurile independente de obiectivele formale"
+        "interacțiunea părților componente și a mediului",
+        "sistemele cu un grad mai mare de complexitate"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „contestarea obiectivelor de către membrii instituției”.",
@@ -366,9 +366,9 @@
     {
       "q": "Ce scopuri individuale sunt deseori ignorate?",
       "options": [
-        "contestarea obiectivelor de către membrii instituției",
+        "accentul pe colaborarea dintre participanți",
         "eficacitatea politicilor pe care le aplică",
-        "granița organizațională a sistemului educațional",
+        "materia primă necesară activității organizației",
         "scopurile independente de obiectivele formale"
       ],
       "answer": 3,
@@ -378,8 +378,8 @@
     {
       "q": "Ce concept delimitează instituția de mediul extern?",
       "options": [
-        "contestarea obiectivelor de către membrii instituției",
-        "eficacitatea politicilor pe care le aplică",
+        "absolvenții pregătiți în instituția educațională",
+        "accentul pe colaborarea dintre participanți",
         "granița organizațională a sistemului educațional",
         "scopurile independente de obiectivele formale"
       ],
@@ -390,10 +390,10 @@
     {
       "q": "Ce se află dincolo de granița sistemului?",
       "options": [
-        "absolvenții pregătiți în instituția educațională",
+        "mașini dotate cu o tehnologie foarte înaltă",
         "materia primă necesară activității organizației",
         "mediul extern al instituției educaționale",
-        "studenții care intră în instituția educațională"
+        "scopurile independente de obiectivele formale"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „mediul extern al instituției educaționale”.",
@@ -402,9 +402,9 @@
     {
       "q": "Ce oferă mediul extern organizației în exemplul cărții?",
       "options": [
-        "absolvenții pregătiți în instituția educațională",
+        "granița organizațională a sistemului educațional",
         "materia primă necesară activității organizației",
-        "mediul extern al instituției educaționale",
+        "sistemele cu un grad mai mare de complexitate",
         "studenții care intră în instituția educațională"
       ],
       "answer": 1,
@@ -415,9 +415,9 @@
       "q": "Cine revine în comunitate după parcurgerea școlii?",
       "options": [
         "absolvenții pregătiți în instituția educațională",
-        "materia primă necesară activității organizației",
-        "mediul extern al instituției educaționale",
-        "studenții care intră în instituția educațională"
+        "contestarea obiectivelor de către membrii instituției",
+        "interacțiunea părților componente și a mediului",
+        "materia primă necesară activității organizației"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „absolvenții pregătiți în instituția educațională”.",
@@ -426,9 +426,9 @@
     {
       "q": "Ce primesc școlile din comunitate în schema sistemică?",
       "options": [
-        "absolvenții pregătiți în instituția educațională",
+        "diversitatea crescândă a studenților înscriși",
         "materia primă necesară activității organizației",
-        "mediul extern al instituției educaționale",
+        "politici instituționale orientate spre scopuri",
         "studenții care intră în instituția educațională"
       ],
       "answer": 3,
@@ -438,12 +438,12 @@
     {
       "q": "Ce a sporit complexitatea sistemelor potrivit lui O’Shea?",
       "options": [
-        "accentul pe colaborarea dintre participanți",
         "diversitatea crescândă a studenților înscriși",
-        "mașini dotate cu o tehnologie foarte înaltă",
+        "neglijarea oamenilor care lucrează în interior",
+        "scopurile independente de obiectivele formale",
         "sistemele cu un grad mai mare de complexitate"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „diversitatea crescândă a studenților înscriși”.",
       "kind": "Text"
     },
@@ -451,9 +451,9 @@
       "q": "Ce orientare a sporit, alături de diversitate, complexitatea?",
       "options": [
         "accentul pe colaborarea dintre participanți",
-        "diversitatea crescândă a studenților înscriși",
+        "eficacitatea politicilor pe care le aplică",
         "mașini dotate cu o tehnologie foarte înaltă",
-        "sistemele cu un grad mai mare de complexitate"
+        "politici instituționale orientate spre scopuri"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „accentul pe colaborarea dintre participanți”.",
@@ -462,9 +462,9 @@
     {
       "q": "Ce fel de sisteme pot fi mai vulnerabile la eșec?",
       "options": [
-        "accentul pe colaborarea dintre participanți",
         "diversitatea crescândă a studenților înscriși",
-        "mașini dotate cu o tehnologie foarte înaltă",
+        "materia primă necesară activității organizației",
+        "politici instituționale orientate spre scopuri",
         "sistemele cu un grad mai mare de complexitate"
       ],
       "answer": 3,
@@ -475,9 +475,9 @@
       "q": "Ce nu sunt școlile, deși integrarea activităților e utilă?",
       "options": [
         "accentul pe colaborarea dintre participanți",
-        "diversitatea crescândă a studenților înscriși",
+        "eficacitatea politicilor pe care le aplică",
         "mașini dotate cu o tehnologie foarte înaltă",
-        "sistemele cu un grad mai mare de complexitate"
+        "studenții care intră în instituția educațională"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 59–60), răspunsul este „mașini dotate cu o tehnologie foarte înaltă”.",
@@ -488,21 +488,21 @@
     {
       "q": "După ce criteriu se disting sistemele deschise și închise?",
       "options": [
+        "atenția față de cerințele părinților potențiali",
+        "influențarea mediului prin propriile activități",
         "influență redusă asupra scopurilor instituției",
-        "minimalizează schimburile cu mediul extern",
-        "relațiile organizației cu propriul mediu extern",
-        "scopuri explicite în condiții previzibile"
+        "relațiile organizației cu propriul mediu extern"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „relațiile organizației cu propriul mediu extern”.",
       "kind": "Text"
     },
     {
       "q": "Cum tratează sistemele închise tranzacțiile externe?",
       "options": [
-        "influență redusă asupra scopurilor instituției",
+        "dependența mai mare de grupurile din exterior",
         "minimalizează schimburile cu mediul extern",
-        "relațiile organizației cu propriul mediu extern",
+        "părinții interesați de activitatea instituției",
         "scopuri explicite în condiții previzibile"
       ],
       "answer": 1,
@@ -512,24 +512,24 @@
     {
       "q": "Ce rol acordă sistemele închise opiniei externe?",
       "options": [
+        "dependența mai mare de grupurile din exterior",
         "influență redusă asupra scopurilor instituției",
-        "minimalizează schimburile cu mediul extern",
         "relațiile organizației cu propriul mediu extern",
-        "scopuri explicite în condiții previzibile"
+        "sprijinirea realizării obiectivelor organizației"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „influență redusă asupra scopurilor instituției”.",
       "kind": "Text"
     },
     {
       "q": "Ce tip de scopuri urmăresc sistemele relativ închise?",
       "options": [
-        "influență redusă asupra scopurilor instituției",
+        "în ambele sensuri între școală și mediu",
         "minimalizează schimburile cu mediul extern",
-        "relațiile organizației cu propriul mediu extern",
-        "scopuri explicite în condiții previzibile"
+        "scopuri explicite în condiții previzibile",
+        "sprijinirea realizării obiectivelor organizației"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „scopuri explicite în condiții previzibile”.",
       "kind": "Text"
     },
@@ -537,8 +537,8 @@
       "q": "Ce protejează mecanismele structurale față de fluctuații?",
       "options": [
         "activitățile centrale ale organizației educaționale",
-        "în ambele sensuri între școală și mediu",
-        "orientarea spre managementul școlar autonom",
+        "influențarea mediului prin propriile activități",
+        "influență redusă asupra scopurilor instituției",
         "permeabile la relațiile dintre școală și mediu"
       ],
       "answer": 0,
@@ -548,8 +548,8 @@
     {
       "q": "Ce reformă a făcut dificilă abordarea sistemului închis?",
       "options": [
-        "activitățile centrale ale organizației educaționale",
-        "în ambele sensuri între școală și mediu",
+        "angajații și autoritățile locale de educație",
+        "influență redusă asupra scopurilor instituției",
         "orientarea spre managementul școlar autonom",
         "permeabile la relațiile dintre școală și mediu"
       ],
@@ -560,9 +560,9 @@
     {
       "q": "Cum sunt granițele unui sistem deschis?",
       "options": [
-        "activitățile centrale ale organizației educaționale",
-        "în ambele sensuri între școală și mediu",
+        "minimalizează schimburile cu mediul extern",
         "orientarea spre managementul școlar autonom",
+        "părinții interesați de activitatea instituției",
         "permeabile la relațiile dintre școală și mediu"
       ],
       "answer": 3,
@@ -572,12 +572,12 @@
     {
       "q": "În câte sensuri se desfășoară relația sistemului deschis?",
       "options": [
-        "activitățile centrale ale organizației educaționale",
+        "adaptarea la condițiile schimbătoare din mediu",
+        "influență redusă asupra scopurilor instituției",
         "în ambele sensuri între școală și mediu",
-        "orientarea spre managementul școlar autonom",
-        "permeabile la relațiile dintre școală și mediu"
+        "orientarea spre managementul școlar autonom"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „în ambele sensuri între școală și mediu”.",
       "kind": "Text"
     },
@@ -585,9 +585,9 @@
       "q": "Ce trebuie să facă școala pentru a supraviețui pe termen lung?",
       "options": [
         "adaptarea la condițiile schimbătoare din mediu",
-        "angajații și autoritățile locale de educație",
+        "influență redusă asupra scopurilor instituției",
         "părinții interesați de activitatea instituției",
-        "sprijinirea realizării obiectivelor organizației"
+        "permeabile la relațiile dintre școală și mediu"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „adaptarea la condițiile schimbătoare din mediu”.",
@@ -597,8 +597,8 @@
       "q": "Ce urmăresc schimburile externe ale sistemului deschis?",
       "options": [
         "adaptarea la condițiile schimbătoare din mediu",
-        "angajații și autoritățile locale de educație",
-        "părinții interesați de activitatea instituției",
+        "influență redusă asupra scopurilor instituției",
+        "rețelele informale de rezolvare a problemelor comune",
         "sprijinirea realizării obiectivelor organizației"
       ],
       "answer": 3,
@@ -609,11 +609,11 @@
       "q": "Ce grup extern este menționat în relația cu școala?",
       "options": [
         "adaptarea la condițiile schimbătoare din mediu",
-        "angajații și autoritățile locale de educație",
-        "părinții interesați de activitatea instituției",
-        "sprijinirea realizării obiectivelor organizației"
+        "ca un continuum mai degrabă decât o ruptură",
+        "influențarea mediului prin propriile activități",
+        "părinții interesați de activitatea instituției"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „părinții interesați de activitatea instituției”.",
       "kind": "Text"
     },
@@ -622,8 +622,8 @@
       "options": [
         "adaptarea la condițiile schimbătoare din mediu",
         "angajații și autoritățile locale de educație",
-        "părinții interesați de activitatea instituției",
-        "sprijinirea realizării obiectivelor organizației"
+        "ca un continuum mai degrabă decât o ruptură",
+        "în ambele sensuri între școală și mediu"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „angajații și autoritățile locale de educație”.",
@@ -632,12 +632,12 @@
     {
       "q": "Ce poate face școala față de mediul extern?",
       "options": [
-        "când reputația reduce presiunea recrutării studenților",
+        "adaptarea la condițiile schimbătoare din mediu",
+        "dependența mai mare de grupurile din exterior",
         "influențarea mediului prin propriile activități",
-        "interacționează constant cu grupurile din vecinătate",
-        "legături vitale cu angajații care sponsorizează studenți"
+        "interacționează constant cu grupurile din vecinătate"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „influențarea mediului prin propriile activități”.",
       "kind": "Text"
     },
@@ -645,11 +645,11 @@
       "q": "Ce tip de legături extinse au colegiile engleze?",
       "options": [
         "când reputația reduce presiunea recrutării studenților",
-        "influențarea mediului prin propriile activități",
-        "interacționează constant cu grupurile din vecinătate",
-        "legături vitale cu angajații care sponsorizează studenți"
+        "legături vitale cu angajații care sponsorizează studenți",
+        "permeabile la relațiile dintre școală și mediu",
+        "sprijinirea realizării obiectivelor organizației"
       ],
-      "answer": 3,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „legături vitale cu angajații care sponsorizează studenți”.",
       "kind": "Text"
     },
@@ -657,9 +657,9 @@
       "q": "De ce multe școli pot fi socotite deschise?",
       "options": [
         "când reputația reduce presiunea recrutării studenților",
-        "influențarea mediului prin propriile activități",
+        "dependența mai mare de grupurile din exterior",
         "interacționează constant cu grupurile din vecinătate",
-        "legături vitale cu angajații care sponsorizează studenți"
+        "sprijinirea realizării obiectivelor organizației"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „interacționează constant cu grupurile din vecinătate”.",
@@ -668,22 +668,22 @@
     {
       "q": "Când poate părea o instituție relativ închisă?",
       "options": [
+        "atenția față de cerințele părinților potențiali",
         "când reputația reduce presiunea recrutării studenților",
-        "influențarea mediului prin propriile activități",
-        "interacționează constant cu grupurile din vecinătate",
+        "influență redusă asupra scopurilor instituției",
         "legături vitale cu angajații care sponsorizează studenți"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „când reputația reduce presiunea recrutării studenților”.",
       "kind": "Text"
     },
     {
       "q": "Cum descrie autorul diferența dintre deschis și închis?",
       "options": [
-        "atenția față de cerințele părinților potențiali",
+        "angajații și autoritățile locale de educație",
         "ca un continuum mai degrabă decât o ruptură",
         "dependența mai mare de grupurile din exterior",
-        "rețelele informale de rezolvare a problemelor comune"
+        "orientarea spre managementul școlar autonom"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „ca un continuum mai degrabă decât o ruptură”.",
@@ -692,12 +692,12 @@
     {
       "q": "Ce sporește probabilitatea deschiderii unei instituții?",
       "options": [
-        "atenția față de cerințele părinților potențiali",
         "ca un continuum mai degrabă decât o ruptură",
         "dependența mai mare de grupurile din exterior",
-        "rețelele informale de rezolvare a problemelor comune"
+        "minimalizează schimburile cu mediul extern",
+        "părinții interesați de activitatea instituției"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „dependența mai mare de grupurile din exterior”.",
       "kind": "Text"
     },
@@ -705,9 +705,9 @@
       "q": "Ce efect are concurența pentru elevi asupra școlilor?",
       "options": [
         "atenția față de cerințele părinților potențiali",
-        "ca un continuum mai degrabă decât o ruptură",
         "dependența mai mare de grupurile din exterior",
-        "rețelele informale de rezolvare a problemelor comune"
+        "influență redusă asupra scopurilor instituției",
+        "părinții interesați de activitatea instituției"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 60–62), răspunsul este „atenția față de cerințele părinților potențiali”.",
@@ -716,9 +716,9 @@
     {
       "q": "Ce exemplu contemporan ilustrează sistemul deschis?",
       "options": [
+        "activitățile centrale ale organizației educaționale",
         "atenția față de cerințele părinților potențiali",
-        "ca un continuum mai degrabă decât o ruptură",
-        "dependența mai mare de grupurile din exterior",
+        "părinții interesați de activitatea instituției",
         "rețelele informale de rezolvare a problemelor comune"
       ],
       "answer": 3,
@@ -730,9 +730,9 @@
     {
       "q": "Cu al cui nume este asociată versiunea pură a birocrației?",
       "options": [
-        "autoritatea legală conferită funcțiilor oficiale",
+        "expertiza demonstrată în funcțiile ocupate",
         "Max Weber în teoria organizațiilor formale",
-        "nivelul ridicat de eficiență tehnică",
+        "oficialii aflați la nivelurile superioare",
         "superiorilor aflați pe treptele ierarhice"
       ],
       "answer": 1,
@@ -742,8 +742,8 @@
     {
       "q": "Ce calitate atribuie Weber administrării birocratice?",
       "options": [
-        "autoritatea legală conferită funcțiilor oficiale",
-        "Max Weber în teoria organizațiilor formale",
+        "aprobate fără discuții de către colectiv",
+        "meritul dovedit prin calificări și experiență",
         "nivelul ridicat de eficiență tehnică",
         "superiorilor aflați pe treptele ierarhice"
       ],
@@ -755,9 +755,9 @@
       "q": "Ce formă a autorității stă la baza piramidei?",
       "options": [
         "autoritatea legală conferită funcțiilor oficiale",
+        "lucrează cu aceeași grupă în majoritatea timpului",
         "Max Weber în teoria organizațiilor formale",
-        "nivelul ridicat de eficiență tehnică",
-        "superiorilor aflați pe treptele ierarhice"
+        "meritul dovedit prin calificări și experiență"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „autoritatea legală conferită funcțiilor oficiale”.",
@@ -766,9 +766,9 @@
     {
       "q": "În fața cui răspund titularii funcțiilor birocratice?",
       "options": [
-        "autoritatea legală conferită funcțiilor oficiale",
         "Max Weber în teoria organizațiilor formale",
-        "nivelul ridicat de eficiență tehnică",
+        "predarea specializată în arii ale curriculumului",
+        "regulile și reglementările instituționale",
         "superiorilor aflați pe treptele ierarhice"
       ],
       "answer": 3,
@@ -779,11 +779,11 @@
       "q": "Cine formulează scopurile în vârful piramidei?",
       "options": [
         "aprobate fără discuții de către colectiv",
-        "diviziunea muncii între specialiști",
-        "oficialii aflați la nivelurile superioare",
-        "predarea specializată în arii ale curriculumului"
+        "eficiența maximă a organizației formale",
+        "meritul dovedit prin calificări și experiență",
+        "oficialii aflați la nivelurile superioare"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „oficialii aflați la nivelurile superioare”.",
       "kind": "Text"
     },
@@ -791,9 +791,9 @@
       "q": "Cum sunt tratate scopurile conducerii de către personal?",
       "options": [
         "aprobate fără discuții de către colectiv",
-        "diviziunea muncii între specialiști",
-        "oficialii aflați la nivelurile superioare",
-        "predarea specializată în arii ale curriculumului"
+        "inițiativa personală a fiecărui angajat",
+        "nivelul ridicat de eficiență tehnică",
+        "oficialii aflați la nivelurile superioare"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „aprobate fără discuții de către colectiv”.",
@@ -804,8 +804,8 @@
       "options": [
         "aprobate fără discuții de către colectiv",
         "diviziunea muncii între specialiști",
-        "oficialii aflați la nivelurile superioare",
-        "predarea specializată în arii ale curriculumului"
+        "inițiativa personală a fiecărui angajat",
+        "meritul dovedit prin calificări și experiență"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „diviziunea muncii între specialiști”.",
@@ -814,33 +814,33 @@
     {
       "q": "Ce ilustrează structura departamentală gimnazială?",
       "options": [
-        "aprobate fără discuții de către colectiv",
-        "diviziunea muncii între specialiști",
+        "îndrumătoarele și regulile interne ale școlii",
         "oficialii aflați la nivelurile superioare",
-        "predarea specializată în arii ale curriculumului"
+        "predarea specializată în arii ale curriculumului",
+        "relații impersonale între personal și beneficiari"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „predarea specializată în arii ale curriculumului”.",
       "kind": "Text"
     },
     {
       "q": "De ce învățătorul la clasă se distanțează de model?",
       "options": [
-        "inițiativa personală a fiecărui angajat",
         "îndrumătoarele și regulile interne ale școlii",
         "lucrează cu aceeași grupă în majoritatea timpului",
-        "regulile și reglementările instituționale"
+        "predarea specializată în arii ale curriculumului",
+        "relații impersonale între personal și beneficiari"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „lucrează cu aceeași grupă în majoritatea timpului”.",
       "kind": "Text"
     },
     {
       "q": "Ce guvernează deciziile în instituția birocratică?",
       "options": [
+        "aprobate fără discuții de către colectiv",
         "inițiativa personală a fiecărui angajat",
-        "îndrumătoarele și regulile interne ale școlii",
-        "lucrează cu aceeași grupă în majoritatea timpului",
+        "meritul dovedit prin calificări și experiență",
         "regulile și reglementările instituționale"
       ],
       "answer": 3,
@@ -851,8 +851,8 @@
       "q": "Ce nu ar trebui să guverneze deciziile birocratice?",
       "options": [
         "inițiativa personală a fiecărui angajat",
-        "îndrumătoarele și regulile interne ale școlii",
-        "lucrează cu aceeași grupă în majoritatea timpului",
+        "nivelul ridicat de eficiență tehnică",
+        "oficialii aflați la nivelurile superioare",
         "regulile și reglementările instituționale"
       ],
       "answer": 0,
@@ -862,21 +862,21 @@
     {
       "q": "Ce instrument poate ghida comportamentul profesorilor?",
       "options": [
-        "inițiativa personală a fiecărui angajat",
         "îndrumătoarele și regulile interne ale școlii",
         "lucrează cu aceeași grupă în majoritatea timpului",
-        "regulile și reglementările instituționale"
+        "proceduri competitive și formale de selecție",
+        "relații impersonale între personal și beneficiari"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „îndrumătoarele și regulile interne ale școlii”.",
       "kind": "Text"
     },
     {
       "q": "Ce tip de relații promovează modelul birocratic?",
       "options": [
-        "influența individualității participanților implicați",
+        "expertiza demonstrată în funcțiile ocupate",
+        "îndrumătoarele și regulile interne ale școlii",
         "legăturile de calitate dintre profesori și elevi",
-        "meritul dovedit prin calificări și experiență",
         "relații impersonale între personal și beneficiari"
       ],
       "answer": 3,
@@ -887,8 +887,8 @@
       "q": "Ce reduce neutralitatea în luarea deciziilor?",
       "options": [
         "influența individualității participanților implicați",
-        "legăturile de calitate dintre profesori și elevi",
-        "meritul dovedit prin calificări și experiență",
+        "Max Weber în teoria organizațiilor formale",
+        "recomandarea formulată de directorul instituției",
         "relații impersonale între personal și beneficiari"
       ],
       "answer": 0,
@@ -898,22 +898,22 @@
     {
       "q": "Ce relații personale rămân importante în școli?",
       "options": [
-        "influența individualității participanților implicați",
         "legăturile de calitate dintre profesori și elevi",
-        "meritul dovedit prin calificări și experiență",
+        "oficialii aflați la nivelurile superioare",
+        "recomandarea formulată de directorul instituției",
         "relații impersonale între personal și beneficiari"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „legăturile de calitate dintre profesori și elevi”.",
       "kind": "Text"
     },
     {
       "q": "Pe ce criteriu se bazează recrutarea personalului?",
       "options": [
-        "influența individualității participanților implicați",
+        "autoritatea legală conferită funcțiilor oficiale",
         "legăturile de calitate dintre profesori și elevi",
         "meritul dovedit prin calificări și experiență",
-        "relații impersonale între personal și beneficiari"
+        "recomandarea formulată de directorul instituției"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „meritul dovedit prin calificări și experiență”.",
@@ -922,22 +922,22 @@
     {
       "q": "De ce depinde promovarea în sens birocratic?",
       "options": [
-        "eficiența maximă a organizației formale",
         "expertiza demonstrată în funcțiile ocupate",
+        "Max Weber în teoria organizațiilor formale",
         "proceduri competitive și formale de selecție",
-        "recomandarea formulată de directorul instituției"
+        "regulile și reglementările instituționale"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „expertiza demonstrată în funcțiile ocupate”.",
       "kind": "Text"
     },
     {
       "q": "Ce proceduri se folosesc pentru numiri și promovări?",
       "options": [
-        "eficiența maximă a organizației formale",
         "expertiza demonstrată în funcțiile ocupate",
+        "predarea specializată în arii ale curriculumului",
         "proceduri competitive și formale de selecție",
-        "recomandarea formulată de directorul instituției"
+        "superiorilor aflați pe treptele ierarhice"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „proceduri competitive și formale de selecție”.",
@@ -946,8 +946,8 @@
     {
       "q": "Ce poate face promovarea internă mai puțin formală?",
       "options": [
-        "eficiența maximă a organizației formale",
-        "expertiza demonstrată în funcțiile ocupate",
+        "îndrumătoarele și regulile interne ale școlii",
+        "predarea specializată în arii ale curriculumului",
         "proceduri competitive și formale de selecție",
         "recomandarea formulată de directorul instituției"
       ],
@@ -958,12 +958,12 @@
     {
       "q": "Ce scop urmărește birocrația prin abordări raționale?",
       "options": [
+        "aprobate fără discuții de către colectiv",
         "eficiența maximă a organizației formale",
         "expertiza demonstrată în funcțiile ocupate",
-        "proceduri competitive și formale de selecție",
-        "recomandarea formulată de directorul instituției"
+        "legăturile de calitate dintre profesori și elevi"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 62–63), răspunsul este „eficiența maximă a organizației formale”.",
       "kind": "Text"
     }
@@ -973,9 +973,9 @@
       "q": "Ce instituții mari conțin elemente birocratice?",
       "options": [
         "activitatea elevilor și a personalului didactic",
-        "directorul instituției de învățământ",
+        "în sisteme educaționale puternic centralizate",
         "organizațiile educaționale de dimensiuni mari",
-        "predarea potrivit expertizei profesorilor"
+        "un rol subordonat finalităților educaționale"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „organizațiile educaționale de dimensiuni mari”.",
@@ -984,24 +984,24 @@
     {
       "q": "Cine ocupă vârful ierarhiei într-o școală?",
       "options": [
-        "activitatea elevilor și a personalului didactic",
+        "autonomie sporită pentru profesori și directori",
+        "controlul local și îmbunătățirea calității",
         "directorul instituției de învățământ",
-        "organizațiile educaționale de dimensiuni mari",
         "predarea potrivit expertizei profesorilor"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „directorul instituției de învățământ”.",
       "kind": "Text"
     },
     {
       "q": "Ce forme de specializare apar în colegii?",
       "options": [
-        "activitatea elevilor și a personalului didactic",
-        "directorul instituției de învățământ",
+        "eșecul inovației impuse din exterior",
         "organizațiile educaționale de dimensiuni mari",
-        "predarea potrivit expertizei profesorilor"
+        "predarea potrivit expertizei profesorilor",
+        "un rol subordonat finalităților educaționale"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „predarea potrivit expertizei profesorilor”.",
       "kind": "Text"
     },
@@ -1009,9 +1009,9 @@
       "q": "Ce reglementează numeroase reguli școlare?",
       "options": [
         "activitatea elevilor și a personalului didactic",
-        "directorul instituției de învățământ",
-        "organizațiile educaționale de dimensiuni mari",
-        "predarea potrivit expertizei profesorilor"
+        "autonomie sporită pentru profesori și directori",
+        "controlul local și îmbunătățirea calității",
+        "organizațiile educaționale de dimensiuni mari"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „activitatea elevilor și a personalului didactic”.",
@@ -1020,8 +1020,8 @@
     {
       "q": "Ce expresie descrie presiunea orarului asupra muncii?",
       "options": [
-        "consiliului de administrație și părților interesate",
-        "dominarea scopurilor educaționale de birocrație",
+        "în sisteme educaționale puternic centralizate",
+        "școli mai autonome și mai flexibile",
         "tirania orarului în activitatea școlară",
         "un rol subordonat finalităților educaționale"
       ],
@@ -1033,9 +1033,9 @@
       "q": "În fața cui răspunde conducerea pentru activitatea școlii?",
       "options": [
         "consiliului de administrație și părților interesate",
+        "discreția și autonomia profesională exercitate",
         "dominarea scopurilor educaționale de birocrație",
-        "tirania orarului în activitatea școlară",
-        "un rol subordonat finalităților educaționale"
+        "nivelurile subordonate ale ierarhiei educaționale"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „consiliului de administrație și părților interesate”.",
@@ -1044,21 +1044,21 @@
     {
       "q": "Ce pericol semnalează autorul în privința procedurilor?",
       "options": [
-        "consiliului de administrație și părților interesate",
+        "centralizarea și birocrația excesivă persistente",
+        "controlul local și îmbunătățirea calității",
         "dominarea scopurilor educaționale de birocrație",
-        "tirania orarului în activitatea școlară",
         "un rol subordonat finalităților educaționale"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „dominarea scopurilor educaționale de birocrație”.",
       "kind": "Text"
     },
     {
       "q": "Ce rol trebuie să aibă birocrația față de scopurile școlii?",
       "options": [
-        "consiliului de administrație și părților interesate",
+        "autonomie sporită pentru profesori și directori",
+        "discreția și autonomia profesională exercitate",
         "dominarea scopurilor educaționale de birocrație",
-        "tirania orarului în activitatea școlară",
         "un rol subordonat finalităților educaționale"
       ],
       "answer": 3,
@@ -1069,35 +1069,35 @@
       "q": "În ce sisteme este birocrația probabil preferată?",
       "options": [
         "autonomie sporită pentru profesori și directori",
-        "centralizarea și birocrația excesivă persistente",
         "în sisteme educaționale puternic centralizate",
-        "nivelurile subordonate ale ierarhiei educaționale"
+        "organizațiile educaționale de dimensiuni mari",
+        "un rol subordonat finalităților educaționale"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „în sisteme educaționale puternic centralizate”.",
       "kind": "Text"
     },
     {
       "q": "Ce controlează aparatul birocratic centralizat?",
       "options": [
-        "autonomie sporită pentru profesori și directori",
         "centralizarea și birocrația excesivă persistente",
-        "în sisteme educaționale puternic centralizate",
-        "nivelurile subordonate ale ierarhiei educaționale"
+        "consiliului de administrație și părților interesate",
+        "nivelurile subordonate ale ierarhiei educaționale",
+        "organizațiile educaționale de dimensiuni mari"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „nivelurile subordonate ale ierarhiei educaționale”.",
       "kind": "Text"
     },
     {
       "q": "Ce afectează eficacitatea potrivit lui Newland?",
       "options": [
-        "autonomie sporită pentru profesori și directori",
         "centralizarea și birocrația excesivă persistente",
-        "în sisteme educaționale puternic centralizate",
-        "nivelurile subordonate ale ierarhiei educaționale"
+        "impunerea politicilor și a standardelor rigide",
+        "nivelurile subordonate ale ierarhiei educaționale",
+        "organizațiile educaționale de dimensiuni mari"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „centralizarea și birocrația excesivă persistente”.",
       "kind": "Text"
     },
@@ -1106,8 +1106,8 @@
       "options": [
         "autonomie sporită pentru profesori și directori",
         "centralizarea și birocrația excesivă persistente",
-        "în sisteme educaționale puternic centralizate",
-        "nivelurile subordonate ale ierarhiei educaționale"
+        "dominarea scopurilor educaționale de birocrație",
+        "predarea potrivit expertizei profesorilor"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „autonomie sporită pentru profesori și directori”.",
@@ -1116,21 +1116,21 @@
     {
       "q": "Ce a facilitat managementul la nivelul școlii în Victoria?",
       "options": [
+        "activitatea elevilor și a personalului didactic",
         "controlul local și îmbunătățirea calității",
-        "discreția și autonomia profesională exercitate",
         "impunerea politicilor și a standardelor rigide",
-        "școli mai autonome și mai flexibile"
+        "în sisteme educaționale puternic centralizate"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „controlul local și îmbunătățirea calității”.",
       "kind": "Text"
     },
     {
       "q": "Ce fel de școli a produs managementul local comparativ?",
       "options": [
+        "autonomie sporită pentru profesori și directori",
         "controlul local și îmbunătățirea calității",
-        "discreția și autonomia profesională exercitate",
-        "impunerea politicilor și a standardelor rigide",
+        "directorul instituției de învățământ",
         "școli mai autonome și mai flexibile"
       ],
       "answer": 3,
@@ -1140,22 +1140,22 @@
     {
       "q": "Ce poate dăuna creativității profesorilor?",
       "options": [
-        "controlul local și îmbunătățirea calității",
         "discreția și autonomia profesională exercitate",
         "impunerea politicilor și a standardelor rigide",
-        "școli mai autonome și mai flexibile"
+        "în sisteme educaționale puternic centralizate",
+        "predarea potrivit expertizei profesorilor"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „impunerea politicilor și a standardelor rigide”.",
       "kind": "Text"
     },
     {
       "q": "Ce au redus auditul și reglementarea muncii profesorilor?",
       "options": [
-        "controlul local și îmbunătățirea calității",
+        "când participă la propria schimbare educațională",
         "discreția și autonomia profesională exercitate",
         "impunerea politicilor și a standardelor rigide",
-        "școli mai autonome și mai flexibile"
+        "în sisteme educaționale puternic centralizate"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „discreția și autonomia profesională exercitate”.",
@@ -1165,11 +1165,11 @@
       "q": "De ce aplicarea excesivă este dificilă în educație?",
       "options": [
         "când participă la propria schimbare educațională",
+        "consiliului de administrație și părților interesate",
         "datorită rolului profesional al cadrelor didactice",
-        "eșecul inovației impuse din exterior",
-        "implementare lipsită de entuziasm din partea profesorilor"
+        "nivelurile subordonate ale ierarhiei educaționale"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „datorită rolului profesional al cadrelor didactice”.",
       "kind": "Text"
     },
@@ -1178,8 +1178,8 @@
       "options": [
         "când participă la propria schimbare educațională",
         "datorită rolului profesional al cadrelor didactice",
-        "eșecul inovației impuse din exterior",
-        "implementare lipsită de entuziasm din partea profesorilor"
+        "nivelurile subordonate ale ierarhiei educaționale",
+        "organizațiile educaționale de dimensiuni mari"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „când participă la propria schimbare educațională”.",
@@ -1188,22 +1188,22 @@
     {
       "q": "Ce atitudine poate produce schimbarea impusă extern?",
       "options": [
-        "când participă la propria schimbare educațională",
+        "centralizarea și birocrația excesivă persistente",
         "datorită rolului profesional al cadrelor didactice",
-        "eșecul inovației impuse din exterior",
-        "implementare lipsită de entuziasm din partea profesorilor"
+        "implementare lipsită de entuziasm din partea profesorilor",
+        "impunerea politicilor și a standardelor rigide"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „implementare lipsită de entuziasm din partea profesorilor”.",
       "kind": "Text"
     },
     {
       "q": "Ce rezultat poate avea implementarea fără entuziasm?",
       "options": [
+        "activitatea elevilor și a personalului didactic",
         "când participă la propria schimbare educațională",
-        "datorită rolului profesional al cadrelor didactice",
         "eșecul inovației impuse din exterior",
-        "implementare lipsită de entuziasm din partea profesorilor"
+        "școli mai autonome și mai flexibile"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 63–65), răspunsul este „eșecul inovației impuse din exterior”.",
@@ -1214,45 +1214,45 @@
     {
       "q": "Ce privilegiază modelul rațional față de celelalte modele?",
       "options": [
+        "contribuția la obiectivele organizației",
+        "decizii pe moment în situații în evoluție",
         "în structura organizațională deja stabilită",
-        "perceperea problemei ori oportunității de alegere",
-        "procesul managerial al luării deciziilor",
-        "realizarea scopurilor organizaționale stabilite"
+        "procesul managerial al luării deciziilor"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „procesul managerial al luării deciziilor”.",
       "kind": "Text"
     },
     {
       "q": "În ce cadru se desfășoară decizia rațională?",
       "options": [
+        "costul de oportunitate al opțiunilor bugetare",
+        "datele relevante despre problema examinată",
         "în structura organizațională deja stabilită",
-        "perceperea problemei ori oportunității de alegere",
-        "procesul managerial al luării deciziilor",
-        "realizarea scopurilor organizaționale stabilite"
+        "procesul managerial al luării deciziilor"
       ],
-      "answer": 0,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „în structura organizațională deja stabilită”.",
       "kind": "Text"
     },
     {
       "q": "Ce urmărește procesul rațional de decizie?",
       "options": [
-        "în structura organizațională deja stabilită",
+        "costul de oportunitate al opțiunilor bugetare",
         "perceperea problemei ori oportunității de alegere",
-        "procesul managerial al luării deciziilor",
-        "realizarea scopurilor organizaționale stabilite"
+        "realizarea scopurilor organizaționale stabilite",
+        "un model normativ al deciziei organizaționale"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „realizarea scopurilor organizaționale stabilite”.",
       "kind": "Text"
     },
     {
       "q": "Care este primul pas în schema procesului rațional?",
       "options": [
-        "în structura organizațională deja stabilită",
+        "evaluarea poate redefini problema inițială",
         "perceperea problemei ori oportunității de alegere",
-        "procesul managerial al luării deciziilor",
+        "preferințele indivizilor și grupurilor implicate",
         "realizarea scopurilor organizaționale stabilite"
       ],
       "answer": 1,
@@ -1263,9 +1263,9 @@
       "q": "Ce presupune analiza problemei înainte de decizie?",
       "options": [
         "colectarea datelor necesare evaluării",
-        "contribuția la obiectivele organizației",
-        "formularea soluțiilor și opțiunilor alternative",
-        "implementarea soluției deja selectate"
+        "implementarea soluției deja selectate",
+        "în structura organizațională deja stabilită",
+        "scopurile articulate și prioritățile școlii"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „colectarea datelor necesare evaluării”.",
@@ -1274,10 +1274,10 @@
     {
       "q": "Ce urmează după analizarea problemei?",
       "options": [
-        "colectarea datelor necesare evaluării",
+        "considerarea efectelor dincolo de ciclul bugetar",
         "contribuția la obiectivele organizației",
         "formularea soluțiilor și opțiunilor alternative",
-        "implementarea soluției deja selectate"
+        "perceperea problemei ori oportunității de alegere"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „formularea soluțiilor și opțiunilor alternative”.",
@@ -1288,8 +1288,8 @@
       "options": [
         "colectarea datelor necesare evaluării",
         "contribuția la obiectivele organizației",
-        "formularea soluțiilor și opțiunilor alternative",
-        "implementarea soluției deja selectate"
+        "evaluarea poate redefini problema inițială",
+        "un model normativ al deciziei organizaționale"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „contribuția la obiectivele organizației”.",
@@ -1299,11 +1299,11 @@
       "q": "Ce etapă urmează alegerii alternativei potrivite?",
       "options": [
         "colectarea datelor necesare evaluării",
-        "contribuția la obiectivele organizației",
-        "formularea soluțiilor și opțiunilor alternative",
-        "implementarea soluției deja selectate"
+        "implementarea soluției deja selectate",
+        "în structura organizațională deja stabilită",
+        "scopurile articulate și prioritățile școlii"
       ],
-      "answer": 3,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „implementarea soluției deja selectate”.",
       "kind": "Text"
     },
@@ -1311,23 +1311,23 @@
       "q": "Cum se încheie ciclul decizional rațional?",
       "options": [
         "consecințele soluțiilor alternative propuse",
-        "decizii pe moment în situații în evoluție",
-        "evaluarea poate redefini problema inițială",
-        "monitorizarea și evaluarea strategiei alese"
+        "în structura organizațională deja stabilită",
+        "monitorizarea și evaluarea strategiei alese",
+        "scopurile articulate și prioritățile școlii"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „monitorizarea și evaluarea strategiei alese”.",
       "kind": "Text"
     },
     {
       "q": "De ce este procesul rațional unul repetitiv?",
       "options": [
-        "consecințele soluțiilor alternative propuse",
-        "decizii pe moment în situații în evoluție",
         "evaluarea poate redefini problema inițială",
-        "monitorizarea și evaluarea strategiei alese"
+        "monitorizarea și evaluarea strategiei alese",
+        "procesul managerial al luării deciziilor",
+        "un model normativ al deciziei organizaționale"
       ],
-      "answer": 2,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „evaluarea poate redefini problema inițială”.",
       "kind": "Text"
     },
@@ -1335,9 +1335,9 @@
       "q": "Ce pot cântări factorii decizionali prin planificare?",
       "options": [
         "consecințele soluțiilor alternative propuse",
-        "decizii pe moment în situații în evoluție",
-        "evaluarea poate redefini problema inițială",
-        "monitorizarea și evaluarea strategiei alese"
+        "monitorizarea și evaluarea strategiei alese",
+        "procesul managerial al luării deciziilor",
+        "un model normativ al deciziei organizaționale"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „consecințele soluțiilor alternative propuse”.",
@@ -1346,10 +1346,10 @@
     {
       "q": "Ce fel de decizii iau profesorii și directorii uneori?",
       "options": [
-        "consecințele soluțiilor alternative propuse",
+        "costul de oportunitate al opțiunilor bugetare",
         "decizii pe moment în situații în evoluție",
         "evaluarea poate redefini problema inițială",
-        "monitorizarea și evaluarea strategiei alese"
+        "procesul managerial al luării deciziilor"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „decizii pe moment în situații în evoluție”.",
@@ -1359,8 +1359,8 @@
       "q": "Cum califică autorul descrierea rațională idealizată?",
       "options": [
         "datele relevante despre problema examinată",
-        "perspectivele diferite asupra obiectivelor școlii",
-        "preferințele indivizilor și grupurilor implicate",
+        "monitorizarea și evaluarea strategiei alese",
+        "realizarea scopurilor organizaționale stabilite",
         "un model normativ al deciziei organizaționale"
       ],
       "answer": 3,
@@ -1370,44 +1370,44 @@
     {
       "q": "Ce poate face identificarea problemei discutabilă?",
       "options": [
-        "datele relevante despre problema examinată",
         "perspectivele diferite asupra obiectivelor școlii",
         "preferințele indivizilor și grupurilor implicate",
-        "un model normativ al deciziei organizaționale"
+        "realizarea scopurilor organizaționale stabilite",
+        "scopurile articulate și prioritățile școlii"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „perspectivele diferite asupra obiectivelor școlii”.",
       "kind": "Text"
     },
     {
       "q": "Ce resursă necesară unei decizii poate lipsi?",
       "options": [
+        "consecințele soluțiilor alternative propuse",
         "datele relevante despre problema examinată",
-        "perspectivele diferite asupra obiectivelor școlii",
-        "preferințele indivizilor și grupurilor implicate",
+        "realizarea scopurilor organizaționale stabilite",
         "un model normativ al deciziei organizaționale"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „datele relevante despre problema examinată”.",
       "kind": "Text"
     },
     {
       "q": "Ce poate altera alegerea imparțială a soluției?",
       "options": [
-        "datele relevante despre problema examinată",
+        "costul de oportunitate al opțiunilor bugetare",
+        "în structura organizațională deja stabilită",
         "perspectivele diferite asupra obiectivelor școlii",
-        "preferințele indivizilor și grupurilor implicate",
-        "un model normativ al deciziei organizaționale"
+        "preferințele indivizilor și grupurilor implicate"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „preferințele indivizilor și grupurilor implicate”.",
       "kind": "Text"
     },
     {
       "q": "Ce ar trebui să orienteze alocarea rațională a resurselor?",
       "options": [
-        "considerarea efectelor dincolo de ciclul bugetar",
-        "costul de oportunitate al opțiunilor bugetare",
+        "în structura organizațională deja stabilită",
+        "monitorizarea și evaluarea strategiei alese",
         "reexaminarea tuturor domeniilor de cheltuieli",
         "scopurile articulate și prioritățile școlii"
       ],
@@ -1419,9 +1419,9 @@
       "q": "Ce cere planificarea bugetară pe termen lung?",
       "options": [
         "considerarea efectelor dincolo de ciclul bugetar",
-        "costul de oportunitate al opțiunilor bugetare",
-        "reexaminarea tuturor domeniilor de cheltuieli",
-        "scopurile articulate și prioritățile școlii"
+        "formularea soluțiilor și opțiunilor alternative",
+        "în structura organizațională deja stabilită",
+        "reexaminarea tuturor domeniilor de cheltuieli"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „considerarea efectelor dincolo de ciclul bugetar”.",
@@ -1430,24 +1430,24 @@
     {
       "q": "Ce înseamnă bugetarea în bază zero?",
       "options": [
-        "considerarea efectelor dincolo de ciclul bugetar",
         "costul de oportunitate al opțiunilor bugetare",
-        "reexaminarea tuturor domeniilor de cheltuieli",
-        "scopurile articulate și prioritățile școlii"
+        "datele relevante despre problema examinată",
+        "formularea soluțiilor și opțiunilor alternative",
+        "reexaminarea tuturor domeniilor de cheltuieli"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „reexaminarea tuturor domeniilor de cheltuieli”.",
       "kind": "Text"
     },
     {
       "q": "Ce cercetează evaluarea alternativelor de cheltuire?",
       "options": [
-        "considerarea efectelor dincolo de ciclul bugetar",
         "costul de oportunitate al opțiunilor bugetare",
-        "reexaminarea tuturor domeniilor de cheltuieli",
-        "scopurile articulate și prioritățile școlii"
+        "monitorizarea și evaluarea strategiei alese",
+        "perceperea problemei ori oportunității de alegere",
+        "reexaminarea tuturor domeniilor de cheltuieli"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 65–68), răspunsul este „costul de oportunitate al opțiunilor bugetare”.",
       "kind": "Text"
     }
@@ -1456,21 +1456,21 @@
     {
       "q": "Ce relații evidențiază modelele ierarhice?",
       "options": [
-        "autoritatea și responsabilitatea managerilor superiori",
+        "arbitrul final al problemelor instituționale",
+        "China în analiza realizată de Bush și Qiang",
         "organizația birocratică structurată pe roluri",
-        "relațiile verticale din cadrul organizației",
-        "sponsorilor externi ai instituției educaționale"
+        "relațiile verticale din cadrul organizației"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „relațiile verticale din cadrul organizației”.",
       "kind": "Text"
     },
     {
       "q": "În fața cui răspund liderii în acest model?",
       "options": [
-        "autoritatea și responsabilitatea managerilor superiori",
+        "arbitrul final al problemelor instituționale",
+        "discreție profesională în predare și evaluare",
         "organizația birocratică structurată pe roluri",
-        "relațiile verticale din cadrul organizației",
         "sponsorilor externi ai instituției educaționale"
       ],
       "answer": 3,
@@ -1481,8 +1481,8 @@
       "q": "Pe ce pune accent descrierea structurii ierarhice?",
       "options": [
         "autoritatea și responsabilitatea managerilor superiori",
-        "organizația birocratică structurată pe roluri",
-        "relațiile verticale din cadrul organizației",
+        "comunicarea verticală între nivelurile instituției",
+        "de la rolurile inferioare spre cele superioare",
         "sponsorilor externi ai instituției educaționale"
       ],
       "answer": 0,
@@ -1492,45 +1492,45 @@
     {
       "q": "În ce tip de organizație încadrează Packwood ierarhia?",
       "options": [
-        "autoritatea și responsabilitatea managerilor superiori",
+        "coordonării dintre colegi aflați la același nivel",
+        "de la rolurile superioare spre cele inferioare",
         "organizația birocratică structurată pe roluri",
-        "relațiile verticale din cadrul organizației",
-        "sponsorilor externi ai instituției educaționale"
+        "relațiile verticale din cadrul organizației"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „organizația birocratică structurată pe roluri”.",
       "kind": "Text"
     },
     {
       "q": "În ce direcție se deleagă autoritatea pentru sarcini?",
       "options": [
+        "arbitrul final al problemelor instituționale",
+        "calități personale mai degrabă decât funcții",
         "de la rolurile inferioare spre cele superioare",
-        "de la rolurile superioare spre cele inferioare",
-        "din poziția formală de director al școlii",
-        "sunt atașate rolurilor și nu persoanelor"
+        "de la rolurile superioare spre cele inferioare"
       ],
-      "answer": 1,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „de la rolurile superioare spre cele inferioare”.",
       "kind": "Text"
     },
     {
       "q": "În ce direcție circulă răspunderea pentru performanță?",
       "options": [
+        "China în analiza realizată de Bush și Qiang",
         "de la rolurile inferioare spre cele superioare",
         "de la rolurile superioare spre cele inferioare",
-        "din poziția formală de director al școlii",
-        "sunt atașate rolurilor și nu persoanelor"
+        "discreție profesională în predare și evaluare"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „de la rolurile inferioare spre cele superioare”.",
       "kind": "Text"
     },
     {
       "q": "De ce sunt impersonale autoritatea și responsabilitatea?",
       "options": [
-        "de la rolurile inferioare spre cele superioare",
-        "de la rolurile superioare spre cele inferioare",
+        "autoritatea legală exercitată de directori",
         "din poziția formală de director al școlii",
+        "sponsorilor externi ai instituției educaționale",
         "sunt atașate rolurilor și nu persoanelor"
       ],
       "answer": 3,
@@ -1540,24 +1540,24 @@
     {
       "q": "De unde derivă autoritatea directorului asupra adjunctului?",
       "options": [
-        "de la rolurile inferioare spre cele superioare",
-        "de la rolurile superioare spre cele inferioare",
+        "arbitrul final al problemelor instituționale",
         "din poziția formală de director al școlii",
+        "relațiile verticale din cadrul organizației",
         "sunt atașate rolurilor și nu persoanelor"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „din poziția formală de director al școlii”.",
       "kind": "Text"
     },
     {
       "q": "Ce tip de comunicare domină modelul ierarhic?",
       "options": [
-        "arbitrul final al problemelor instituționale",
         "comunicarea verticală între nivelurile instituției",
-        "de sus în jos către personalul subordonat",
-        "la un nivel superior capabil să le soluționeze"
+        "coordonării dintre colegi aflați la același nivel",
+        "la un nivel superior capabil să le soluționeze",
+        "sponsorilor externi ai instituției educaționale"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „comunicarea verticală între nivelurile instituției”.",
       "kind": "Text"
     },
@@ -1565,11 +1565,11 @@
       "q": "În ce sens circulă politicile aprobate prin ierarhie?",
       "options": [
         "arbitrul final al problemelor instituționale",
-        "comunicarea verticală între nivelurile instituției",
-        "de sus în jos către personalul subordonat",
-        "la un nivel superior capabil să le soluționeze"
+        "colegialitatea și autonomia profesorilor",
+        "de la rolurile superioare spre cele inferioare",
+        "de sus în jos către personalul subordonat"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „de sus în jos către personalul subordonat”.",
       "kind": "Text"
     },
@@ -1577,11 +1577,11 @@
       "q": "Unde ajung problemele nerezolvate la nivel inferior?",
       "options": [
         "arbitrul final al problemelor instituționale",
-        "comunicarea verticală între nivelurile instituției",
-        "de sus în jos către personalul subordonat",
-        "la un nivel superior capabil să le soluționeze"
+        "coordonării dintre colegi aflați la același nivel",
+        "la un nivel superior capabil să le soluționeze",
+        "sponsorilor externi ai instituției educaționale"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „la un nivel superior capabil să le soluționeze”.",
       "kind": "Text"
     },
@@ -1589,9 +1589,9 @@
       "q": "Ce rol are directorul în conflictele nerezolvate?",
       "options": [
         "arbitrul final al problemelor instituționale",
-        "comunicarea verticală între nivelurile instituției",
-        "de sus în jos către personalul subordonat",
-        "la un nivel superior capabil să le soluționeze"
+        "la un nivel superior capabil să le soluționeze",
+        "organizația birocratică structurată pe roluri",
+        "sunt atașate rolurilor și nu persoanelor"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „arbitrul final al problemelor instituționale”.",
@@ -1601,9 +1601,9 @@
       "q": "La ce servește comunicarea orizontală potrivit lui Packwood?",
       "options": [
         "autoritate managerială asupra profesorilor de clasă",
-        "consiliului de administrație și autorităților locale",
+        "calități personale mai degrabă decât funcții",
         "coordonării dintre colegi aflați la același nivel",
-        "discreție profesională în predare și evaluare"
+        "la un nivel superior capabil să le soluționeze"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „coordonării dintre colegi aflați la același nivel”.",
@@ -1612,12 +1612,12 @@
     {
       "q": "Ce nu deține titularul de disciplină asupra colegilor?",
       "options": [
+        "arbitrul final al problemelor instituționale",
         "autoritate managerială asupra profesorilor de clasă",
         "consiliului de administrație și autorităților locale",
-        "coordonării dintre colegi aflați la același nivel",
-        "discreție profesională în predare și evaluare"
+        "sponsorilor externi ai instituției educaționale"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „autoritate managerială asupra profesorilor de clasă”.",
       "kind": "Text"
     },
@@ -1625,20 +1625,20 @@
       "q": "În fața cui răspunde directorul pentru activitatea școlii?",
       "options": [
         "autoritate managerială asupra profesorilor de clasă",
+        "China în analiza realizată de Bush și Qiang",
         "consiliului de administrație și autorităților locale",
-        "coordonării dintre colegi aflați la același nivel",
-        "discreție profesională în predare și evaluare"
+        "sponsorilor externi ai instituției educaționale"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „consiliului de administrație și autorităților locale”.",
       "kind": "Text"
     },
     {
       "q": "Ce solicită profesorii ca profesioniști în activitatea de clasă?",
       "options": [
-        "autoritate managerială asupra profesorilor de clasă",
-        "consiliului de administrație și autorităților locale",
+        "arbitrul final al problemelor instituționale",
         "coordonării dintre colegi aflați la același nivel",
+        "de la rolurile inferioare spre cele superioare",
         "discreție profesională în predare și evaluare"
       ],
       "answer": 3,
@@ -1649,23 +1649,23 @@
       "q": "Ce poate tempera importanța ierarhiei școlare?",
       "options": [
         "autoritatea legală exercitată de directori",
-        "calități personale mai degrabă decât funcții",
-        "China în analiza realizată de Bush și Qiang",
-        "colegialitatea și autonomia profesorilor"
+        "colegialitatea și autonomia profesorilor",
+        "de sus în jos către personalul subordonat",
+        "sunt atașate rolurilor și nu persoanelor"
       ],
-      "answer": 3,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „colegialitatea și autonomia profesorilor”.",
       "kind": "Text"
     },
     {
       "q": "Pe ce se sprijină leadershipul distribuit potrivit lui Hatcher?",
       "options": [
-        "autoritatea legală exercitată de directori",
         "calități personale mai degrabă decât funcții",
         "China în analiza realizată de Bush și Qiang",
-        "colegialitatea și autonomia profesorilor"
+        "din poziția formală de director al școlii",
+        "relațiile verticale din cadrul organizației"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „calități personale mai degrabă decât funcții”.",
       "kind": "Text"
     },
@@ -1673,9 +1673,9 @@
       "q": "Ce menține ierarhia importantă în școli și colegii?",
       "options": [
         "autoritatea legală exercitată de directori",
-        "calități personale mai degrabă decât funcții",
         "China în analiza realizată de Bush și Qiang",
-        "colegialitatea și autonomia profesorilor"
+        "organizația birocratică structurată pe roluri",
+        "sunt atașate rolurilor și nu persoanelor"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „autoritatea legală exercitată de directori”.",
@@ -1684,10 +1684,10 @@
     {
       "q": "Ce societate ilustrează respectul pentru autoritatea pozițională?",
       "options": [
-        "autoritatea legală exercitată de directori",
+        "arbitrul final al problemelor instituționale",
         "calități personale mai degrabă decât funcții",
         "China în analiza realizată de Bush și Qiang",
-        "colegialitatea și autonomia profesorilor"
+        "sponsorilor externi ai instituției educaționale"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 68–69), răspunsul este „China în analiza realizată de Bush și Qiang”.",
@@ -1698,10 +1698,10 @@
     {
       "q": "Cum sunt descrise școlile în perspectiva formală?",
       "options": [
-        "directorii împreună cu echipa de conducere",
+        "conceperea și îndeplinirea obiectivelor școlii",
         "lucrează împreună pentru scopurile oficiale",
         "organizații orientate spre obiective specifice",
-        "scopurile fundamentale ale educației"
+        "printr-o abordare echilibrată în leadership"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „organizații orientate spre obiective specifice”.",
@@ -1710,12 +1710,12 @@
     {
       "q": "Cine stabilește de regulă obiectivele oficiale?",
       "options": [
+        "atingerea standardului la o disciplină",
         "directorii împreună cu echipa de conducere",
         "lucrează împreună pentru scopurile oficiale",
-        "organizații orientate spre obiective specifice",
-        "scopurile fundamentale ale educației"
+        "printr-o abordare echilibrată în leadership"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „directorii împreună cu echipa de conducere”.",
       "kind": "Text"
     },
@@ -1723,11 +1723,11 @@
       "q": "Ce se presupune despre membrii organizației?",
       "options": [
         "directorii împreună cu echipa de conducere",
+        "formarea caracterului în cadrul educației",
         "lucrează împreună pentru scopurile oficiale",
-        "organizații orientate spre obiective specifice",
-        "scopurile fundamentale ale educației"
+        "stabilirea lor în școală potrivit nevoilor"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „lucrează împreună pentru scopurile oficiale”.",
       "kind": "Text"
     },
@@ -1735,8 +1735,8 @@
       "q": "Ce trebuie să ghideze deciziile liderilor potrivit lui Begley?",
       "options": [
         "directorii împreună cu echipa de conducere",
-        "lucrează împreună pentru scopurile oficiale",
-        "organizații orientate spre obiective specifice",
+        "pot fi incompatibile în cadrul școlii",
+        "printr-o abordare echilibrată în leadership",
         "scopurile fundamentale ale educației"
       ],
       "answer": 3,
@@ -1746,22 +1746,22 @@
     {
       "q": "Ce urmăresc scopurile estetice menționate de Begley?",
       "options": [
+        "atingerea standardului la o disciplină",
         "formarea caracterului în cadrul educației",
         "formarea competențelor sociale și civice",
-        "învățarea pentru câștigarea existenței",
-        "printr-o abordare echilibrată în leadership"
+        "lucrează împreună pentru scopurile oficiale"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „formarea caracterului în cadrul educației”.",
       "kind": "Text"
     },
     {
       "q": "Ce urmăresc scopurile economice menționate de Begley?",
       "options": [
-        "formarea caracterului în cadrul educației",
+        "ambiția personală în propria carieră",
         "formarea competențelor sociale și civice",
         "învățarea pentru câștigarea existenței",
-        "printr-o abordare echilibrată în leadership"
+        "stabilirea lor în școală potrivit nevoilor"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „învățarea pentru câștigarea existenței”.",
@@ -1770,21 +1770,21 @@
     {
       "q": "Ce urmăresc funcțiile de socializare ale educației?",
       "options": [
+        "ambiția personală în propria carieră",
+        "directorii împreună cu echipa de conducere",
         "formarea caracterului în cadrul educației",
-        "formarea competențelor sociale și civice",
-        "învățarea pentru câștigarea existenței",
-        "printr-o abordare echilibrată în leadership"
+        "formarea competențelor sociale și civice"
       ],
-      "answer": 1,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „formarea competențelor sociale și civice”.",
       "kind": "Text"
     },
     {
       "q": "Cum trebuie tratate cele trei scopuri fundamentale?",
       "options": [
+        "directorii împreună cu echipa de conducere",
+        "existența obiectivelor multiple în școală",
         "formarea caracterului în cadrul educației",
-        "formarea competențelor sociale și civice",
-        "învățarea pentru câștigarea existenței",
         "printr-o abordare echilibrată în leadership"
       ],
       "answer": 3,
@@ -1795,9 +1795,9 @@
       "q": "Ce subliniază Davies și Davies în leadershipul strategic?",
       "options": [
         "alegerea direcției instituției educaționale",
-        "conceperea și îndeplinirea obiectivelor școlii",
-        "conducerea membrilor spre atingerea standardelor",
-        "dezvoltarea misiunii și obiectivelor adecvate"
+        "dezvoltarea misiunii și obiectivelor adecvate",
+        "lucrează împreună pentru scopurile oficiale",
+        "printr-o abordare echilibrată în leadership"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „alegerea direcției instituției educaționale”.",
@@ -1806,56 +1806,56 @@
     {
       "q": "Ce misiune atribuie Cheng liderilor?",
       "options": [
-        "alegerea direcției instituției educaționale",
         "conceperea și îndeplinirea obiectivelor școlii",
-        "conducerea membrilor spre atingerea standardelor",
-        "dezvoltarea misiunii și obiectivelor adecvate"
+        "dezvoltarea misiunii și obiectivelor adecvate",
+        "individual, departamental și instituțional",
+        "printr-o abordare echilibrată în leadership"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „conceperea și îndeplinirea obiectivelor școlii”.",
       "kind": "Text"
     },
     {
       "q": "Ce strategie propune Cheng pentru promovarea calității?",
       "options": [
-        "alegerea direcției instituției educaționale",
         "conceperea și îndeplinirea obiectivelor școlii",
-        "conducerea membrilor spre atingerea standardelor",
-        "dezvoltarea misiunii și obiectivelor adecvate"
+        "dezvoltarea misiunii și obiectivelor adecvate",
+        "existența obiectivelor multiple în școală",
+        "printr-o abordare echilibrată în leadership"
       ],
-      "answer": 3,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „dezvoltarea misiunii și obiectivelor adecvate”.",
       "kind": "Text"
     },
     {
       "q": "Ce altă strategie propune Cheng pentru calitate?",
       "options": [
-        "alegerea direcției instituției educaționale",
         "conceperea și îndeplinirea obiectivelor școlii",
         "conducerea membrilor spre atingerea standardelor",
-        "dezvoltarea misiunii și obiectivelor adecvate"
+        "învățarea pentru câștigarea existenței",
+        "organizații orientate spre obiective specifice"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „conducerea membrilor spre atingerea standardelor”.",
       "kind": "Text"
     },
     {
       "q": "Ce poate submina imaginea unui singur scop oficial?",
       "options": [
-        "ambiția personală în propria carieră",
-        "atingerea standardului la o disciplină",
+        "alegerea direcției instituției educaționale",
         "existența obiectivelor multiple în școală",
-        "individual, departamental și instituțional"
+        "individual, departamental și instituțional",
+        "lucrează împreună pentru scopurile oficiale"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „existența obiectivelor multiple în școală”.",
       "kind": "Text"
     },
     {
       "q": "Ce trei niveluri ale scopurilor se pot distinge?",
       "options": [
-        "ambiția personală în propria carieră",
-        "atingerea standardului la o disciplină",
+        "dezvoltarea misiunii și obiectivelor adecvate",
+        "directorii împreună cu echipa de conducere",
         "existența obiectivelor multiple în școală",
         "individual, departamental și instituțional"
       ],
@@ -1866,12 +1866,12 @@
     {
       "q": "Ce poate exprima un scop individual al profesorului?",
       "options": [
+        "alegerea direcției instituției educaționale",
         "ambiția personală în propria carieră",
         "atingerea standardului la o disciplină",
-        "existența obiectivelor multiple în școală",
-        "individual, departamental și instituțional"
+        "învățarea pentru câștigarea existenței"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „ambiția personală în propria carieră”.",
       "kind": "Text"
     },
@@ -1880,8 +1880,8 @@
       "options": [
         "ambiția personală în propria carieră",
         "atingerea standardului la o disciplină",
-        "existența obiectivelor multiple în școală",
-        "individual, departamental și instituțional"
+        "formarea caracterului în cadrul educației",
+        "scopuri interne și scopuri externe"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „atingerea standardului la o disciplină”.",
@@ -1890,10 +1890,10 @@
     {
       "q": "Cum se raportează uneori aceste obiective între ele?",
       "options": [
-        "centralizarea deciziilor la nivelul autorităților",
+        "ambiția personală în propria carieră",
         "pot fi incompatibile în cadrul școlii",
         "scopuri interne și scopuri externe",
-        "stabilirea lor în școală potrivit nevoilor"
+        "scopurile fundamentale ale educației"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „pot fi incompatibile în cadrul școlii”.",
@@ -1902,33 +1902,33 @@
     {
       "q": "Ce distincție între scopuri este făcută de Fishman?",
       "options": [
-        "centralizarea deciziilor la nivelul autorităților",
+        "atingerea standardului la o disciplină",
+        "lucrează împreună pentru scopurile oficiale",
         "pot fi incompatibile în cadrul școlii",
-        "scopuri interne și scopuri externe",
-        "stabilirea lor în școală potrivit nevoilor"
+        "scopuri interne și scopuri externe"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „scopuri interne și scopuri externe”.",
       "kind": "Text"
     },
     {
       "q": "Ce restrânge alegerea scopurilor de către liderii locali?",
       "options": [
+        "alegerea direcției instituției educaționale",
         "centralizarea deciziilor la nivelul autorităților",
-        "pot fi incompatibile în cadrul școlii",
-        "scopuri interne și scopuri externe",
+        "printr-o abordare echilibrată în leadership",
         "stabilirea lor în școală potrivit nevoilor"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 70–72), răspunsul este „centralizarea deciziilor la nivelul autorităților”.",
       "kind": "Text"
     },
     {
       "q": "Ce favorizează asumarea și implementarea scopurilor?",
       "options": [
-        "centralizarea deciziilor la nivelul autorităților",
+        "conceperea și îndeplinirea obiectivelor școlii",
+        "directorii împreună cu echipa de conducere",
         "pot fi incompatibile în cadrul școlii",
-        "scopuri interne și scopuri externe",
         "stabilirea lor în școală potrivit nevoilor"
       ],
       "answer": 3,
@@ -1942,8 +1942,8 @@
       "options": [
         "apartenență la instituția educațională",
         "ca un fapt obiectiv al instituției",
-        "continuitatea și permanența rolurilor oficiale",
-        "în raport cu poziția ocupată în școală"
+        "diversificarea școlilor din Singapore",
+        "prin rolul ocupat în structura formală"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „ca un fapt obiectiv al instituției”.",
@@ -1953,9 +1953,9 @@
       "q": "Ce sentiment pot insufla școlile personalului și elevilor?",
       "options": [
         "apartenență la instituția educațională",
-        "ca un fapt obiectiv al instituției",
-        "continuitatea și permanența rolurilor oficiale",
-        "în raport cu poziția ocupată în școală"
+        "ierarhic și pe verticală în instituție",
+        "în raport cu poziția ocupată în școală",
+        "poate manifesta rezistență considerabilă"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „apartenență la instituția educațională”.",
@@ -1965,11 +1965,11 @@
       "q": "Cum își definesc membrii personalului viața profesională?",
       "options": [
         "apartenență la instituția educațională",
-        "ca un fapt obiectiv al instituției",
-        "continuitatea și permanența rolurilor oficiale",
-        "în raport cu poziția ocupată în școală"
+        "în raport cu poziția ocupată în școală",
+        "prin rolul ocupat în structura formală",
+        "printr-un șef de departament intermediar"
       ],
-      "answer": 3,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „în raport cu poziția ocupată în școală”.",
       "kind": "Text"
     },
@@ -1977,11 +1977,11 @@
       "q": "Ce implică reprezentarea fizică a structurii?",
       "options": [
         "apartenență la instituția educațională",
-        "ca un fapt obiectiv al instituției",
         "continuitatea și permanența rolurilor oficiale",
-        "în raport cu poziția ocupată în școală"
+        "individualitatea persoanei care ocupă postul",
+        "modul de urmărire a obiectivelor școlii"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „continuitatea și permanența rolurilor oficiale”.",
       "kind": "Text"
     },
@@ -1989,8 +1989,8 @@
       "q": "Cum sunt definite sarcinile profesorilor în model?",
       "options": [
         "cerințele oficiale ale postului ocupat",
-        "individualitatea persoanei care ocupă postul",
-        "poziția deținută în organizația educațională",
+        "modul de urmărire a obiectivelor școlii",
+        "poate manifesta rezistență considerabilă",
         "prin rolul ocupat în structura formală"
       ],
       "answer": 3,
@@ -2000,10 +2000,10 @@
     {
       "q": "Ce influențează comportamentul individului în model?",
       "options": [
-        "cerințele oficiale ale postului ocupat",
         "individualitatea persoanei care ocupă postul",
+        "marjă redusă de reinterpretare a rolului",
         "poziția deținută în organizația educațională",
-        "prin rolul ocupat în structura formală"
+        "reinterpretarea poziției potrivit persoanei"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „poziția deținută în organizația educațională”.",
@@ -2012,10 +2012,10 @@
     {
       "q": "Ce este subordonat structurii în această perspectivă?",
       "options": [
-        "cerințele oficiale ale postului ocupat",
+        "continuitatea și permanența rolurilor oficiale",
         "individualitatea persoanei care ocupă postul",
-        "poziția deținută în organizația educațională",
-        "prin rolul ocupat în structura formală"
+        "poate manifesta rezistență considerabilă",
+        "poziția deținută în organizația educațională"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „individualitatea persoanei care ocupă postul”.",
@@ -2025,8 +2025,8 @@
       "q": "Ce influențează rolul liderilor și managerilor?",
       "options": [
         "cerințele oficiale ale postului ocupat",
-        "individualitatea persoanei care ocupă postul",
-        "poziția deținută în organizația educațională",
+        "diversificarea școlilor din Singapore",
+        "în raport cu poziția ocupată în școală",
         "prin rolul ocupat în structura formală"
       ],
       "answer": 0,
@@ -2037,8 +2037,8 @@
       "q": "Ce înseamnă asumarea rolului potrivit lui Hall?",
       "options": [
         "acceptarea poziției așa cum este definită",
-        "ierarhic și pe verticală în instituție",
-        "primatul funcției față de numele ocupantului",
+        "istoria gândirii ierarhice și birocratice",
+        "printr-un șef de departament intermediar",
         "reinterpretarea poziției potrivit persoanei"
       ],
       "answer": 0,
@@ -2048,8 +2048,8 @@
     {
       "q": "Ce înseamnă crearea rolului potrivit lui Hall?",
       "options": [
-        "acceptarea poziției așa cum este definită",
-        "ierarhic și pe verticală în instituție",
+        "apartenență la instituția educațională",
+        "marjă redusă de reinterpretare a rolului",
         "primatul funcției față de numele ocupantului",
         "reinterpretarea poziției potrivit persoanei"
       ],
@@ -2060,8 +2060,8 @@
     {
       "q": "Ce indică inscripția director pe ușa biroului?",
       "options": [
-        "acceptarea poziției așa cum este definită",
-        "ierarhic și pe verticală în instituție",
+        "continuitatea și permanența rolurilor oficiale",
+        "marjă redusă de reinterpretare a rolului",
         "primatul funcției față de numele ocupantului",
         "reinterpretarea poziției potrivit persoanei"
       ],
@@ -2073,20 +2073,20 @@
       "q": "Cum tind să fie configurate raporturile dintre funcții?",
       "options": [
         "acceptarea poziției așa cum este definită",
+        "cerințele oficiale ale postului ocupat",
         "ierarhic și pe verticală în instituție",
-        "primatul funcției față de numele ocupantului",
-        "reinterpretarea poziției potrivit persoanei"
+        "marjă redusă de reinterpretare a rolului"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „ierarhic și pe verticală în instituție”.",
       "kind": "Text"
     },
     {
       "q": "Prin cine poate răspunde un profesor în fața directorului?",
       "options": [
-        "egalitatea de șanse a elevilor",
-        "în relațiile școlare din Africa de Sud",
+        "apartenență la instituția educațională",
         "modul de urmărire a obiectivelor școlii",
+        "prin rolul ocupat în structura formală",
         "printr-un șef de departament intermediar"
       ],
       "answer": 3,
@@ -2096,10 +2096,10 @@
     {
       "q": "Unde este remarcat un etos de sus în jos?",
       "options": [
-        "egalitatea de șanse a elevilor",
+        "apartenență la instituția educațională",
         "în relațiile școlare din Africa de Sud",
-        "modul de urmărire a obiectivelor școlii",
-        "printr-un șef de departament intermediar"
+        "marjă redusă de reinterpretare a rolului",
+        "modul de urmărire a obiectivelor școlii"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „în relațiile școlare din Africa de Sud”.",
@@ -2108,8 +2108,8 @@
     {
       "q": "Ce alt element cuprinde structura, dincolo de organigramă?",
       "options": [
-        "egalitatea de șanse a elevilor",
-        "în relațiile școlare din Africa de Sud",
+        "cerințele oficiale ale postului ocupat",
+        "diversificarea școlilor din Singapore",
         "modul de urmărire a obiectivelor școlii",
         "printr-un șef de departament intermediar"
       ],
@@ -2120,60 +2120,60 @@
     {
       "q": "Ce obiectiv poate fi influențat de structură?",
       "options": [
+        "cerințele oficiale ale postului ocupat",
         "egalitatea de șanse a elevilor",
-        "în relațiile școlare din Africa de Sud",
-        "modul de urmărire a obiectivelor școlii",
-        "printr-un șef de departament intermediar"
+        "în raport cu poziția ocupată în școală",
+        "în relațiile școlare din Africa de Sud"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „egalitatea de șanse a elevilor”.",
       "kind": "Text"
     },
     {
       "q": "Cum poate reacționa structura la schimbare?",
       "options": [
-        "diversificarea școlilor din Singapore",
-        "istoria gândirii ierarhice și birocratice",
+        "acceptarea poziției așa cum este definită",
         "marjă redusă de reinterpretare a rolului",
-        "poate manifesta rezistență considerabilă"
+        "poate manifesta rezistență considerabilă",
+        "printr-un șef de departament intermediar"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „poate manifesta rezistență considerabilă”.",
       "kind": "Text"
     },
     {
       "q": "Ce exemplu ilustrează schimbarea structurală dificilă?",
       "options": [
+        "cerințele oficiale ale postului ocupat",
         "diversificarea școlilor din Singapore",
-        "istoria gândirii ierarhice și birocratice",
-        "marjă redusă de reinterpretare a rolului",
-        "poate manifesta rezistență considerabilă"
+        "poate manifesta rezistență considerabilă",
+        "printr-un șef de departament intermediar"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „diversificarea școlilor din Singapore”.",
       "kind": "Text"
     },
     {
       "q": "Ce trecut frânează uneori schimbarea structurală?",
       "options": [
-        "diversificarea școlilor din Singapore",
         "istoria gândirii ierarhice și birocratice",
-        "marjă redusă de reinterpretare a rolului",
-        "poate manifesta rezistență considerabilă"
+        "modul de urmărire a obiectivelor școlii",
+        "poate manifesta rezistență considerabilă",
+        "prin rolul ocupat în structura formală"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „istoria gândirii ierarhice și birocratice”.",
       "kind": "Text"
     },
     {
       "q": "Ce limită au preferințele persoanei numite într-un post?",
       "options": [
-        "diversificarea școlilor din Singapore",
-        "istoria gândirii ierarhice și birocratice",
+        "acceptarea poziției așa cum este definită",
         "marjă redusă de reinterpretare a rolului",
-        "poate manifesta rezistență considerabilă"
+        "poate manifesta rezistență considerabilă",
+        "poziția deținută în organizația educațională"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 72–73), răspunsul este „marjă redusă de reinterpretare a rolului”.",
       "kind": "Text"
     }
@@ -2182,12 +2182,12 @@
     {
       "q": "În ce privință diferă abordările formale?",
       "options": [
-        "autoritățile și organismele superioare",
         "definirea relației școlii cu mediul extern",
         "directorul în relația cu grupurile formale",
-        "la minimumul necesar responsabilizării"
+        "mai deschise spre influențele din exterior",
+        "propria judecată profesională despre elevi"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „definirea relației școlii cu mediul extern”.",
       "kind": "Text"
     },
@@ -2195,23 +2195,23 @@
       "q": "Cum limitează sistemele închise legăturile externe?",
       "options": [
         "autoritățile și organismele superioare",
-        "definirea relației școlii cu mediul extern",
-        "directorul în relația cu grupurile formale",
-        "la minimumul necesar responsabilizării"
+        "la minimumul necesar responsabilizării",
+        "prin oficialitățile responsabile din district",
+        "răspunderea față de elevi și părinți"
       ],
-      "answer": 3,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „la minimumul necesar responsabilizării”.",
       "kind": "Text"
     },
     {
       "q": "Cine reprezintă școala în legăturile oficiale?",
       "options": [
-        "autoritățile și organismele superioare",
         "definirea relației școlii cu mediul extern",
         "directorul în relația cu grupurile formale",
-        "la minimumul necesar responsabilizării"
+        "în fața oficialilor ierarhici superiori",
+        "realizările și performanțele elevilor școlii"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „directorul în relația cu grupurile formale”.",
       "kind": "Text"
     },
@@ -2219,9 +2219,9 @@
       "q": "Ce grupuri sunt privilegiate în sistemul închis?",
       "options": [
         "autoritățile și organismele superioare",
-        "definirea relației școlii cu mediul extern",
-        "directorul în relația cu grupurile formale",
-        "la minimumul necesar responsabilizării"
+        "factorii interni și externi ai școlii",
+        "la minimumul necesar responsabilizării",
+        "responsabilitatea în principal față de ierarhie"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „autoritățile și organismele superioare”.",
@@ -2230,45 +2230,45 @@
     {
       "q": "Ce grupuri sunt trecute în plan secund în modelul închis?",
       "options": [
+        "directorul în relația cu grupurile formale",
+        "inspecțiile și monitorizarea externă a școlii",
         "în fața oficialilor ierarhici superiori",
-        "părinții, angajatorii și alte instituții",
-        "răspunderea față de elevi și părinți",
-        "responsabilitatea în principal față de ierarhie"
+        "părinții, angajatorii și alte instituții"
       ],
-      "answer": 1,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „părinții, angajatorii și alte instituții”.",
       "kind": "Text"
     },
     {
       "q": "În fața cui primează răspunderea birocratică?",
       "options": [
+        "autoritățile și organismele superioare",
         "în fața oficialilor ierarhici superiori",
         "părinții, angajatorii și alte instituții",
-        "răspunderea față de elevi și părinți",
-        "responsabilitatea în principal față de ierarhie"
+        "realizările și performanțele elevilor școlii"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „în fața oficialilor ierarhici superiori”.",
       "kind": "Text"
     },
     {
       "q": "Ce răspundere este diminuată de sistemele închise?",
       "options": [
+        "autoritățile și organismele superioare",
         "în fața oficialilor ierarhici superiori",
-        "părinții, angajatorii și alte instituții",
-        "răspunderea față de elevi și părinți",
-        "responsabilitatea în principal față de ierarhie"
+        "pentru părinți, angajați și comunitatea locală",
+        "răspunderea față de elevi și părinți"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „răspunderea față de elevi și părinți”.",
       "kind": "Text"
     },
     {
       "q": "Ce tendință este remarcată la directorii din Africa de Sud?",
       "options": [
-        "în fața oficialilor ierarhici superiori",
+        "conformitatea curriculară și rezultatele învățării",
         "părinții, angajatorii și alte instituții",
-        "răspunderea față de elevi și părinți",
+        "realizările și performanțele elevilor școlii",
         "responsabilitatea în principal față de ierarhie"
       ],
       "answer": 3,
@@ -2278,12 +2278,12 @@
     {
       "q": "Prin cine se exercită ierarhia în districtele respective?",
       "options": [
-        "dependența directorilor de autoritățile superioare",
-        "organizații interactive adaptate mediului schimbător",
+        "inspecțiile și monitorizarea externă a școlii",
         "prin oficialitățile responsabile din district",
-        "realizările obținute de instituția educațională"
+        "realizările obținute de instituția educațională",
+        "realizările și performanțele elevilor școlii"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „prin oficialitățile responsabile din district”.",
       "kind": "Text"
     },
@@ -2292,8 +2292,8 @@
       "options": [
         "dependența directorilor de autoritățile superioare",
         "organizații interactive adaptate mediului schimbător",
-        "prin oficialitățile responsabile din district",
-        "realizările obținute de instituția educațională"
+        "pentru părinți, angajați și comunitatea locală",
+        "propria judecată profesională despre elevi"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „dependența directorilor de autoritățile superioare”.",
@@ -2303,19 +2303,19 @@
       "q": "Cum descriu sistemele deschise instituțiile școlare?",
       "options": [
         "dependența directorilor de autoritățile superioare",
+        "mai deschise spre influențele din exterior",
         "organizații interactive adaptate mediului schimbător",
-        "prin oficialitățile responsabile din district",
-        "realizările obținute de instituția educațională"
+        "realizările și performanțele elevilor școlii"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „organizații interactive adaptate mediului schimbător”.",
       "kind": "Text"
     },
     {
       "q": "Ce expun școlile deschise comunității locale?",
       "options": [
-        "dependența directorilor de autoritățile superioare",
-        "organizații interactive adaptate mediului schimbător",
+        "influența mediului asupra îmbunătățirii școlare",
+        "părinții, angajatorii și alte instituții",
         "prin oficialitățile responsabile din district",
         "realizările obținute de instituția educațională"
       ],
@@ -2326,22 +2326,22 @@
     {
       "q": "De ce caută școlile autonome o reputație bună?",
       "options": [
-        "conformitatea curriculară și rezultatele învățării",
+        "directorul în relația cu grupurile formale",
         "inspecțiile și monitorizarea externă a școlii",
-        "mai deschise spre influențele din exterior",
-        "pentru părinți, angajați și comunitatea locală"
+        "pentru părinți, angajați și comunitatea locală",
+        "realizările și performanțele elevilor școlii"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „pentru părinți, angajați și comunitatea locală”.",
       "kind": "Text"
     },
     {
       "q": "Cum sunt majoritatea instituțiilor din secolul XXI?",
       "options": [
-        "conformitatea curriculară și rezultatele învățării",
         "inspecțiile și monitorizarea externă a școlii",
+        "la minimumul necesar responsabilizării",
         "mai deschise spre influențele din exterior",
-        "pentru părinți, angajați și comunitatea locală"
+        "realizările și performanțele elevilor școlii"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „mai deschise spre influențele din exterior”.",
@@ -2350,10 +2350,10 @@
     {
       "q": "Ce întărește răspunderea formală față de ierarhie?",
       "options": [
-        "conformitatea curriculară și rezultatele învățării",
+        "definirea relației școlii cu mediul extern",
         "inspecțiile și monitorizarea externă a școlii",
-        "mai deschise spre influențele din exterior",
-        "pentru părinți, angajați și comunitatea locală"
+        "pentru părinți, angajați și comunitatea locală",
+        "responsabilitatea în principal față de ierarhie"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „inspecțiile și monitorizarea externă a școlii”.",
@@ -2363,9 +2363,9 @@
       "q": "Ce urmăresc sistemele de inspecție școlară?",
       "options": [
         "conformitatea curriculară și rezultatele învățării",
-        "inspecțiile și monitorizarea externă a școlii",
-        "mai deschise spre influențele din exterior",
-        "pentru părinți, angajați și comunitatea locală"
+        "pentru părinți, angajați și comunitatea locală",
+        "prin oficialitățile responsabile din district",
+        "propria judecată profesională despre elevi"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „conformitatea curriculară și rezultatele învățării”.",
@@ -2374,8 +2374,8 @@
     {
       "q": "Ce pot ignora liderii sub presiunea țintelor externe?",
       "options": [
-        "factorii interni și externi ai școlii",
-        "influența mediului asupra îmbunătățirii școlare",
+        "definirea relației școlii cu mediul extern",
+        "mai deschise spre influențele din exterior",
         "propria judecată profesională despre elevi",
         "realizările și performanțele elevilor școlii"
       ],
@@ -2387,9 +2387,9 @@
       "q": "Ce mai contează pentru îmbunătățire pe lângă leadership?",
       "options": [
         "factorii interni și externi ai școlii",
-        "influența mediului asupra îmbunătățirii școlare",
-        "propria judecată profesională despre elevi",
-        "realizările și performanțele elevilor școlii"
+        "în fața oficialilor ierarhici superiori",
+        "prin oficialitățile responsabile din district",
+        "propria judecată profesională despre elevi"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 73–74), răspunsul este „factorii interni și externi ai școlii”.",
@@ -2398,9 +2398,9 @@
     {
       "q": "Ce arată studiul Harris despre școlile în contexte dificile?",
       "options": [
-        "factorii interni și externi ai școlii",
+        "dependența directorilor de autoritățile superioare",
         "influența mediului asupra îmbunătățirii școlare",
-        "propria judecată profesională despre elevi",
+        "inspecțiile și monitorizarea externă a școlii",
         "realizările și performanțele elevilor școlii"
       ],
       "answer": 1,
@@ -2410,8 +2410,8 @@
     {
       "q": "Ce tip de rezultate pot fi influențate extern?",
       "options": [
-        "factorii interni și externi ai școlii",
-        "influența mediului asupra îmbunătățirii școlare",
+        "dependența directorilor de autoritățile superioare",
+        "inspecțiile și monitorizarea externă a școlii",
         "propria judecată profesională despre elevi",
         "realizările și performanțele elevilor școlii"
       ],
@@ -2424,8 +2424,8 @@
     {
       "q": "Cui atribuie modelele formale leadershipul instituțional?",
       "options": [
-        "analizarea problemelor și alegerea rațională",
-        "eroul aflat în vârful piramidei puterii",
+        "ca o etapă lipsită de probleme majore",
+        "finanțe, personal și relații externe",
         "obiectivele oficiale majore ale școlii",
         "persoanei aflate în vârful ierarhiei"
       ],
@@ -2436,24 +2436,24 @@
     {
       "q": "Ce stabilește liderul formal în modelul organizației?",
       "options": [
-        "analizarea problemelor și alegerea rațională",
+        "asumarea lor de către personalul didactic",
+        "directorul ca reprezentant oficial",
         "eroul aflat în vârful piramidei puterii",
-        "obiectivele oficiale majore ale școlii",
-        "persoanei aflate în vârful ierarhiei"
+        "obiectivele oficiale majore ale școlii"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „obiectivele oficiale majore ale școlii”.",
       "kind": "Text"
     },
     {
       "q": "Ce imagine folosesc Baldridge și colaboratorii?",
       "options": [
-        "analizarea problemelor și alegerea rațională",
+        "cu directorul în numele instituției",
+        "distanțarea echipei de lideri seniori",
         "eroul aflat în vârful piramidei puterii",
-        "obiectivele oficiale majore ale școlii",
-        "persoanei aflate în vârful ierarhiei"
+        "obiectivele oficiale majore ale școlii"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „eroul aflat în vârful piramidei puterii”.",
       "kind": "Text"
     },
@@ -2461,9 +2461,9 @@
       "q": "Ce sarcină primește liderul în imaginea eroului?",
       "options": [
         "analizarea problemelor și alegerea rațională",
+        "distanțarea echipei de lideri seniori",
         "eroul aflat în vârful piramidei puterii",
-        "obiectivele oficiale majore ale școlii",
-        "persoanei aflate în vârful ierarhiei"
+        "liderul oficial al instituției educaționale"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „analizarea problemelor și alegerea rațională”.",
@@ -2472,8 +2472,8 @@
     {
       "q": "Ce se așteaptă personalul de la liderul erou?",
       "options": [
-        "ca o etapă lipsită de probleme majore",
-        "liderul oficial al instituției educaționale",
+        "analizarea problemelor și alegerea rațională",
+        "nevoia consimțământului colegilor profesori",
         "opoziția sau indiferența membrilor personalului",
         "rezolvarea problemelor și a amenințărilor externe"
       ],
@@ -2484,10 +2484,10 @@
     {
       "q": "Cine adoptă politicile și inovațiile în această viziune?",
       "options": [
-        "ca o etapă lipsită de probleme majore",
+        "eroul aflat în vârful piramidei puterii",
         "liderul oficial al instituției educaționale",
         "opoziția sau indiferența membrilor personalului",
-        "rezolvarea problemelor și a amenințărilor externe"
+        "volumul mare de responsabilități manageriale"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „liderul oficial al instituției educaționale”.",
@@ -2496,8 +2496,8 @@
     {
       "q": "Ce reacție la schimbare este neglijată de model?",
       "options": [
-        "ca o etapă lipsită de probleme majore",
-        "liderul oficial al instituției educaționale",
+        "asumarea lor de către personalul didactic",
+        "mai ales în instituțiile de învățământ primar",
         "opoziția sau indiferența membrilor personalului",
         "rezolvarea problemelor și a amenințărilor externe"
       ],
@@ -2509,9 +2509,9 @@
       "q": "Cum este imaginată implementarea schimbării?",
       "options": [
         "ca o etapă lipsită de probleme majore",
+        "directorul școlii sau al colegiului",
         "liderul oficial al instituției educaționale",
-        "opoziția sau indiferența membrilor personalului",
-        "rezolvarea problemelor și a amenințărilor externe"
+        "obiectivele oficiale majore ale școlii"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „ca o etapă lipsită de probleme majore”.",
@@ -2521,59 +2521,59 @@
       "q": "Cine este punctul central al comunicării externe?",
       "options": [
         "cu directorul în numele instituției",
-        "directorul ca reprezentant oficial",
         "directorul școlii sau al colegiului",
-        "mai ales în instituțiile de învățământ primar"
+        "finanțe, personal și relații externe",
+        "persoanei aflate în vârful ierarhiei"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „directorul școlii sau al colegiului”.",
       "kind": "Text"
     },
     {
       "q": "Cu cine se așteaptă liderii comunității să comunice?",
       "options": [
+        "asumarea lor de către personalul didactic",
+        "ca o etapă lipsită de probleme majore",
         "cu directorul în numele instituției",
-        "directorul ca reprezentant oficial",
-        "directorul școlii sau al colegiului",
-        "mai ales în instituțiile de învățământ primar"
+        "directorul școlii sau al colegiului"
       ],
-      "answer": 0,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „cu directorul în numele instituției”.",
       "kind": "Text"
     },
     {
       "q": "Cine este văzut drept imaginea publică a școlii?",
       "options": [
-        "cu directorul în numele instituției",
+        "asumarea lor de către personalul didactic",
+        "ca o etapă lipsită de probleme majore",
         "directorul ca reprezentant oficial",
-        "directorul școlii sau al colegiului",
-        "mai ales în instituțiile de învățământ primar"
+        "directorul școlii sau al colegiului"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „directorul ca reprezentant oficial”.",
       "kind": "Text"
     },
     {
       "q": "Unde este accentuată identificarea școlii cu directorul?",
       "options": [
-        "cu directorul în numele instituției",
-        "directorul ca reprezentant oficial",
         "directorul școlii sau al colegiului",
-        "mai ales în instituțiile de învățământ primar"
+        "eroul aflat în vârful piramidei puterii",
+        "mai ales în instituțiile de învățământ primar",
+        "volumul mare de responsabilități manageriale"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „mai ales în instituțiile de învățământ primar”.",
       "kind": "Text"
     },
     {
       "q": "Ce limitează ideea liderului atotputernic?",
       "options": [
-        "asumarea lor de către personalul didactic",
-        "finanțe, personal și relații externe",
+        "ierarhia instituțională sub conducere colectivă",
         "nevoia consimțământului colegilor profesori",
+        "opoziția sau indiferența membrilor personalului",
         "volumul mare de responsabilități manageriale"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „nevoia consimțământului colegilor profesori”.",
       "kind": "Text"
     },
@@ -2581,9 +2581,9 @@
       "q": "Ce favorizează implementarea deciziilor la clasă?",
       "options": [
         "asumarea lor de către personalul didactic",
-        "finanțe, personal și relații externe",
-        "nevoia consimțământului colegilor profesori",
-        "volumul mare de responsabilități manageriale"
+        "ca o etapă lipsită de probleme majore",
+        "eroul aflat în vârful piramidei puterii",
+        "nevoia consimțământului colegilor profesori"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „asumarea lor de către personalul didactic”.",
@@ -2592,9 +2592,9 @@
     {
       "q": "De ce împart directorii școlilor autonome puterea?",
       "options": [
-        "asumarea lor de către personalul didactic",
-        "finanțe, personal și relații externe",
+        "mai ales în instituțiile de învățământ primar",
         "nevoia consimțământului colegilor profesori",
+        "rezolvarea problemelor și a amenințărilor externe",
         "volumul mare de responsabilități manageriale"
       ],
       "answer": 3,
@@ -2605,20 +2605,20 @@
       "q": "Ce sarcini suplimentare apar în școala autonomă?",
       "options": [
         "asumarea lor de către personalul didactic",
+        "cu directorul în numele instituției",
         "finanțe, personal și relații externe",
-        "nevoia consimțământului colegilor profesori",
-        "volumul mare de responsabilități manageriale"
+        "obiectivele oficiale majore ale școlii"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „finanțe, personal și relații externe”.",
       "kind": "Text"
     },
     {
       "q": "Ce efect are uneori împărțirea sarcinilor la vârf?",
       "options": [
-        "coordonarea schimbării de liderii formali seniori",
-        "distanțarea echipei de lideri seniori",
         "ierarhia instituțională sub conducere colectivă",
+        "liderul oficial al instituției educaționale",
+        "nevoia consimțământului colegilor profesori",
         "sporirea rolului echipei de lideri seniori"
       ],
       "answer": 3,
@@ -2628,10 +2628,10 @@
     {
       "q": "Ce se păstrează când conducerea devine o echipă?",
       "options": [
+        "analizarea problemelor și alegerea rațională",
         "coordonarea schimbării de liderii formali seniori",
-        "distanțarea echipei de lideri seniori",
         "ierarhia instituțională sub conducere colectivă",
-        "sporirea rolului echipei de lideri seniori"
+        "nevoia consimțământului colegilor profesori"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „ierarhia instituțională sub conducere colectivă”.",
@@ -2641,9 +2641,9 @@
       "q": "Ce descrie Wallace prin orchestrare distribuită?",
       "options": [
         "coordonarea schimbării de liderii formali seniori",
-        "distanțarea echipei de lideri seniori",
         "ierarhia instituțională sub conducere colectivă",
-        "sporirea rolului echipei de lideri seniori"
+        "mai ales în instituțiile de învățământ primar",
+        "nevoia consimțământului colegilor profesori"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „coordonarea schimbării de liderii formali seniori”.",
@@ -2652,12 +2652,12 @@
     {
       "q": "Ce risc percepe uneori restul personalului?",
       "options": [
-        "coordonarea schimbării de liderii formali seniori",
         "distanțarea echipei de lideri seniori",
-        "ierarhia instituțională sub conducere colectivă",
+        "finanțe, personal și relații externe",
+        "liderul oficial al instituției educaționale",
         "sporirea rolului echipei de lideri seniori"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 74–75), răspunsul este „distanțarea echipei de lideri seniori”.",
       "kind": "Text"
     }
@@ -2667,11 +2667,11 @@
       "q": "Cu ce familie de modele este asociat leadershipul managerial?",
       "options": [
         "funcții, sarcini și comportamente organizaționale",
-        "în cea mai mare parte rațional",
         "modelele formale ale organizației educaționale",
-        "munca altor membri ai organizației"
+        "puterea pozițională și procedurile formale",
+        "rezultatele măsurabile în dauna celor valoroase"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „modelele formale ale organizației educaționale”.",
       "kind": "Text"
     },
@@ -2679,9 +2679,9 @@
       "q": "Pe ce trebuie să se concentreze liderii manageriali?",
       "options": [
         "funcții, sarcini și comportamente organizaționale",
-        "în cea mai mare parte rațional",
+        "managementul excesiv lipsit de scop moral",
         "modelele formale ale organizației educaționale",
-        "munca altor membri ai organizației"
+        "responsabilități de management al școlii"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „funcții, sarcini și comportamente organizaționale”.",
@@ -2690,36 +2690,36 @@
     {
       "q": "Ce facilitează îndeplinirea competentă a sarcinilor?",
       "options": [
-        "funcții, sarcini și comportamente organizaționale",
         "în cea mai mare parte rațional",
-        "modelele formale ale organizației educaționale",
-        "munca altor membri ai organizației"
+        "învățarea și predarea în instituție",
+        "munca altor membri ai organizației",
+        "responsabilități de management al școlii"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „munca altor membri ai organizației”.",
       "kind": "Text"
     },
     {
       "q": "Cum este considerat comportamentul membrilor organizației?",
       "options": [
-        "funcții, sarcini și comportamente organizaționale",
         "în cea mai mare parte rațional",
-        "modelele formale ale organizației educaționale",
-        "munca altor membri ai organizației"
+        "munca altor membri ai organizației",
+        "valorile sectorului privat și ale pieței",
+        "valorile și scopurile educaționale"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „în cea mai mare parte rațional”.",
       "kind": "Text"
     },
     {
       "q": "Din ce derivă autoritatea în leadershipul managerial?",
       "options": [
+        "completarea abordărilor întemeiate pe valori",
         "din statutul poziției formale în ierarhie",
-        "puterea pozițională și procedurile formale",
-        "responsabilități de management al școlii",
-        "supervizarea personalului din instituție"
+        "modelele formale ale organizației educaționale",
+        "puterea pozițională și procedurile formale"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „din statutul poziției formale în ierarhie”.",
       "kind": "Text"
     },
@@ -2728,8 +2728,8 @@
       "options": [
         "din statutul poziției formale în ierarhie",
         "puterea pozițională și procedurile formale",
-        "responsabilități de management al școlii",
-        "supervizarea personalului din instituție"
+        "rezultatele măsurabile în dauna celor valoroase",
+        "viziunea unui viitor educațional diferit"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „puterea pozițională și procedurile formale”.",
@@ -2738,20 +2738,20 @@
     {
       "q": "Ce responsabilități avea tradițional directorul?",
       "options": [
-        "din statutul poziției formale în ierarhie",
-        "puterea pozițională și procedurile formale",
+        "modelele formale ale organizației educaționale",
         "responsabilități de management al școlii",
-        "supervizarea personalului din instituție"
+        "supervizarea personalului din instituție",
+        "valorile sectorului privat și ale pieței"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „responsabilități de management al școlii”.",
       "kind": "Text"
     },
     {
       "q": "Ce funcție managerială identifică Myers și Murphy?",
       "options": [
-        "din statutul poziției formale în ierarhie",
-        "puterea pozițională și procedurile formale",
+        "autonomia profesională a profesorilor",
+        "controlul comportamentului profesional",
         "responsabilități de management al școlii",
         "supervizarea personalului din instituție"
       ],
@@ -2763,11 +2763,11 @@
       "q": "Ce funcție vizează transferurile profesorilor?",
       "options": [
         "controlul comportamentului profesional",
-        "controlul ieșirilor organizației",
         "controlul intrărilor în organizație",
-        "viziunea unui viitor educațional diferit"
+        "învățarea și predarea în instituție",
+        "munca altor membri ai organizației"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „controlul intrărilor în organizație”.",
       "kind": "Text"
     },
@@ -2775,8 +2775,8 @@
       "q": "Ce funcție vizează descrierea posturilor?",
       "options": [
         "controlul comportamentului profesional",
-        "controlul ieșirilor organizației",
-        "controlul intrărilor în organizație",
+        "gestionarea activităților deja existente",
+        "munca altor membri ai organizației",
         "viziunea unui viitor educațional diferit"
       ],
       "answer": 0,
@@ -2786,12 +2786,12 @@
     {
       "q": "Ce funcție vizează testarea elevilor?",
       "options": [
-        "controlul comportamentului profesional",
         "controlul ieșirilor organizației",
         "controlul intrărilor în organizație",
-        "viziunea unui viitor educațional diferit"
+        "în cea mai mare parte rațional",
+        "valorile sectorului privat și ale pieței"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „controlul ieșirilor organizației”.",
       "kind": "Text"
     },
@@ -2799,8 +2799,8 @@
       "q": "Ce concept lipsește din acest tip de leadership?",
       "options": [
         "controlul comportamentului profesional",
-        "controlul ieșirilor organizației",
-        "controlul intrărilor în organizație",
+        "modelele formale ale organizației educaționale",
+        "supervizarea personalului din instituție",
         "viziunea unui viitor educațional diferit"
       ],
       "answer": 3,
@@ -2810,34 +2810,34 @@
     {
       "q": "Ce urmărește leadershipul managerial în primul rând?",
       "options": [
+        "completarea abordărilor întemeiate pe valori",
+        "din statutul poziției formale în ierarhie",
         "gestionarea activităților deja existente",
-        "învățarea și predarea în instituție",
-        "managementul excesiv lipsit de scop moral",
-        "valorile și scopurile educaționale"
+        "managementul excesiv lipsit de scop moral"
       ],
-      "answer": 0,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „gestionarea activităților deja existente”.",
       "kind": "Text"
     },
     {
       "q": "Ce trebuie să sprijine managementul școlar?",
       "options": [
-        "gestionarea activităților deja existente",
+        "autonomia profesională a profesorilor",
+        "în cea mai mare parte rațional",
         "învățarea și predarea în instituție",
-        "managementul excesiv lipsit de scop moral",
         "valorile și scopurile educaționale"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „învățarea și predarea în instituție”.",
       "kind": "Text"
     },
     {
       "q": "Ce desemnează managerialismul în discuția autorului?",
       "options": [
+        "controlul intrărilor în organizație",
         "gestionarea activităților deja existente",
-        "învățarea și predarea în instituție",
         "managementul excesiv lipsit de scop moral",
-        "valorile și scopurile educaționale"
+        "responsabilități de management al școlii"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „managementul excesiv lipsit de scop moral”.",
@@ -2846,9 +2846,9 @@
     {
       "q": "Ce subordonează managerialismul unor ținte de eficiență?",
       "options": [
-        "gestionarea activităților deja existente",
+        "controlul comportamentului profesional",
         "învățarea și predarea în instituție",
-        "managementul excesiv lipsit de scop moral",
+        "valorile sectorului privat și ale pieței",
         "valorile și scopurile educaționale"
       ],
       "answer": 3,
@@ -2859,23 +2859,23 @@
       "q": "Ce valori pot înlocui valorile sectorului public?",
       "options": [
         "autonomia profesională a profesorilor",
-        "completarea abordărilor întemeiate pe valori",
-        "rezultatele măsurabile în dauna celor valoroase",
-        "valorile sectorului privat și ale pieței"
+        "gestionarea activităților deja existente",
+        "valorile sectorului privat și ale pieței",
+        "viziunea unui viitor educațional diferit"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „valorile sectorului privat și ale pieței”.",
       "kind": "Text"
     },
     {
       "q": "Ce rezultate pot fi favorizate excesiv?",
       "options": [
-        "autonomia profesională a profesorilor",
         "completarea abordărilor întemeiate pe valori",
-        "rezultatele măsurabile în dauna celor valoroase",
-        "valorile sectorului privat și ale pieței"
+        "controlul comportamentului profesional",
+        "din statutul poziției formale în ierarhie",
+        "rezultatele măsurabile în dauna celor valoroase"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „rezultatele măsurabile în dauna celor valoroase”.",
       "kind": "Text"
     },
@@ -2883,8 +2883,8 @@
       "q": "Ce pot înlocui puterea și controlul managerilor?",
       "options": [
         "autonomia profesională a profesorilor",
-        "completarea abordărilor întemeiate pe valori",
-        "rezultatele măsurabile în dauna celor valoroase",
+        "învățarea și predarea în instituție",
+        "supervizarea personalului din instituție",
         "valorile sectorului privat și ale pieței"
       ],
       "answer": 0,
@@ -2894,12 +2894,12 @@
     {
       "q": "Ce rol final atribuie Bush managementului eficient?",
       "options": [
-        "autonomia profesională a profesorilor",
         "completarea abordărilor întemeiate pe valori",
-        "rezultatele măsurabile în dauna celor valoroase",
-        "valorile sectorului privat și ale pieței"
+        "învățarea și predarea în instituție",
+        "puterea pozițională și procedurile formale",
+        "rezultatele măsurabile în dauna celor valoroase"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 76–78), răspunsul este „completarea abordărilor întemeiate pe valori”.",
       "kind": "Text"
     }
@@ -2908,10 +2908,10 @@
     {
       "q": "Ce caracter au modelele formale potrivit autorului?",
       "options": [
-        "istoria, cultura și contextul organizațional",
+        "autoritatea expertizei profesorilor specialiști",
         "normativ în descrierea organizațiilor educaționale",
-        "structura și procedurile birocratice oficiale",
-        "sunt prea vagi pentru deciziile curente"
+        "stabilitate relativă a structurilor instituționale",
+        "structura și procedurile birocratice oficiale"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „normativ în descrierea organizațiilor educaționale”.",
@@ -2921,32 +2921,32 @@
       "q": "Ce aspecte sunt descrise cu precădere de ele?",
       "options": [
         "istoria, cultura și contextul organizațional",
-        "normativ în descrierea organizațiilor educaționale",
-        "structura și procedurile birocratice oficiale",
-        "sunt prea vagi pentru deciziile curente"
+        "numai o dimensiune a procesului educațional",
+        "stabilitate relativă a structurilor instituționale",
+        "structura și procedurile birocratice oficiale"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „structura și procedurile birocratice oficiale”.",
       "kind": "Text"
     },
     {
       "q": "Ce dimensiuni sunt subestimate de modelul raționalist?",
       "options": [
+        "impunerea lor de agenții externe școlii",
         "istoria, cultura și contextul organizațional",
-        "normativ în descrierea organizațiilor educaționale",
-        "structura și procedurile birocratice oficiale",
-        "sunt prea vagi pentru deciziile curente"
+        "în perioade de schimbări rapide și multiple",
+        "structura și procedurile birocratice oficiale"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „istoria, cultura și contextul organizațional”.",
       "kind": "Text"
     },
     {
       "q": "Ce problemă au uneori scopurile oficiale?",
       "options": [
+        "creații ale oamenilor care le formează",
         "istoria, cultura și contextul organizațional",
-        "normativ în descrierea organizațiilor educaționale",
-        "structura și procedurile birocratice oficiale",
+        "numai o dimensiune a procesului educațional",
         "sunt prea vagi pentru deciziile curente"
       ],
       "answer": 3,
@@ -2956,8 +2956,8 @@
     {
       "q": "De ce pot intra scopurile școlii în conflict?",
       "options": [
-        "impunerea lor de agenții externe școlii",
-        "numai o dimensiune a procesului educațional",
+        "în medii relativ simple și stabile",
+        "în vârful piramidei organizaționale",
         "o sarcină dificilă pentru evaluatori",
         "solicită aceleași resurse disponibile"
       ],
@@ -2968,12 +2968,12 @@
     {
       "q": "Ce sursă a obiectivelor poate crea tensiuni?",
       "options": [
+        "creații ale oamenilor care le formează",
         "impunerea lor de agenții externe școlii",
-        "numai o dimensiune a procesului educațional",
-        "o sarcină dificilă pentru evaluatori",
+        "în vârful piramidei organizaționale",
         "solicită aceleași resurse disponibile"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „impunerea lor de agenții externe școlii”.",
       "kind": "Text"
     },
@@ -2981,19 +2981,19 @@
       "q": "Ce parte a educației surprind rezultatele la examene?",
       "options": [
         "impunerea lor de agenții externe școlii",
+        "istoria, cultura și contextul organizațional",
         "numai o dimensiune a procesului educațional",
-        "o sarcină dificilă pentru evaluatori",
-        "solicită aceleași resurse disponibile"
+        "profesorul calificat în propria clasă"
       ],
-      "answer": 1,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „numai o dimensiune a procesului educațional”.",
       "kind": "Text"
     },
     {
       "q": "Ce face măsurarea multor obiective educaționale?",
       "options": [
-        "impunerea lor de agenții externe școlii",
-        "numai o dimensiune a procesului educațional",
+        "creații ale oamenilor care le formează",
+        "în medii relativ simple și stabile",
         "o sarcină dificilă pentru evaluatori",
         "solicită aceleași resurse disponibile"
       ],
@@ -3005,20 +3005,20 @@
       "q": "Ce dificultate afectează decizia presupus rațională?",
       "options": [
         "creații ale oamenilor care le formează",
-        "expertiza și experiența indivizilor implicați",
         "informațiile și cunoașterea limitate",
-        "scopurile simultane incompatibile între ele"
+        "o sarcină dificilă pentru evaluatori",
+        "personalitatea omului din birocrație"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „informațiile și cunoașterea limitate”.",
       "kind": "Text"
     },
     {
       "q": "Ce alte scopuri pot împiedica urmărirea unuia singur?",
       "options": [
-        "creații ale oamenilor care le formează",
+        "asumarea inițiativelor în propria practică",
         "expertiza și experiența indivizilor implicați",
-        "informațiile și cunoașterea limitate",
+        "impunerea lor de agenții externe școlii",
         "scopurile simultane incompatibile între ele"
       ],
       "answer": 3,
@@ -3028,10 +3028,10 @@
     {
       "q": "Ce contribuție personală ignoră uneori modelele?",
       "options": [
-        "creații ale oamenilor care le formează",
+        "autoritatea expertizei profesorilor specialiști",
         "expertiza și experiența indivizilor implicați",
-        "informațiile și cunoașterea limitate",
-        "scopurile simultane incompatibile între ele"
+        "scopurile simultane incompatibile între ele",
+        "stabilitate relativă a structurilor instituționale"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „expertiza și experiența indivizilor implicați”.",
@@ -3041,9 +3041,9 @@
       "q": "Cum descrie Greenfield organizațiile școlare?",
       "options": [
         "creații ale oamenilor care le formează",
-        "expertiza și experiența indivizilor implicați",
         "informațiile și cunoașterea limitate",
-        "scopurile simultane incompatibile între ele"
+        "istoria, cultura și contextul organizațional",
+        "solicită aceleași resurse disponibile"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „creații ale oamenilor care le formează”.",
@@ -3052,20 +3052,20 @@
     {
       "q": "Ce estompează rațiunea tehnică potrivit lui Samier?",
       "options": [
-        "asumarea inițiativelor în propria practică",
-        "autoritatea expertizei profesorilor specialiști",
+        "în medii relativ simple și stabile",
         "în vârful piramidei organizaționale",
-        "personalitatea omului din birocrație"
+        "personalitatea omului din birocrație",
+        "sunt prea vagi pentru deciziile curente"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „personalitatea omului din birocrație”.",
       "kind": "Text"
     },
     {
       "q": "Unde plasează modelele formale puterea instituțională?",
       "options": [
-        "asumarea inițiativelor în propria practică",
-        "autoritatea expertizei profesorilor specialiști",
+        "impunerea lor de agenții externe școlii",
+        "informațiile și cunoașterea limitate",
         "în vârful piramidei organizaționale",
         "personalitatea omului din birocrație"
       ],
@@ -3078,8 +3078,8 @@
       "options": [
         "asumarea inițiativelor în propria practică",
         "autoritatea expertizei profesorilor specialiști",
-        "în vârful piramidei organizaționale",
-        "personalitatea omului din birocrație"
+        "în perioade de schimbări rapide și multiple",
+        "structura și procedurile birocratice oficiale"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „asumarea inițiativelor în propria practică”.",
@@ -3090,8 +3090,8 @@
       "options": [
         "asumarea inițiativelor în propria practică",
         "autoritatea expertizei profesorilor specialiști",
-        "în vârful piramidei organizaționale",
-        "personalitatea omului din birocrație"
+        "istoria, cultura și contextul organizațional",
+        "în perioade de schimbări rapide și multiple"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „autoritatea expertizei profesorilor specialiști”.",
@@ -3100,10 +3100,10 @@
     {
       "q": "Cine exercită autonomia în chestiuni pedagogice?",
       "options": [
+        "informațiile și cunoașterea limitate",
         "în medii relativ simple și stabile",
-        "în perioade de schimbări rapide și multiple",
         "profesorul calificat în propria clasă",
-        "stabilitate relativă a structurilor instituționale"
+        "solicită aceleași resurse disponibile"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „profesorul calificat în propria clasă”.",
@@ -3112,9 +3112,9 @@
     {
       "q": "Ce presupun implicit teoriile formale despre organizații?",
       "options": [
-        "în medii relativ simple și stabile",
+        "asumarea inițiativelor în propria practică",
+        "expertiza și experiența indivizilor implicați",
         "în perioade de schimbări rapide și multiple",
-        "profesorul calificat în propria clasă",
         "stabilitate relativă a structurilor instituționale"
       ],
       "answer": 3,
@@ -3124,22 +3124,22 @@
     {
       "q": "În ce condiții sunt mai adecvate modelele structurale?",
       "options": [
+        "informațiile și cunoașterea limitate",
         "în medii relativ simple și stabile",
-        "în perioade de schimbări rapide și multiple",
         "profesorul calificat în propria clasă",
-        "stabilitate relativă a structurilor instituționale"
+        "sunt prea vagi pentru deciziile curente"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „în medii relativ simple și stabile”.",
       "kind": "Text"
     },
     {
       "q": "Când devine succesiunea rațională dificil de aplicat?",
       "options": [
-        "în medii relativ simple și stabile",
+        "creații ale oamenilor care le formează",
         "în perioade de schimbări rapide și multiple",
-        "profesorul calificat în propria clasă",
-        "stabilitate relativă a structurilor instituționale"
+        "numai o dimensiune a procesului educațional",
+        "profesorul calificat în propria clasă"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 78–82), răspunsul este „în perioade de schimbări rapide și multiple”.",
@@ -3151,8 +3151,8 @@
       "q": "Ce slăbește dominația ierarhiei formale în școli?",
       "options": [
         "expertiza profesională a personalului didactic",
-        "individual, departamental și instituțional",
-        "multiplicitatea obiectivelor din educație",
+        "perspectivele alternative de conducere a școlilor",
+        "reducerea încrederii în modelele birocratice",
         "ritmul și complexitatea schimbărilor educaționale"
       ],
       "answer": 0,
@@ -3163,33 +3163,33 @@
       "q": "Ce obligă la ajustarea ipotezei deciziei raționale?",
       "options": [
         "expertiza profesională a personalului didactic",
-        "individual, departamental și instituțional",
-        "multiplicitatea obiectivelor din educație",
-        "ritmul și complexitatea schimbărilor educaționale"
+        "reducerea încrederii în modelele birocratice",
+        "ritmul și complexitatea schimbărilor educaționale",
+        "standardele și obiectivele instituționale"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „ritmul și complexitatea schimbărilor educaționale”.",
       "kind": "Text"
     },
     {
       "q": "Ce contestă noțiunea unui singur scop organizațional?",
       "options": [
-        "expertiza profesională a personalului didactic",
         "individual, departamental și instituțional",
         "multiplicitatea obiectivelor din educație",
-        "ritmul și complexitatea schimbărilor educaționale"
+        "performativitate prin cerințe centrale",
+        "schimbarea rapidă a contextului educațional"
       ],
-      "answer": 2,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „multiplicitatea obiectivelor din educație”.",
       "kind": "Text"
     },
     {
       "q": "Între ce niveluri de obiective poate apărea conflict?",
       "options": [
-        "expertiza profesională a personalului didactic",
+        "ca reacție la punctele slabe formale",
         "individual, departamental și instituțional",
         "multiplicitatea obiectivelor din educație",
-        "ritmul și complexitatea schimbărilor educaționale"
+        "utilitatea parțială a abordărilor formale"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „individual, departamental și instituțional”.",
@@ -3198,12 +3198,12 @@
     {
       "q": "Cum apreciază autorul eliminarea modelelor formale?",
       "options": [
-        "diferențierea industrială după poziție",
+        "eliminarea completă a modelelor formale",
+        "multiplicitatea obiectivelor din educație",
         "noul management public și ierarhia",
-        "o abordare inadecvată a școlilor",
-        "rezistența îndelungată la schimbările organizaționale"
+        "o abordare inadecvată a școlilor"
       ],
-      "answer": 2,
+      "answer": 3,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „o abordare inadecvată a școlilor”.",
       "kind": "Text"
     },
@@ -3211,8 +3211,8 @@
       "q": "Ce trăsătură a birocrației subliniază Fitzgerald?",
       "options": [
         "diferențierea industrială după poziție",
-        "noul management public și ierarhia",
-        "o abordare inadecvată a școlilor",
+        "individual, departamental și instituțional",
+        "perspectivele alternative de conducere a școlilor",
         "rezistența îndelungată la schimbările organizaționale"
       ],
       "answer": 3,
@@ -3222,36 +3222,36 @@
     {
       "q": "Ce susține încă birocrația în școli?",
       "options": [
-        "diferențierea industrială după poziție",
         "noul management public și ierarhia",
         "o abordare inadecvată a școlilor",
-        "rezistența îndelungată la schimbările organizaționale"
+        "performativitate prin cerințe centrale",
+        "schimbarea rapidă a contextului educațional"
       ],
-      "answer": 1,
+      "answer": 0,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „noul management public și ierarhia”.",
       "kind": "Text"
     },
     {
       "q": "Ce model de muncă copiază organizarea școlilor?",
       "options": [
+        "ca reacție la punctele slabe formale",
         "diferențierea industrială după poziție",
-        "noul management public și ierarhia",
-        "o abordare inadecvată a școlilor",
-        "rezistența îndelungată la schimbările organizaționale"
+        "multiplicitatea obiectivelor din educație",
+        "noul management public și ierarhia"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „diferențierea industrială după poziție”.",
       "kind": "Text"
     },
     {
       "q": "Ce accent este puternic în sistemul englezesc?",
       "options": [
-        "ca reacție la punctele slabe formale",
         "ierarhia funcțiilor și responsabilităților",
-        "performativitate prin cerințe centrale",
-        "standardele și obiectivele instituționale"
+        "multiplicitatea obiectivelor din educație",
+        "standardele și obiectivele instituționale",
+        "utilitatea parțială a abordărilor formale"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „standardele și obiectivele instituționale”.",
       "kind": "Text"
     },
@@ -3259,9 +3259,9 @@
       "q": "Cum numesc Ball și Strain forma regulată de control?",
       "options": [
         "ca reacție la punctele slabe formale",
-        "ierarhia funcțiilor și responsabilităților",
+        "noul management public și ierarhia",
         "performativitate prin cerințe centrale",
-        "standardele și obiectivele instituționale"
+        "utilitatea parțială a abordărilor formale"
       ],
       "answer": 2,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „performativitate prin cerințe centrale”.",
@@ -3270,10 +3270,10 @@
     {
       "q": "Ce vehicul transmite controlul extern asupra școlii?",
       "options": [
-        "ca reacție la punctele slabe formale",
+        "ca descrieri parțiale ale organizației",
         "ierarhia funcțiilor și responsabilităților",
-        "performativitate prin cerințe centrale",
-        "standardele și obiectivele instituționale"
+        "standardele și obiectivele instituționale",
+        "utilitatea parțială a abordărilor formale"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „ierarhia funcțiilor și responsabilităților”.",
@@ -3283,9 +3283,9 @@
       "q": "De ce au apărut modelele prezentate ulterior?",
       "options": [
         "ca reacție la punctele slabe formale",
-        "ierarhia funcțiilor și responsabilităților",
+        "diferențierea industrială după poziție",
         "performativitate prin cerințe centrale",
-        "standardele și obiectivele instituționale"
+        "reducerea încrederii în modelele birocratice"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „ca reacție la punctele slabe formale”.",
@@ -3296,8 +3296,8 @@
       "options": [
         "ca descrieri parțiale ale organizației",
         "eliminarea completă a modelelor formale",
-        "înțelegerea școlilor și colegiilor ca organizații",
-        "reducerea încrederii în modelele birocratice"
+        "schimbarea rapidă a contextului educațional",
+        "standardele și obiectivele instituționale"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „eliminarea completă a modelelor formale”.",
@@ -3307,9 +3307,9 @@
       "q": "În ce sens rămân modelele formale valide?",
       "options": [
         "ca descrieri parțiale ale organizației",
+        "diferențierea industrială după poziție",
         "eliminarea completă a modelelor formale",
-        "înțelegerea școlilor și colegiilor ca organizații",
-        "reducerea încrederii în modelele birocratice"
+        "individual, departamental și instituțional"
       ],
       "answer": 0,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „ca descrieri parțiale ale organizației”.",
@@ -3318,8 +3318,8 @@
     {
       "q": "Ce contribuție au modelele formale în continuare?",
       "options": [
-        "ca descrieri parțiale ale organizației",
-        "eliminarea completă a modelelor formale",
+        "diferențierea industrială după poziție",
+        "expertiza profesională a personalului didactic",
         "înțelegerea școlilor și colegiilor ca organizații",
         "reducerea încrederii în modelele birocratice"
       ],
@@ -3330,34 +3330,34 @@
     {
       "q": "Ce semnalează Owens și Shakeshaft?",
       "options": [
-        "ca descrieri parțiale ale organizației",
         "eliminarea completă a modelelor formale",
-        "înțelegerea școlilor și colegiilor ca organizații",
-        "reducerea încrederii în modelele birocratice"
+        "multiplicitatea obiectivelor din educație",
+        "reducerea încrederii în modelele birocratice",
+        "standardele și obiectivele instituționale"
       ],
-      "answer": 3,
+      "answer": 2,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „reducerea încrederii în modelele birocratice”.",
       "kind": "Text"
     },
     {
       "q": "Către ce se deplasează analiza organizațională?",
       "options": [
+        "ca reacție la punctele slabe formale",
         "către o abordare mai sofisticată",
-        "perspectivele alternative de conducere a școlilor",
-        "schimbarea rapidă a contextului educațional",
+        "o abordare inadecvată a școlilor",
         "utilitatea parțială a abordărilor formale"
       ],
-      "answer": 0,
+      "answer": 1,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „către o abordare mai sofisticată”.",
       "kind": "Text"
     },
     {
       "q": "Ce se evaluează în capitolele următoare?",
       "options": [
-        "către o abordare mai sofisticată",
+        "ierarhia funcțiilor și responsabilităților",
         "perspectivele alternative de conducere a școlilor",
-        "schimbarea rapidă a contextului educațional",
-        "utilitatea parțială a abordărilor formale"
+        "rezistența îndelungată la schimbările organizaționale",
+        "schimbarea rapidă a contextului educațional"
       ],
       "answer": 1,
       "feedback": "În capitolul III (pp. 82–83), răspunsul este „perspectivele alternative de conducere a școlilor”.",
@@ -3366,8 +3366,8 @@
     {
       "q": "Ce poate modifica relevanța deciziei raționale?",
       "options": [
-        "către o abordare mai sofisticată",
-        "perspectivele alternative de conducere a școlilor",
+        "eliminarea completă a modelelor formale",
+        "multiplicitatea obiectivelor din educație",
         "schimbarea rapidă a contextului educațional",
         "utilitatea parțială a abordărilor formale"
       ],
@@ -3378,8 +3378,8 @@
     {
       "q": "Ce concluzie integrează critica și valoarea modelului?",
       "options": [
-        "către o abordare mai sofisticată",
-        "perspectivele alternative de conducere a școlilor",
+        "ca reacție la punctele slabe formale",
+        "multiplicitatea obiectivelor din educație",
         "schimbarea rapidă a contextului educațional",
         "utilitatea parțială a abordărilor formale"
       ],
