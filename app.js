@@ -79,6 +79,27 @@ function answerLens(c,o){c=decodeURIComponent(c);o=decodeURIComponent(o);documen
 (function(){
  const ap=document.getElementById("audioPlayer");
  if(!ap)return;
+
+ function nextAudioModule(){
+   let i=current+1;
+   while(i<modules.length && !modules[i].audio) i++;
+   if(i>=modules.length){
+     const note=document.getElementById("audioStatus");
+     if(note) note.textContent="Ai ajuns la finalul materialului audio.";
+     return;
+   }
+   openModule(i);
+   setTimeout(()=>{
+     const p=document.getElementById("audioPlayer");
+     if(!p) return;
+     const playPromise=p.play();
+     if(playPromise && typeof playPromise.catch==="function"){
+       playPromise.catch(()=>{});
+     }
+   },250);
+ }
+
+ ap.addEventListener("ended",nextAudioModule);
  ap.addEventListener("error",function(){
    const note=document.getElementById("audioStatus");
    if(note)note.textContent="Fișierul audio nu s-a încărcat. Încearcă reîncărcarea paginii.";
