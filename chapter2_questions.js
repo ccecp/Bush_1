@@ -1,984 +1,443 @@
-/* Întrebările revizuite pentru capitolul II, 10 itemi pe secțiune. */
+/* Capitolul II: 8 puncte × 3 itemi verificaţi în materialul de studiu. */
 (function(){
-  const sets={
+const sections = {
   "2.1": [
     {
-      "q": "Ce activități sunt invocate pentru caracterul practic al conducerii educaționale?",
+      "q": "De ce sunt considerate „ateoretice” multe dintre prescripțiile adresate directorilor privind conducerea și administrarea școlii, în analiza separării teoriei de practică?",
       "options": [
-        "clasificarea celor șase modele de management educațional",
-        "compararea structurii, a mediului și a leadershipului",
-        "descrierea metaforelor, a paradigmelor și a perspectivelor",
-        "stabilirea viziunii, a scopurilor, a resurselor și a eficacității"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 37), răspunsul este „stabilirea viziunii, a scopurilor, a resurselor și a eficacității”.",
-      "kind": "Text"
-    },
-    {
-      "q": "De ce tind unii practicieni să ignore teoriile și conceptele?",
-      "options": [
-        "le confundă cu datele obținute din cercetarea empirică",
-        "le consideră aparent rupte de situația reală din școală",
-        "le consideră singurele repere pentru orice decizie",
-        "le folosesc sistematic pentru a anticipa practica"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 37), răspunsul este „le consideră aparent rupte de situația reală din școală”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce înseamnă caracterul ateoretic al unor prescripții de conducere?",
-      "options": [
-        "absența activităților manageriale concrete din instituții",
-        "absența unor valori sau concepte explicite care să le susțină",
-        "aplicarea cercetării empirice în toate școlile",
-        "utilizarea teoriilor organizaționale în practica zilnică"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 37), răspunsul este „absența unor valori sau concepte explicite care să le susțină”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce constată Bush despre folosirea explicită și sistematică a teoriei în practică?",
-      "options": [
-        "este neobișnuită în activitatea de conducere",
-        "este obligatorie pentru toate deciziile directorului",
-        "este singura sursă a prescripțiilor oficiale",
-        "este suficientă fără verificarea în școală"
+        "nu sunt susţinute de valori sau concepte explicite.",
+        "nu sunt aplicate prin proceduri sau reguli obligatorii.",
+        "nu sunt formulate de politicieni sau oficiali educaţionali.",
+        "nu sunt orientate spre acţiuni sau decizii concrete."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 37), răspunsul este „este neobișnuită în activitatea de conducere”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 37.</strong> Expresia din material: „nu sunt susţinute de valori sau concepte explicite”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 37",
+      "page": "37",
+      "evidence": [
+        "nu sunt susţinute de valori sau concepte explicite"
+      ]
     },
     {
-      "q": "Cum numește English distanța persistentă dintre cele două domenii?",
+      "q": "Într-o disciplină aplicată precum managementul educațional, prin ce este dată valabilitatea teoriei, chiar dacă teoriile pot fi percepute ca separate de practică?",
       "options": [
-        "diferența dintre structură și mediu",
-        "discrepanța dintre teorie și practică",
-        "separarea dintre model și metaforă",
-        "tensiunea dintre obiective și resurse"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 38), răspunsul este „discrepanța dintre teorie și practică”.",
-      "kind": "Text"
-    },
-    {
-      "q": "De ce nu poate fi respinsă teoria ca irelevantă pentru managementul educațional?",
-      "options": [
-        "poate elimina necesitatea cercetării empirice",
-        "poate explica practica și poate orienta acțiunea managerilor",
-        "poate înlocui definitiv experiența tuturor directorilor",
-        "poate oferi o singură soluție pentru toate școlile"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 38), răspunsul este „poate explica practica și poate orienta acțiunea managerilor”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Când pot teoriile influența practica mai eficient, potrivit lui Hughes și Bush?",
-      "options": [
-        "când exclud testarea relațiilor prin cercetare",
-        "când prescriu identic toate procedurile instituției",
-        "când se limitează la opiniile unei singure persoane",
-        "când sugerează moduri noi de a percepe evenimentele"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 38), răspunsul este „când sugerează moduri noi de a percepe evenimentele”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce urmează după observarea unor interrelaționări neglijate de practician?",
-      "options": [
-        "eliminarea oricărei legături cu activitatea școlii",
-        "explorarea și testarea lor prin cercetare empirică",
-        "impunerea lor ca reguli universale fără analiză",
-        "separarea definitivă a teoriei de practică"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 38), răspunsul este „explorarea și testarea lor prin cercetare empirică”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce solicită Fullan în raport cu legătura dintre teorie și acțiune?",
-      "options": [
-        "dezvoltarea unei teorii a leadershipului bazate pe acțiune",
-        "reducerea reflecției la prescripții ateoretice",
-        "renunțarea la toate conceptele de leadership existente",
-        "substituirea cercetării cu experiența individuală"
+        "valabilitatea teoriei va fi dată de relevanţa acesteia faţă de practică.",
+        "valabilitatea teoriei va fi dată de independenţa acesteia faţă de practică.",
+        "valabilitatea teoriei va fi dată de popularitatea acesteia în discursul politic.",
+        "valabilitatea teoriei va fi dată de vechimea acesteia în literatura academică."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 38), răspunsul este „dezvoltarea unei teorii a leadershipului bazate pe acțiune”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 38.</strong> Expresia din material: „valabilitatea teoriei va fi dată de relevanţa acesteia faţă de practică”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 38",
+      "page": "38",
+      "evidence": [
+        "valabilitatea teoriei va fi dată de relevanţa acesteia faţă de practică"
+      ]
     },
     {
-      "q": "Ce critică Harris în literatura existentă despre leadership?",
+      "q": "În formularea lui Hughes și Bush, când sunt teoriile cele mai eficiente pentru influențarea practicii, prin contribuția lor la înțelegerea evenimentelor și situațiilor?",
       "options": [
-        "absența completă a oricărei perspective teoretice",
-        "dominația premiselor raționale și tehniciste",
-        "excesul cercetărilor în toate mediile școlare",
-        "renunțarea definitivă la explicațiile practicii"
+        "atunci când sugerează noi moduri în care evenimentele şi situaţiile pot fi percepute.",
+        "atunci când prescriu aceleaşi răspunsuri indiferent de modul în care situaţiile sunt percepute.",
+        "atunci când separă definitiv explicaţiile academice de evenimentele şi situaţiile întâlnite în practică.",
+        "atunci când înlocuiesc cercetarea empirică prin acceptarea explicaţiilor deja consacrate în practica organizaţională."
       ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 38), răspunsul este „dominația premiselor raționale și tehniciste”.",
-      "kind": "Text"
+      "answer": 0,
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 38.</strong> Expresia din material: „atunci când sugerează noi moduri în care evenimentele şi situaţiile pot fi percepute”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 38",
+      "page": "38",
+      "evidence": [
+        "atunci când sugerează noi moduri în care evenimentele şi situaţiile pot fi percepute"
+      ]
     }
   ],
   "2.2": [
     {
-      "q": "De ce nu este suficientă experiența drept unic ghid al directorului?",
+      "q": "Care este motivul invocat în primul dintre cele trei argumente pentru care faptele, folosite singure, nu pot ghida satisfăcător acțiunea managerială?",
       "options": [
-        "nu poate fi analizată împreună cu teoria",
-        "nu poate furniza niciodată opțiuni pentru acțiune",
-        "nu poate influența atitudinile și preconcepțiile sale",
-        "nu poate oferi singură tot ceea ce liderul trebuie să știe"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 38–39), răspunsul este „nu poate oferi singură tot ceea ce liderul trebuie să știe”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce se ascunde adesea în spatele unei decizii numite bun-simț?",
-      "options": [
-        "dovezi complete fără nicio interpretare",
-        "o regulă verificată identic în orice context",
-        "o teorie universală explicit adoptată",
-        "presupoziții nerostite și teorii implicite"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 39), răspunsul este „presupoziții nerostite și teorii implicite”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Cum influențează preconcepțiile deciziile practicienilor?",
-      "options": [
-        "elimină orice legătură cu experiența anterioară",
-        "garantează o interpretare neutră a faptelor",
-        "înlătură nevoia reflecției asupra contextului",
-        "oferă puncte de referință formate prin experiență"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 39), răspunsul este „oferă puncte de referință formate prin experiență”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce capacitate subliniază Day pentru circumstanțele complexe ale conducerii?",
-      "options": [
-        "aplicarea mecanică a unei prescripții unice",
-        "dependența exclusivă de intuiția directorului",
-        "ignorarea teoriilor relevante pentru decizie",
-        "reflecția critică asupra situațiilor reale sau imaginate"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 39), răspunsul este „reflecția critică asupra situațiilor reale sau imaginate”.",
-      "kind": "Text"
-    },
-    {
-      "q": "De ce sunt faptele singure insuficiente pentru a ghida acțiunea?",
-      "options": [
-        "toate dovezile cer un cadru de interpretare",
-        "toate evenimentele școlare sunt identice",
-        "toate problemele au aceeași soluție practică",
-        "toate teoriile sunt desprinse de realitate"
+        "Utilizarea faptelor ca unic instrument de ghidare în acţiune este nesatisfăcătoare, deoarece toate dovezile necesită interpretare.",
+        "Utilizarea faptelor ca unic instrument de ghidare în acţiune este nesatisfăcătoare, deoarece toate dovezile exclud interpretarea.",
+        "Utilizarea faptelor ca unic instrument de ghidare în acţiune este nesatisfăcătoare, deoarece toate dovezile confirmă aceeaşi explicaţie.",
+        "Utilizarea faptelor ca unic instrument de ghidare în acţiune este nesatisfăcătoare, deoarece toate dovezile sunt exclusiv subiective."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 39–40), răspunsul este „toate dovezile cer un cadru de interpretare”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 39.</strong> Expresia din material: „Utilizarea faptelor ca unic instrument de ghidare în acţiune este nesatisfăcătoare, deoarece toate dovezile necesită interpretare”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 39",
+      "page": "39",
+      "evidence": [
+        "Utilizarea faptelor ca unic instrument de ghidare în acţiune este nesatisfăcătoare, deoarece toate dovezile necesită interpretare"
+      ]
     },
     {
-      "q": "Ce oferă teoria pentru înțelegerea evenimentelor și efectelor practicii?",
+      "q": "De ce dependența de experiența personală, pentru interpretarea faptelor și luarea deciziilor, este caracterizată drept „îngustă” în al doilea argument prezentat de Bush?",
       "options": [
-        "modele mentale și cadre de interpretare",
-        "numai descrieri ale posturilor formale",
-        "numai experiența unui singur director",
-        "proceduri identice pentru orice școală"
+        "deoarece lasă deoparte cunoştinţele altora.",
+        "deoarece integrează automat cunoştinţele altora.",
+        "deoarece elimină complet erorile personale.",
+        "deoarece valorifică toate perspectivele disponibile."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 40), răspunsul este „modele mentale și cadre de interpretare”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 40.</strong> Expresia din material: „deoarece lasă deoparte cunoştinţele altora”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 40",
+      "page": "40",
+      "evidence": [
+        "deoarece lasă deoparte cunoştinţele altora"
+      ]
     },
     {
-      "q": "De ce este limitată dependența exclusivă de experiența personală?",
+      "q": "În ce situație poate fi experiența în mod particular nefolositoare ca unic ghid de acțiune, potrivit celui de-al treilea argument despre relevanța teoriei?",
       "options": [
-        "exclude cunoștințele și perspectivele altor persoane",
-        "impune o paletă prea largă de experiențe",
-        "include prea multe interpretări ale cercetătorilor",
-        "transformă fiecare teorie în adevăr definitiv"
+        "atunci când practicianul începe să opereze într‑un alt context.",
+        "atunci când practicianul începe să examineze mai multe perspective.",
+        "atunci când practicianul începe să interpreteze sistematic evenimentele organizaţionale.",
+        "atunci când practicianul începe să valorifice experienţele altor persoane."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 40), răspunsul este „exclude cunoștințele și perspectivele altor persoane”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Când devine experiența anterioară deosebit de nesigură drept unic reper?",
-      "options": [
-        "când directorul cunoaște argumente teoretice",
-        "când liderul începe să lucreze într-un context diferit",
-        "când problema se repetă în aceeași școală",
-        "când sunt comparate situații empirice multiple"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 40), răspunsul este „când liderul începe să lucreze într-un context diferit”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce afirmă Southworth despre relația dintre loc și acțiunea liderului?",
-      "options": [
-        "contextul în care se află influențează ceea ce face",
-        "contextul poate fi ignorat printr-un model universal",
-        "locul instituției anulează orice posibilitate de teorie",
-        "practica unei școli se transferă identic în alta"
-      ],
-      "answer": 0,
-      "feedback": "În capitolul II (p. 40), răspunsul este „contextul în care se află influențează ceea ce face”.",
-      "kind": "Text"
-    },
-    {
-      "q": "După ce criteriu trebuie judecată relevanța teoriei pentru practicieni?",
-      "options": [
-        "capacitatea de a inspira acțiuni și a rezolva probleme",
-        "identitatea teoriei cu experiența personală",
-        "independența de problemele școlilor și colegiilor",
-        "vechimea autorului și numărul modelelor folosite"
-      ],
-      "answer": 0,
-      "feedback": "În capitolul II (p. 40), răspunsul este „capacitatea de a inspira acțiuni și a rezolva probleme”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 40.</strong> Expresia din material: „atunci când practicianul începe să opereze într‑un alt context”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 40",
+      "page": "40",
+      "evidence": [
+        "atunci când practicianul începe să opereze într‑un alt context"
+      ]
     }
   ],
   "2.3": [
     {
-      "q": "De ce consideră Bush improbabilă o teorie universală a conducerii educaționale?",
+      "q": "Ce posibilitate de validitate a perspectivelor deosebește educația de ideea unui consens științific unic asupra adevărului, potrivit expresiei din material?",
       "options": [
-        "fiecare școală are aceeași structură și aceleași scopuri",
-        "instituțiile și problemele diferă în funcție de context",
-        "toate modelele propun un singur tip de leadership",
-        "toate teoriile sociale sunt înlocuite periodic"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 40–41), răspunsul este „instituțiile și problemele diferă în funcție de context”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Cum se deosebesc perspectivele educaționale de teoriile științifice în analiza lui House?",
-      "options": [
-        "conduc obligatoriu la un consens unic asupra adevărului",
-        "descriu o lume fizică neschimbată în orice moment",
-        "elimină valorile și presupozițiile din interpretare",
-        "pot oferi simultan moduri valide diferite de a vedea problema"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 41), răspunsul este „pot oferi simultan moduri valide diferite de a vedea problema”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce reprezintă filtrul unei perspective în explicația lui House?",
-      "options": [
-        "o combinație de date, valori și presupoziții",
-        "o succesiune fixă de posturi și responsabilități",
-        "un set de rezultate măsurate fără interpretare",
-        "un sistem de norme valabil în orice organizație"
+        "În educaţie, mai multe perspective pot fi valide simultan.",
+        "În educaţie, numai o perspectivă poate fi validă simultan.",
+        "În educaţie, toate perspectivele trebuie să fie identice conceptual.",
+        "În educaţie, orice perspectivă trebuie să excludă interpretarea contextuală."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 41), răspunsul este „o combinație de date, valori și presupoziții”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 41.</strong> Expresia din material: „În educaţie, mai multe perspective pot fi valide simultan”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 41",
+      "page": "41",
+      "evidence": [
+        "În educaţie, mai multe perspective pot fi valide simultan"
+      ]
     },
     {
-      "q": "Ce denumire dau Bolman și Deal coexistenței mai multor perspective?",
+      "q": "Cum apreciază Morgan limitele oricărei teorii sau perspective aduse în studiul organizației și managementului, chiar atunci când aceasta oferă perspective valoroase?",
       "options": [
-        "centralism birocratic",
-        "leadership managerial",
-        "management autonom",
-        "pluralism conceptual"
+        "este de asemenea incompletă, influenţabilă şi poate să inducă în eroare.",
+        "este de asemenea completă, invariabilă şi poate să garanteze orice explicaţie.",
+        "este de asemenea universală, neutră şi poate să înlocuiască orice interpretare.",
+        "este de asemenea definitivă, exhaustivă şi poate să elimine orice ambiguitate."
       ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 41), răspunsul este „pluralism conceptual”.",
-      "kind": "Text"
+      "answer": 0,
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 42.</strong> Expresia din material: „este de asemenea incompletă, influenţabilă şi poate să inducă în eroare”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 42",
+      "page": "42",
+      "evidence": [
+        "este de asemenea incompletă, influenţabilă şi poate să inducă în eroare"
+      ]
     },
     {
-      "q": "Ce susține Griffiths prin pluralismul teoretic?",
+      "q": "De ce nu se poate face o distincție foarte clară între teoria organizațională și teoria managementului, deși aceasta din urmă urmărește un scop mai puțin larg?",
       "options": [
-        "fiecare problemă trebuie explicată printr-o singură teorie",
-        "modelele trebuie aplicate identic în orice instituție",
-        "probleme diferite pot cere teorii diferite sau mai multe teorii",
-        "teoriile particulare sunt potrivite pentru toate problemele"
+        "teoria managementului îşi are rădăcinile în teoria organizaţională, iar cercetările pe care le generează contribuie la aceasta.",
+        "teoria managementului este independentă de teoria organizaţională, iar cercetările pe care le generează nu contribuie la aceasta.",
+        "teoria managementului înlocuieşte integral teoria organizaţională, iar cercetările pe care le generează urmăresc eliminarea acesteia din practică.",
+        "teoria managementului precedă obligatoriu teoria organizaţională, iar cercetările pe care le generează exclud orice legătură între acestea."
       ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 41–42), răspunsul este „probleme diferite pot cere teorii diferite sau mai multe teorii”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Cum utilizează Morgan metaforele organizaționale?",
-      "options": [
-        "ca dovezi că o singură perspectivă este completă",
-        "ca imagini parțiale care ajută la înțelegerea organizațiilor",
-        "ca reguli formale pentru alocarea tuturor resurselor",
-        "ca substitute pentru cercetarea și observația empirică"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 42), răspunsul este „ca imagini parțiale care ajută la înțelegerea organizațiilor”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce limită atribuie Morgan oricărei teorii sau perspective?",
-      "options": [
-        "este identică tuturor metaforelor alternative",
-        "este incompletă și poate induce în eroare",
-        "este invariabil verificată în fiecare context",
-        "este lipsită de orice valoare explicativă"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 42), răspunsul este „este incompletă și poate induce în eroare”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Cum trebuie tratate termenii perspectivă, imagine, metaforă și paradigmă în carte?",
-      "options": [
-        "ca definiții reciproc exclusive ale leadershipului",
-        "ca dovezi ale lipsei de orice teorie organizațională",
-        "ca patru niveluri obligatorii ale aceleiași teorii",
-        "ca termeni în mare măsură similari folosiți alternativ"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 42), răspunsul este „ca termeni în mare măsură similari folosiți alternativ”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce distincție generală face Hoyle între cele două tipuri de teorie?",
-      "options": [
-        "teoria organizațională pentru control și cea managerială pentru inspecție",
-        "teoria organizațională pentru evaluare și cea managerială pentru sancțiuni",
-        "teoria organizațională pentru finanțare și cea managerială pentru curriculum",
-        "teoria organizațională pentru înțelegere și cea managerială pentru practică"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 42–43), răspunsul este „teoria organizațională pentru înțelegere și cea managerială pentru practică”.",
-      "kind": "Text"
-    },
-    {
-      "q": "De ce nu poate fi separată rigid teoria managementului de teoria organizațională?",
-      "options": [
-        "prima aparține doar școlilor, iar a doua doar industriei",
-        "prima are rădăcini în a doua și contribuie prin cercetare la ea",
-        "prima elimină complet cercetările derivate din a doua",
-        "prima se referă exclusiv la valori, iar a doua doar la buget"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 43), răspunsul este „prima are rădăcini în a doua și contribuie prin cercetare la ea”.",
-      "kind": "Text"
+      "answer": 0,
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 43.</strong> Expresia din material: „teoria managementului îşi are rădăcinile în teoria organizaţională, iar cercetările pe care le generează contribuie la aceasta”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 43",
+      "page": "43",
+      "evidence": [
+        "teoria managementului îşi are rădăcinile în teoria organizaţională, iar cercetările pe care le generează contribuie la aceasta"
+      ]
     }
   ],
   "2.4": [
     {
-      "q": "Care sunt cele trei caracteristici generale ale teoriilor discutate de Bush?",
+      "q": "În ce sens tind teoriile de leadership și management educațional să fie normative, potrivit primei caracteristici principale prezentate în material?",
       "options": [
-        "financiare, curriculare și administrative",
-        "individuale, obligatorii și lipsite de context",
-        "normative, selective și adesea bazate pe observare",
-        "universale, exhaustive și independente de practică"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 43–44), răspunsul este „normative, selective și adesea bazate pe observare”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce exprimă o utilizare normativă a teoriei?",
-      "options": [
-        "câte școli au fost incluse într-un studiu",
-        "ce date au rezultat din observarea empirică",
-        "cum ar trebui conduse instituțiile educaționale",
-        "cum funcționează de fapt o instituție anume"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 43), răspunsul este „cum ar trebui conduse instituțiile educaționale”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce urmărește o utilizare descriptivă a teoriei?",
-      "options": [
-        "descrierea funcționării și explicarea organizației",
-        "înlocuirea observației cu o recomandare morală",
-        "prescrierea unui model obligatoriu de conducere",
-        "stabilirea unui ideal de comportament universal"
+        "reflectă păreri despre natura instituţiilor educaţionale şi comportamentul indivizilor din acestea.",
+        "reflectă exclusiv măsurători despre structura instituţiilor educaţionale şi rezultatele financiare ale acestora.",
+        "reflectă numai descrieri despre istoria instituţiilor educaţionale şi succesiunea evenimentelor din acestea.",
+        "reflectă doar comparaţii despre dimensiunea instituţiilor educaţionale şi numărul persoanelor din acestea."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 43), răspunsul este „descrierea funcționării și explicarea organizației”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 43.</strong> Expresia din material: „reflectă păreri despre natura instituţiilor educaţionale şi comportamentul indivizilor din acestea”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 43",
+      "page": "43",
+      "evidence": [
+        "reflectă păreri despre natura instituţiilor educaţionale şi comportamentul indivizilor din acestea"
+      ]
     },
     {
-      "q": "Când poate afirmația despre decizia participativă fi normativă?",
+      "q": "În ce constă caracterul selectiv sau parțial al teoriilor, potrivit celei de-a doua caracteristici, având în vedere complexitatea școlilor și colegiilor?",
       "options": [
-        "când descrie modul efectiv de vot într-o școală",
-        "când explică un proces desfășurat într-un colegiu",
-        "când prescrie cum ar trebui luate deciziile în școală",
-        "când raportează date observate despre participanți"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 43), răspunsul este „când prescrie cum ar trebui luate deciziile în școală”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce înseamnă caracterul selectiv al unei teorii?",
-      "options": [
-        "elimină orice perspectivă asupra instituției",
-        "evidențiază unele aspecte și le neglijează pe altele",
-        "explică integral toate dimensiunile unei școli",
-        "rezultă întotdeauna dintr-un singur studiu"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 44), răspunsul este „evidențiază unele aspecte și le neglijează pe altele”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce poate lăsa în umbră perspectiva politică asupra școlii?",
-      "options": [
-        "alte teorii valide despre managementul instituției",
-        "conflictul și negocierea din organizație",
-        "formarea grupurilor și interacțiunea intereselor",
-        "relațiile dintre indivizi și grupuri de interese"
+        "evidenţiază anumite aspecte ale instituţiei în detrimentul altora.",
+        "evidenţiază toate aspectele instituţiei în aceeaşi măsură explicativă.",
+        "evidenţiază exclusiv aspecte ale instituţiei fără relevanţă practică.",
+        "evidenţiază aceleaşi aspecte ale instituţiei indiferent de perspectivă."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 44), răspunsul este „alte teorii valide despre managementul instituției”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 44.</strong> Expresia din material: „evidenţiază anumite aspecte ale instituţiei în detrimentul altora”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 44",
+      "page": "44",
+      "evidence": [
+        "evidenţiază anumite aspecte ale instituţiei în detrimentul altora"
+      ]
     },
     {
-      "q": "Cum se poate forma o teorie fundamentată prin observare?",
+      "q": "Ce succesiune descrie primul mod de utilizare a observării, din care pot rezulta perspective numite „teorii fundamentate”, în prezentarea celei de-a treia caracteristici?",
       "options": [
-        "concepte impuse înaintea oricărei observații posibile",
-        "observații sistematice urmate de concepte și cadre teoretice",
-        "opinii normative lipsite de cercetare empirică",
-        "proceduri administrative repetate fără reflecție"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 44), răspunsul este „observații sistematice urmate de concepte și cadre teoretice”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Care este al doilea mod de a folosi observarea descris de English?",
-      "options": [
-        "eliminarea oricărui cadru înaintea cercetării",
-        "înlocuirea datelor cu interpretarea unui singur lider",
-        "reducerea practicii la prescripții guvernamentale",
-        "testarea conceptelor selectate printr-un cadru teoretic"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 44), răspunsul este „testarea conceptelor selectate printr-un cadru teoretic”.",
-      "kind": "Text"
-    },
-    {
-      "q": "De ce contestă adepții modelului subiectiv valoarea observației externe?",
-      "options": [
-        "nu dezvăluie direct sensurile evenimentelor pentru participanți",
-        "nu permite formarea niciunui cadru teoretic",
-        "nu poate fi folosită la verificarea unei teorii",
-        "nu poate produce niciodată date despre organizație"
+        "observarea ar putea fi urmată de dezvoltarea conceptelor, care, apoi, pot deveni cadre teoretice.",
+        "observarea ar putea fi precedată de impunerea conceptelor, care, apoi, trebuie păstrate fără verificare empirică.",
+        "observarea ar putea fi înlocuită de selectarea conceptelor, care, apoi, devin obligatoriu adevăruri ştiinţifice universale.",
+        "observarea ar putea fi limitată la confirmarea conceptelor, care, apoi, exclud dezvoltarea altor cadre teoretice."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 44), răspunsul este „nu dezvăluie direct sensurile evenimentelor pentru participanți”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce relație arată formularea lui Theodossin despre cercetare?",
-      "options": [
-        "cercetarea este complet neutră față de perspectiva folosită",
-        "întrebările sunt independente de ceea ce se observă",
-        "perspectiva aleasă cuprinde integral viața școlii",
-        "selecția, perspectiva, întrebările și răspunsurile se influențează"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 44–45), răspunsul este „selecția, perspectiva, întrebările și răspunsurile se influențează”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 44.</strong> Expresia din material: „observarea ar putea fi urmată de dezvoltarea conceptelor, care, apoi, pot deveni cadre teoretice”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 44",
+      "page": "44",
+      "evidence": [
+        "observarea ar putea fi urmată de dezvoltarea conceptelor, care, apoi, pot deveni cadre teoretice"
+      ]
     }
   ],
   "2.5": [
     {
-      "q": "Ce normă identifică Lumby și Coleman în conducerea educațională occidentală?",
+      "q": "Ce trăsături ale imaginii „masculine” a managementului sunt enumerate de Al-Khalifa în analiza cauzelor proporției scăzute de femei în pozițiile de conducere?",
       "options": [
-        "bărbatul alb din clasa de mijloc",
-        "conducerea distribuită între toți elevii",
-        "egalitatea deplină în toate funcțiile",
-        "reprezentarea identică a tuturor grupurilor"
+        "comportamentul competitiv agresiv, evidenţierea controlului în defavoarea negocierii şi colaborării şi urmărirea competiţiei în detrimentul rezolvării problemelor comune.",
+        "comportamentul cooperant constant, evidenţierea negocierii în defavoarea controlului şi competiţiei şi urmărirea colaborării în detrimentul afirmării intereselor individuale.",
+        "comportamentul participativ consecvent, evidenţierea grijii în defavoarea regulilor şi disciplinei şi urmărirea creativităţii în detrimentul aplicării procedurilor administrative.",
+        "comportamentul reflexiv permanent, evidenţierea intuiţiei în defavoarea competiţiei şi ierarhiei şi urmărirea consensului în detrimentul controlului asupra problemelor comune."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 45), răspunsul este „bărbatul alb din clasa de mijloc”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 45.</strong> Expresia din material: „comportamentul competitiv agresiv, evidenţierea controlului în defavoarea negocierii şi colaborării şi urmărirea competiţiei în detrimentul rezolvării problemelor comune”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 45",
+      "page": "45",
+      "evidence": [
+        "comportamentul competitiv agresiv, evidenţierea controlului în defavoarea negocierii şi colaborării şi urmărirea competiţiei în detrimentul rezolvării problemelor comune"
+      ]
     },
     {
-      "q": "Ce discrepanță evidențiază Hall privind femeile în educație?",
+      "q": "Ce posibilitate pentru lideri oferă modelul „androgin”, asociat de Wallace și Hall cu adoptarea unei abordări în echipă a managementului școlii?",
       "options": [
-        "numărul lor în comunitate față de populația școlară",
-        "numărul lor la catedră față de reprezentarea în conducere",
-        "participarea lor la cursuri față de rezultatele elevilor",
-        "prezența lor în cercetare față de curriculumul național"
+        "oferă şansa liderilor să posede o gamă largă de calităţi prezente şi la bărbaţi, şi la femei.",
+        "oferă şansa liderilor să posede exclusiv calităţile atribuite bărbaţilor şi să elimine calităţile atribuite în mod tradiţional femeilor.",
+        "oferă şansa liderilor să posede exclusiv calităţile atribuite femeilor şi să elimine calităţile atribuite în mod tradiţional bărbaţilor.",
+        "oferă şansa liderilor să posede aceleaşi calităţi administrative, fără să recunoască existenţa diferenţelor individuale în interiorul echipei de conducere."
       ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 45), răspunsul este „numărul lor la catedră față de reprezentarea în conducere”.",
-      "kind": "Text"
+      "answer": 0,
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 46.</strong> Expresia din material: „oferă şansa liderilor să posede o gamă largă de calităţi prezente şi la bărbaţi, şi la femei”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 46",
+      "page": "46",
+      "evidence": [
+        "oferă şansa liderilor să posede o gamă largă de calităţi prezente şi la bărbaţi, şi la femei"
+      ]
     },
     {
-      "q": "Ce stereotip poate descuraja accesul femeilor la funcții de conducere?",
+      "q": "Ce susțin Moloi și Bush că trebuie să însoțească încurajarea și pregătirea liderilor MEN, pentru ca profilul de leadership să corespundă diversității școlilor și comunităților?",
       "options": [
-        "asocierea conducerii cu analiza valorilor școlii",
-        "asocierea leadershipului cu dezvoltarea instituției",
-        "asocierea managementului școlar cu masculinitatea",
-        "asocierea predării la clasă cu profesionalismul"
+        "un proces de recrutare şi practici de selecţie schimbate.",
+        "un proces de recrutare şi practici de selecţie neschimbate.",
+        "un proces de recrutare şi practici de selecţie exclusiv informale.",
+        "un proces de recrutare şi practici de selecţie bazate pe stereotipuri."
       ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 45–46), răspunsul este „asocierea managementului școlar cu masculinitatea”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce pune în opoziție modelul managerial masculin descris de Al-Khalifa?",
-      "options": [
-        "cercetarea față de observarea empirică",
-        "controlul față de negociere și colaborare",
-        "creativitatea față de intuiție și grijă",
-        "viziunea față de scopurile instituției"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 45), răspunsul este „controlul față de negociere și colaborare”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce sugerează Wallace și Hall despre conducerea în echipă?",
-      "options": [
-        "dovedește că stilurile sunt exclusiv biologice",
-        "exclude atât colaborarea, cât și disciplina",
-        "poate încorpora calități asociate ambelor stiluri",
-        "trebuie rezervată unui singur gen al liderilor"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 46), răspunsul este „poate încorpora calități asociate ambelor stiluri”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Cum descrie Gray paradigma feminină a managementului școlar?",
-      "options": [
-        "competiție, reguli și disciplină",
-        "control, ierarhie și eficiență",
-        "grijă, creativitate și intuiție",
-        "patronaj, selecție și sancțiune"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 46), răspunsul este „grijă, creativitate și intuiție”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce concluzionează Coleman despre descriptorii de gen ai lui Gray?",
-      "options": [
-        "confirmă imposibilitatea conducerii de către femei",
-        "exclud combinarea unor calități din ambele paradigme",
-        "nu disting relevant între directorii femei și bărbați",
-        "stabilesc diferențe absolute între toate persoanele"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 47), răspunsul este „nu disting relevant între directorii femei și bărbați”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce problemă este mai puțin abordată decât genul în multe cercetări menționate?",
-      "options": [
-        "alocarea resurselor în organizațiile școlare",
-        "rasa și etnicitatea în leadershipul educațional",
-        "stabilirea scopurilor formale ale școlii",
-        "structura organizațională a instituției"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 47), răspunsul este „rasa și etnicitatea în leadershipul educațional”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce bariere întâlnesc profesorii din minorități etnice, potrivit studiilor citate?",
-      "options": [
-        "absența oricăror dificultăți după numirea în funcție",
-        "acces garantat la toate cursurile de pregătire",
-        "formare insuficient încurajată și selecție discriminatorie",
-        "promovare automată în toate pozițiile de leadership"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 47), răspunsul este „formare insuficient încurajată și selecție discriminatorie”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce recomandă Moloi și Bush pentru o conducere adecvată diversității?",
-      "options": [
-        "ignorarea profilului divers al școlii și comunității",
-        "încurajare, pregătire și schimbarea recrutării și selecției",
-        "menținerea neschimbată a selecției și promovării",
-        "restrângerea pregătirii pentru toate minoritățile"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 47), răspunsul este „încurajare, pregătire și schimbarea recrutării și selecției”.",
-      "kind": "Text"
+      "answer": 0,
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 47.</strong> Expresia din material: „un proces de recrutare şi practici de selecţie schimbate”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 47",
+      "page": "47",
+      "evidence": [
+        "un proces de recrutare şi practici de selecţie schimbate"
+      ]
     }
   ],
   "2.6": [
     {
-      "q": "De ce este necesară integrarea teoriilor de management în grupe?",
+      "q": "Care este lista completă a celor șase modele principale în care Bush clasifică teoriile de management educațional, potrivit enumerării din material?",
       "options": [
-        "există o singură teorie universal acceptată",
-        "fiecare model are un sens unic și complet distinct",
-        "modele similare au denumiri diferite și se suprapun",
-        "toate perspectivele sunt identice în orice detaliu"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 47–48), răspunsul este „modele similare au denumiri diferite și se suprapun”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Cum caracterizează Cuthbert studiul managementului în educație?",
-      "options": [
-        "o colecție de proceduri fără clasificări posibile",
-        "o disciplină izolată de orice altă sursă teoretică",
-        "o preocupare eclectică ce împrumută din discipline diverse",
-        "un sistem închis cu o singură categorie de modele"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 48), răspunsul este „o preocupare eclectică ce împrumută din discipline diverse”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Câte grupe de modele distinge Cuthbert în clasificarea sa?",
-      "options": [
-        "cinci grupe",
-        "două grupe",
-        "opt grupe",
-        "șase grupe"
+        "formal; colegial; politic; subiectiv; ambiguu; cultural.",
+        "formal; colegial; politic; subiectiv; ambiguu; managerial.",
+        "formal; colegial; politic; transformaţional; ambiguu; cultural.",
+        "formal; participativ; politic; subiectiv; ambiguu; cultural."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 48), răspunsul este „cinci grupe”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce termen preferă Bush în locul celui fenomenologic sau interacționist?",
-      "options": [
-        "ambiguu",
-        "colegial",
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 49.</strong> Expresia din material: „formal”; „colegial”; „politic”; „subiectiv”; „ambiguu”; „cultural”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 49",
+      "page": "49",
+      "evidence": [
         "formal",
-        "subiectiv"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 48), răspunsul este „subiectiv”.",
-      "kind": "Text"
+        "colegial",
+        "politic",
+        "subiectiv",
+        "ambiguu",
+        "cultural"
+      ]
     },
     {
-      "q": "Care este una dintre cele patru perspective ale lui Bolman și Deal?",
+      "q": "Care sunt cele patru „perspective sau cadre” ale lui Bolman și Deal, în clasificarea teoriilor prezentată comparativ în introducerea modelelor de management educațional?",
       "options": [
-        "cadrul structural",
-        "modelul circumstanțial",
-        "paradigma subiectivă",
-        "teoria instruirii"
+        "structural, al resursei umane, politic, simbolic.",
+        "structural, al resursei umane, politic, circumstanţial.",
+        "structural, al resursei umane, transformaţional, simbolic.",
+        "structural, al resursei financiare, politic, simbolic."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 48), răspunsul este „cadrul structural”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 48.</strong> Expresia din material: „structural, al resursei umane, politic, simbolic”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 48",
+      "page": "48",
+      "evidence": [
+        "structural, al resursei umane, politic, simbolic"
+      ]
     },
     {
-      "q": "Cu câte imagini sau metafore ale organizației lucrează Morgan în schema citată?",
+      "q": "Ce două motive sunt precizate pentru adăugarea unui capitol despre modelul cultural în a doua ediție a cărții, după identificarea inițială a numai cinci modele?",
       "options": [
-        "cinci imagini",
-        "opt imagini",
-        "patru imagini",
-        "șase imagini"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 48), răspunsul este „opt imagini”.",
-      "kind": "Text"
-    },
-    {
-      "q": "În câte modele principale clasifică Bush teoriile managementului educațional?",
-      "options": [
-        "cinci modele",
-        "opt modele",
-        "patru modele",
-        "șase modele"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 48–49), răspunsul este „șase modele”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Care este lista modelelor principale în clasificarea lui Bush?",
-      "options": [
-        "formal, colegial, politic, subiectiv, ambiguu, cultural",
-        "formal, ierarhic, birocratic, rațional, structural, sistemic",
-        "managerial, distribuit, moral, participativ, tranzacțional, emoțional",
-        "structural, simbolic, uman, financiar, politic, cultural"
+        "datorită importanţei în creştere a acestei abordări în literatură şi deoarece s‑au făcut cercetări empirice în şcolile din Marea Britanie şi în alte zone vorbitoare de limbă engleză.",
+        "datorită importanţei în scădere a acestei abordări în literatură şi deoarece s‑au încheiat cercetările empirice în şcolile din Marea Britanie şi în alte zone vorbitoare de limbă engleză.",
+        "datorită înlocuirii tuturor celorlalte abordări în literatură şi deoarece s‑au interzis cercetările empirice în şcolile din Marea Britanie şi în alte zone vorbitoare de limbă engleză.",
+        "datorită unificării tuturor teoriilor într‑o singură abordare şi deoarece s‑au abandonat cercetările empirice în şcolile din Marea Britanie şi în alte zone vorbitoare de limbă engleză."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 49), răspunsul este „formal, colegial, politic, subiectiv, ambiguu, cultural”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce model a fost adăugat începând cu a doua ediție a cărții?",
-      "options": [
-        "modelul colegial",
-        "modelul cultural",
-        "modelul formal",
-        "modelul politic"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 49), răspunsul este „modelul cultural”.",
-      "kind": "Text"
-    },
-    {
-      "q": "De ce a introdus Bush modelul cultural în ediția ulterioară?",
-      "options": [
-        "absența oricăror exemple din școli și colegii",
-        "importanța sa în literatură și existența cercetărilor empirice",
-        "înlocuirea completă a celorlalte cinci modele",
-        "renunțarea la modelul formal din prima ediție"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 49), răspunsul este „importanța sa în literatură și existența cercetărilor empirice”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 49.</strong> Expresia din material: „datorită importanţei în creştere a acestei abordări în literatură şi deoarece s‑au făcut cercetări empirice în şcolile din Marea Britanie şi în alte zone vorbitoare de limbă engleză”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 49",
+      "page": "49",
+      "evidence": [
+        "datorită importanţei în creştere a acestei abordări în literatură şi deoarece s‑au făcut cercetări empirice în şcolile din Marea Britanie şi în alte zone vorbitoare de limbă engleză"
+      ]
     }
   ],
   "2.6.1": [
     {
-      "q": "Care sunt cele patru dimensiuni de comparație a modelelor la Bush?",
+      "q": "Ce distincție privind scopurile este folosită în analiza celor șase modele, în raport cu primul dintre cele patru elemente majore de diferențiere a teoriilor?",
       "options": [
-        "bugetul, curriculumul, inspecția și examinarea",
-        "obiectivele, structura, mediul extern și leadershipul",
-        "predarea, învățarea, evaluarea și certificarea",
-        "viziunea, valorile, resursele și piața"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 49–50), răspunsul este „obiectivele, structura, mediul extern și leadershipul”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce întrebare privește prima dimensiune a analizei modelelor?",
-      "options": [
-        "nivelul de concordanță asupra scopurilor instituției",
-        "nivelul de finanțare al fiecărei școli",
-        "numărul de programe de dezvoltare profesională",
-        "numărul de structuri administrative din sistem"
+        "unele evidenţiază ţintele organizaţionale, în timp ce altele se concentrează asupra scopurilor individuale.",
+        "unele evidenţiază exclusiv ţintele financiare, în timp ce altele se concentrează asupra procedurilor administrative.",
+        "unele evidenţiază numai ţintele naţionale, în timp ce altele se concentrează asupra rezultatelor internaţionale.",
+        "unele evidenţiază exclusiv ţintele directorului, în timp ce altele se concentrează asupra intereselor ministeriale."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 49), răspunsul este „nivelul de concordanță asupra scopurilor instituției”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 49.</strong> Expresia din material: „unele evidenţiază ţintele organizaţionale, în timp ce altele se concentrează asupra scopurilor individuale”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 49",
+      "page": "49",
+      "evidence": [
+        "unele evidenţiază ţintele organizaţionale, în timp ce altele se concentrează asupra scopurilor individuale"
+      ]
     },
     {
-      "q": "Cum diferă modelele în privința obiectivelor?",
+      "q": "Ce consecință a evidențierii structurii este pusă în contrast cu ideea că personalitatea predomină în determinarea comportamentului, în analiza modelelor?",
       "options": [
-        "toate elimină obiectivele individuale ale membrilor",
-        "toate presupun același consens asupra scopurilor",
-        "toate stabilesc scopuri clare în afara școlii",
-        "unele văd concordanță, altele conflict sau dificultatea definirii"
+        "O evidenţiere a structurii conduce la ideea că indivizii sunt definiţi prin rolul lor.",
+        "O evidenţiere a structurii conduce la ideea că indivizii sunt definiţi prin preferinţele lor.",
+        "O evidenţiere a structurii conduce la ideea că indivizii sunt definiţi prin emoţiile lor.",
+        "O evidenţiere a structurii conduce la ideea că indivizii sunt definiţi prin aspiraţiile lor."
       ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 49), răspunsul este „unele văd concordanță, altele conflict sau dificultatea definirii”.",
-      "kind": "Text"
+      "answer": 0,
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 49.</strong> Expresia din material: „O evidenţiere a structurii conduce la ideea că indivizii sunt definiţi prin rolul lor”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 49",
+      "page": "49",
+      "evidence": [
+        "O evidenţiere a structurii conduce la ideea că indivizii sunt definiţi prin rolul lor"
+      ]
     },
     {
-      "q": "Ce întrebare privește a doua dimensiune a analizei?",
+      "q": "Care sunt al treilea și al patrulea element major folosit pentru a distinge între modele, alături de concordanța asupra scopurilor și de sensul și validitatea structurilor?",
       "options": [
-        "calitatea unui program de formare extern",
-        "costul resurselor distribuite școlilor",
-        "numărul de rezultate măsurabile ale elevilor",
-        "sensul și validitatea structurii instituției"
+        "Relaţia dintre instituţie şi mediul său exterior; Cele mai adecvate strategii de leadership pentru instituţiile educaţionale.",
+        "Relaţia dintre instituţie şi dimensiunea bugetului său; Cele mai adecvate proceduri de contabilitate pentru instituţiile educaţionale.",
+        "Relaţia dintre instituţie şi vechimea personalului său; Cele mai adecvate metode de clasificare pentru instituţiile educaţionale.",
+        "Relaţia dintre instituţie şi numărul elevilor săi; Cele mai adecvate forme de raportare pentru instituţiile educaţionale."
       ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 49), răspunsul este „sensul și validitatea structurii instituției”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Cum contrastează Hoyle concentrarea asupra structurii cu cea asupra oamenilor?",
-      "options": [
-        "directorul stabilește singur obiective versus profesorii le măsoară",
-        "mediul extern impune scopuri versus bugetul le înlocuiește",
-        "rolurile definesc indivizii versus personalitatea le determină comportamentul",
-        "valorile sunt cuantificate versus rezultatele rămân nemăsurabile"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 49), răspunsul este „rolurile definesc indivizii versus personalitatea le determină comportamentul”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Cum poate fi înțeleasă structura în diferitele modele?",
-      "options": [
-        "doar organigramă identică în toate organizațiile",
-        "doar regulă independentă de orice interpretare",
-        "doar rezultat al unei măsurători financiare",
-        "fapt obiectiv, creație subiectivă, obiect de negociere sau ambiguitate"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 49–50), răspunsul este „fapt obiectiv, creație subiectivă, obiect de negociere sau ambiguitate”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce analizează a treia dimensiune a comparației?",
-      "options": [
-        "procentul personalului înscris la formare",
-        "raportul dintre profesor și disciplina predată",
-        "relația instituției cu mediul exterior",
-        "succesiunea etapelor unei lecții obișnuite"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 50), răspunsul este „relația instituției cu mediul exterior”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Cum diferă modelele în descrierea contactelor externe?",
-      "options": [
-        "de la absența oricărui mediu la izolarea totală a școlii",
-        "de la curriculumul național la eliminarea comunității",
-        "de la director ca principal contact la o paletă largă de contacte",
-        "de la o structură obiectivă la o structură financiară"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 50), răspunsul este „de la director ca principal contact la o paletă largă de contacte”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce privește a patra dimensiune a analizei?",
-      "options": [
-        "durata programelor de pregătire profesională",
-        "modalitatea de arhivare a documentelor",
-        "strategiile de leadership adecvate instituției",
-        "tipul de examen susținut de elevi"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 50), răspunsul este „strategiile de leadership adecvate instituției”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce rol poate primi directorul în modelele ce evidențiază conflictul?",
-      "options": [
-        "rol de executant al unei teorii unice",
-        "rol de negociator al intereselor din instituție",
-        "rol de observator lipsit de orice influență",
-        "rol exclusiv de distribuitor al bugetului"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 50), răspunsul este „rol de negociator al intereselor din instituție”.",
-      "kind": "Text"
+      "answer": 0,
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 50.</strong> Expresia din material: „Relaţia dintre instituţie şi mediul său exterior”; „Cele mai adecvate strategii de leadership pentru instituţiile educaţionale”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 50",
+      "page": "50",
+      "evidence": [
+        "Relaţia dintre instituţie şi mediul său exterior",
+        "Cele mai adecvate strategii de leadership pentru instituţiile educaţionale"
+      ]
     }
   ],
   "2.7": [
     {
-      "q": "Ce au realizat Leithwood, Jantzi și Steinbach pentru tipologia leadershipului?",
+      "q": "Ce trei modele de leadership sunt asociate modelului de management colegial în tabelul 2.1, care pune în corespondență modelele de management și de leadership?",
       "options": [
-        "au eliminat toate modelele din literatura educațională",
-        "au identificat șase modele analizând 121 de articole",
-        "au identificat zece modele dintr-un singur studiu de caz",
-        "au înlocuit teoriile de management cu un model unic"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 50–51), răspunsul este „au identificat șase modele analizând 121 de articole”.",
-      "kind": "Text"
-    },
-    {
-      "q": "La câte modele au extins Bush și Glover tipologia anterioară?",
-      "options": [
-        "cinci modele",
-        "opt modele",
-        "patru modele",
-        "șase modele"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 51), răspunsul este „opt modele”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Câte modele de leadership distinge tabelul comparativ al lui Bush?",
-      "options": [
-        "cinci modele",
-        "opt modele",
-        "șase modele",
-        "zece modele"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 51), răspunsul este „zece modele”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce leadership este asociat modelului de management formal?",
-      "options": [
-        "leadershipul managerial",
-        "leadershipul moral",
-        "leadershipul participativ",
-        "leadershipul tranzacțional"
+        "Participativ; Transformaţional; Distribuit.",
+        "Participativ; Tranzacţional; Distribuit.",
+        "Participativ; Transformaţional; Circumstanţial.",
+        "Managerial; Transformaţional; Distribuit."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 51), răspunsul este „leadershipul managerial”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 51.</strong> Expresia din material: „Participativ”; „Transformaţional”; „Distribuit”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 51",
+      "page": "51",
+      "evidence": [
+        "Participativ",
+        "Transformaţional",
+        "Distribuit"
+      ]
     },
     {
-      "q": "Care set de leadershipuri este asociat modelului colegial?",
+      "q": "Ce două modele de leadership sunt asociate modelului de management subiectiv în tabelul 2.1, spre deosebire de asocierea modelului formal cu leadershipul managerial?",
       "options": [
-        "managerial, circumstanțial și moral",
-        "participativ, transformațional și distribuit",
-        "postmodern, emoțional și tranzacțional",
-        "strategic, antreprenorial și poetic"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 51), răspunsul este „participativ, transformațional și distribuit”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce tip de leadership corespunde modelului politic în tabelul 2.1?",
-      "options": [
-        "leadershipul circumstanțial",
-        "leadershipul managerial",
-        "leadershipul moral",
-        "leadershipul tranzacțional"
-      ],
-      "answer": 3,
-      "feedback": "În capitolul II (p. 51), răspunsul este „leadershipul tranzacțional”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce două tipuri de leadership sunt puse lângă modelul subiectiv?",
-      "options": [
-        "managerial și moral",
-        "participativ și distribuit",
-        "postmodern și emoțional",
-        "tranzacțional și circumstanțial"
-      ],
-      "answer": 2,
-      "feedback": "În capitolul II (p. 51), răspunsul este „postmodern și emoțional”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce tip de leadership este asociat modelului de ambiguitate?",
-      "options": [
-        "circumstanțial",
-        "distribuit",
-        "managerial",
-        "transformațional"
+        "Postmodern; Emoţional.",
+        "Postmodern; Moral.",
+        "Tranzacţional; Emoţional.",
+        "Circumstanţial; Moral."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 51), răspunsul este „circumstanțial”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 51.</strong> Expresia din material: „Postmodern”; „Emoţional”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 51",
+      "page": "51",
+      "evidence": [
+        "Postmodern",
+        "Emoţional"
+      ]
     },
     {
-      "q": "De ce leadershipul instruirii nu este legat de un model de management din tabel?",
+      "q": "De ce leadershipul instruirii nu se leagă de niciun model de management, potrivit explicației care urmează tabelului tipologiei modelelor de management și leadership?",
       "options": [
-        "privește direcția influenței spre predare și învățare",
-        "privește doar semnificațiile personale ale elevilor",
-        "privește exclusiv negocierea dintre grupurile școlii",
-        "privește numai autoritatea formală a directorului"
+        "se concentrează asupra direcţiei influenţării, învăţării şi predării, şi nu asupra naturii proceselor de influenţă.",
+        "se concentrează asupra naturii proceselor de influenţă, şi nu asupra direcţiei influenţării, învăţării şi predării.",
+        "se concentrează asupra poziţiei directorului, ierarhiei şi controlului, şi nu asupra modului de organizare a predării.",
+        "se concentrează asupra alocării resurselor, finanţării şi raportării, şi nu asupra învăţării în cadrul instituţiilor educaţionale."
       ],
       "answer": 0,
-      "feedback": "În capitolul II (p. 51), răspunsul este „privește direcția influenței spre predare și învățare”.",
-      "kind": "Text"
-    },
-    {
-      "q": "Ce tip de leadership este asociat modelului cultural în tabel?",
-      "options": [
-        "leadershipul managerial",
-        "leadershipul moral",
-        "leadershipul postmodern",
-        "leadershipul tranzacțional"
-      ],
-      "answer": 1,
-      "feedback": "În capitolul II (p. 51), răspunsul este „leadershipul moral”.",
-      "kind": "Text"
+      "feedback": "<strong>Tony Bush, Leadership şi management educaţional, capitolul II, p. 51.</strong> Expresia din material: „se concentrează asupra direcţiei influenţării, învăţării şi predării, şi nu asupra naturii proceselor de influenţă”.",
+      "kind": "Textul materialului",
+      "source": "Tony Bush, Leadership şi management educaţional, capitolul II, p. 51",
+      "page": "51",
+      "evidence": [
+        "se concentrează asupra direcţiei influenţării, învăţării şi predării, şi nu asupra naturii proceselor de influenţă"
+      ]
     }
   ]
 };
-  for(const module of window.MODULES){
-    if(Object.prototype.hasOwnProperty.call(sets,module.id)) module.questions=sets[module.id];
-  }
+for(const module of window.MODULES||[]){
+ if(!sections[module.id])continue;
+ module.questions=sections[module.id];
+ module.quizTitle=module.id+' · '+module.title+' · 3 itemi';
+}
 })();
